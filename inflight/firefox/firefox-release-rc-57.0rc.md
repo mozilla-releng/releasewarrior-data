@@ -27,8 +27,8 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](http://bugzilla/none)        | funsize-update-generator docker image (ZhhoQjUdSauGrCMc2QEMNA) hit a hang while installing packages, reran | False | True |
-| jlund  | 2 | [bug none](http://bugzilla/none)        | rerun all failed UV tasks via aki's braindump tc-filter.py | False | True |
+| nthomas  | 1 | [bug none](http://bugzilla/none)        | funsize-update-generator docker image (ZhhoQjUdSauGrCMc2QEMNA) hit a hang while installing packages, reran | True | True |
+| jlund  | 2 | [bug none](http://bugzilla/none)        | rerun all failed UV tasks via aki's braindump tc-filter.py | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 

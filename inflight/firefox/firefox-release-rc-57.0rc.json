@@ -68,14 +68,14 @@
                     "bug": "none",
                     "description": "funsize-update-generator docker image (ZhhoQjUdSauGrCMc2QEMNA) hit a hang while installing packages, reran",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
                     "bug": "none",
                     "description": "rerun all failed UV tasks via aki's braindump tc-filter.py",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
