@@ -26,7 +26,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](http://bugzilla/none)        | 55.0.3 partial left out of ship-it, fix that in build3 | False | True |
+| nthomas  | 1 | [bug none](http://bugzilla/none)        | 55.0.3 partial left out of ship-it, fix that in build3 | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
