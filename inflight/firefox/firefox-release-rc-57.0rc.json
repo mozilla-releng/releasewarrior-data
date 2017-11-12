@@ -16,6 +16,12 @@
                 },
                 {
                     "alias": "",
+                    "description": "re-apply release-localtest patcher fixes that automation wrote over",
+                    "docs": "https://hg.mozilla.org/build/tools/pushloghtml\\?fromchange\\=085f6a772dad\\&tochange\\=59f08d95025a",
+                    "resolved": false
+                },
+                {
+                    "alias": "",
                     "description": "after artifacts complete, create wnp and win64 migration blobs",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1413645#c4",
                     "resolved": true
