@@ -59,6 +59,12 @@
                 "deadline": "2017-11-05",
                 "description": "Verify that the release patch has landed and reconfigured",
                 "resolved": false
+            },
+            {
+                "bug": "1397721",
+                "deadline": "2017-11-05",
+                "description": "sanity check change: Cross-Channel L10n new in this release, should use l10n-central repo",
+                "resolved": false
             }
         ]
     },
