@@ -53,7 +53,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1397721",
+                "deadline": "2017-11-05",
+                "description": "Verify that the release patch has landed and reconfigured",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "57.0rc"
