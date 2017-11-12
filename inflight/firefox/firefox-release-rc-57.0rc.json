@@ -62,35 +62,35 @@
                     "bug": "none",
                     "description": "win32 EME repacks (LH5h1BHURBuFZuQ87yt4kg) had a '3600 seconds without output' hang, rerun",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
                     "bug": "none",
                     "description": "release update verify 4,5,6,7,8/12 failed due to expecting 56.0 to be offered 57.0 instead of 56.0.2. We need to set up release-localtest",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
                     "bug": "1415276",
                     "description": "Unable to publish to beta channel: KeyError: 'bz2_blob_suffix'",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 },
                 {
                     "bug": "1415172",
                     "description": "need to back out because chunked update verify doesn't support multiple 'to' versions in the same config",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 },
                 {
                     "bug": "1415557",
                     "description": "fix up OS and SYSTEM_CAPABILITIES for update verify",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
