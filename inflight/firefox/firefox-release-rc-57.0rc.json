@@ -65,6 +65,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "1415276",
+                    "description": "Unable to publish to beta channel: KeyError: 'bz2_blob_suffix'",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         }

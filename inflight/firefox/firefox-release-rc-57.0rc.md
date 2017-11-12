@@ -27,4 +27,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug none](http://bugzilla/none)        | win32 EME repacks (LH5h1BHURBuFZuQ87yt4kg) had a '3600 seconds without output' hang, rerun | False | True |
 | nthomas  | 2 | [bug none](http://bugzilla/none)        | release update verify 4,5,6,7,8/12 failed due to expecting 56.0 to be offered 57.0 instead of 56.0.2. We need to set up release-localtest | False | True |
+| callek  | 3 | [bug 1415276](http://bugzilla/1415276)        | Unable to publish to beta channel: KeyError: 'bz2_blob_suffix' | False | True |
 
