@@ -70,6 +70,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "description": "rerun all failed UV tasks via aki's braindump tc-filter.py",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         },
