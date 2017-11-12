@@ -72,6 +72,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "callek"
+                },
+                {
+                    "bug": "1415172",
+                    "description": "need to back out because chunked update verify doesn't support multiple 'to' versions in the same config",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         }
