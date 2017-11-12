@@ -15,6 +15,12 @@
                     "resolved": true
                 },
                 {
+                    "alias": "",
+                    "description": "after artifacts complete, create wnp and win64 migration blobs",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1413645#c4",
+                    "resolved": false
+                },
+                {
                     "alias": "beta",
                     "description": "publish in Balrog on beta channel",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release",
