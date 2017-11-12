@@ -79,6 +79,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "1415557",
+                    "description": "fix up OS and SYSTEM_CAPABILITIES for update verify",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         }
