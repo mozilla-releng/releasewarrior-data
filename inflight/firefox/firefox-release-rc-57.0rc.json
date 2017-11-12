@@ -57,7 +57,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "55.0.3 partial left out of ship-it, fix that in build3",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ]
         },
         {
             "aborted": true,
