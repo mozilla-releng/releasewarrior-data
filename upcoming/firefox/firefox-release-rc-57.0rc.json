@@ -65,6 +65,12 @@
                 "deadline": "2017-11-05",
                 "description": "sanity check change: Cross-Channel L10n new in this release, should use l10n-central repo",
                 "resolved": false
+            },
+            {
+                "bug": "1402411",
+                "deadline": "2017-11-06",
+                "description": "Block updates for users with old JAWS software using the 'JAWS Screen Reader Compatibility' boolean on Balrog rules",
+                "resolved": false
             }
         ]
     },
