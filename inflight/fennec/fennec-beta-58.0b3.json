@@ -16,7 +16,7 @@
                     "alias": "candidates",
                     "description": "emailed candidates",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "pushapk",
