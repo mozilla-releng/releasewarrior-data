@@ -16,19 +16,19 @@
                     "alias": "candidates",
                     "description": "emailed candidates",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "pushapk",
                     "description": "run pushapk",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
                     "description": "published release tasks",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": []
