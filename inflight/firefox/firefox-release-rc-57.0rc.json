@@ -18,37 +18,37 @@
                     "alias": "",
                     "description": "re-apply release-localtest patcher fixes that automation wrote over",
                     "docs": "https://hg.mozilla.org/build/tools/pushloghtml\\?fromchange\\=085f6a772dad\\&tochange\\=59f08d95025a",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "",
                     "description": "after artifacts complete, create wnp and win64 migration blobs",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1413645#c4",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "beta",
                     "description": "publish in Balrog on beta channel",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "betasignoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "wnp",
                     "description": "setup whatsnew page",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Set-up_whatsnew_page",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
