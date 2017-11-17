@@ -1,6 +1,6 @@
 # fennec 58.0b6
 
-### Date of go-to-build: 11-27
+### Date of go-to-build: 2017-11-27
 
 ## Preflight tasks (pre go-to-build)
 - none
