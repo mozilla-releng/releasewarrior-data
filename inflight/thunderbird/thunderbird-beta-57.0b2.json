@@ -38,6 +38,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "1389312",
+                    "description": "scheduling change in Balrog fails (wrong api), do it manually",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         }

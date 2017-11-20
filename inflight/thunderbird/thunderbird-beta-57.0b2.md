@@ -21,4 +21,5 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1418725](http://bugzilla/1418725)        | update and final verify failures due to two sets of complete and partial data for win32 fr & it | True | False |
+| nthomas  | 2 | [bug 1389312](http://bugzilla/1389312)        | scheduling change in Balrog fails (wrong api), do it manually | False | True |
 
