@@ -16,19 +16,19 @@
                     "alias": "publish",
                     "description": "publish release tasks",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Publish_in_Balrog",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "postrelease",
                     "description": "run postrelease tasks",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
