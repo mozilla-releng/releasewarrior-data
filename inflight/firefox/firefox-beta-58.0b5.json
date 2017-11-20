@@ -27,7 +27,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1416053",
+                    "description": "58.0 betas - No partial update offered for new locale ne-NP, patch is up",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {
