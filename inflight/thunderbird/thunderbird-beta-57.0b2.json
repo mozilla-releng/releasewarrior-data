@@ -35,8 +35,8 @@
                 {
                     "bug": "1418725",
                     "description": "update and final verify failures due to two sets of complete and partial data for win32 fr & it",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]

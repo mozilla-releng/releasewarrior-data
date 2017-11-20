@@ -20,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug 1418725](http://bugzilla/1418725)        | update and final verify failures due to two sets of complete and partial data for win32 fr & it | False | True |
+| nthomas  | 1 | [bug 1418725](http://bugzilla/1418725)        | update and final verify failures due to two sets of complete and partial data for win32 fr & it | True | False |
 
