@@ -15,6 +15,12 @@
                     "resolved": true
                 },
                 {
+                    "alias": "",
+                    "description": "add SSL updates for 58.0b1 --> 58.0b5",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1419189",
+                    "resolved": false
+                },
+                {
                     "alias": "publish",
                     "description": "publish release tasks",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release",
