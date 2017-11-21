@@ -19,5 +19,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1416053](http://bugzilla/1416053)        | 58.0 betas - No partial update offered for new locale ne-NP, patch is up | False | True |
+| jlund  | 1 | [bug 1416053](http://bugzilla/1416053)        | 58.0 betas - No partial update offered for new locale ne-NP, patch is up | True | True |
 
