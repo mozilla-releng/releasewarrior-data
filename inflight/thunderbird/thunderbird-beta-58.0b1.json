@@ -31,7 +31,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Problem getting the right subset of bug 1410475 landed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ]
         }
     ],
     "preflight": {

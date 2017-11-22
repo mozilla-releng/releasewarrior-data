@@ -20,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug none](http://bugzilla/none)        | Problem getting the right subset of bug 1410475 landed | False | True |
 
