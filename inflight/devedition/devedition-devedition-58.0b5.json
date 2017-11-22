@@ -18,7 +18,7 @@
                     "alias": "",
                     "description": "add SSL updates for 58.0b1 --> 58.0b5",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1419189",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
@@ -30,7 +30,7 @@
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": []
