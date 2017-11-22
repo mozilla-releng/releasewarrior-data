@@ -1,0 +1,188 @@
+{
+    "complete_releases": [
+        {
+            "date": "2017-11-12",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "funsize-update-generator docker image (ZhhoQjUdSauGrCMc2QEMNA) hit a hang while installing packages, reran",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "55.0.3 partial left out of ship-it, fix that in build3",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "win32 EME repacks (LH5h1BHURBuFZuQ87yt4kg) had a '3600 seconds without output' hang, rerun",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "rerun all failed UV tasks via aki's braindump tc-filter.py",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "release update verify 4,5,6,7,8/12 failed due to expecting 56.0 to be offered 57.0 instead of 56.0.2. We need to set up release-localtest",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1415276",
+                    "buildnum": 1,
+                    "description": "Unable to publish to beta channel: KeyError: 'bz2_blob_suffix'",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1415172",
+                    "buildnum": 1,
+                    "description": "need to back out because chunked update verify doesn't support multiple 'to' versions in the same config",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "1415557",
+                    "buildnum": 1,
+                    "description": "fix up OS and SYSTEM_CAPABILITIES for update verify",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "57.0rc"
+        },
+        {
+            "date": "2017-11-14",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "use releasewarrior 1.0 for notes on issues",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "58.0b3"
+        },
+        {
+            "date": "2017-11-14",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "57.0"
+        },
+        {
+            "date": "2017-11-15",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "use releasewarrior 1.0 for notes on issues",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b4"
+        },
+        {
+            "date": "2017-11-15",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "use releasewarrior 1.0 for notes on issues",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b4"
+        },
+        {
+            "date": "2017-11-17",
+            "future_threats": [
+                {
+                    "bug": "1389312",
+                    "buildnum": 1,
+                    "description": "scheduling change in Balrog fails (wrong api), do it manually",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": "1418725",
+                    "buildnum": 1,
+                    "description": "update and final verify failures due to two sets of complete and partial data for win32 fr & it",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "57.0b2"
+        },
+        {
+            "date": "2017-11-20",
+            "future_threats": [
+                {
+                    "bug": "1416053",
+                    "buildnum": 1,
+                    "description": "58.0 betas - No partial update offered for new locale ne-NP, patch is up",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b5"
+        },
+        {
+            "date": "2017-11-20",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b5"
+        },
+        {
+            "date": "2017-11-20",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "58.0b5"
+        }
+    ],
+    "date": "2017-11-22"
+}
