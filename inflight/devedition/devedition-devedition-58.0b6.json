@@ -31,8 +31,8 @@
                 {
                     "bug": "1419189",
                     "description": "Update verify failures because of the 58.0b1 --> 58.0b5 via SSL special case",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
