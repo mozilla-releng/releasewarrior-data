@@ -20,7 +20,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](http://bugzilla/none)        | Problem getting the right subset of bug 1410475 landed | False | True |
+| nthomas  | 1 | [bug none](http://bugzilla/none)        | Problem getting the right subset of bug 1410475 landed | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

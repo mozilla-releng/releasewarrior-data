@@ -35,9 +35,9 @@
                 {
                     "bug": "none",
                     "description": "Problem getting the right subset of bug 1410475 landed",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
