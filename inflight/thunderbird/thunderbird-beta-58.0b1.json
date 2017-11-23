@@ -31,16 +31,7 @@
                     "resolved": false
                 }
             ],
-            "issues": [
-                {
-                    "bug": "none",
-                    "description": "Problem getting the right subset of bug 1410475 landed",
-                    "future_threat": false,
-                    "id": 1,
-                    "resolved": true,
-                    "who": "nthomas"
-                }
-            ]
+            "issues": []
         },
         {
             "aborted": true,
@@ -76,8 +67,8 @@
                 {
                     "bug": "none",
                     "description": "Problem getting the right subset of bug 1410475 landed",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
