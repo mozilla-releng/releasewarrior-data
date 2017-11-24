@@ -19,5 +19,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| sfraser  | 1 | [bug none](http://bugzilla/none)        | publish to balrog task failed, edit and recreated as Bi-7mcMJQ-a4_DlquKDhyg  | False | True |
 

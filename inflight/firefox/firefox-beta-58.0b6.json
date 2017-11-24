@@ -27,7 +27,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "publish to balrog task failed, edit and recreated as Bi-7mcMJQ-a4_DlquKDhyg ",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "sfraser"
+                }
+            ]
         }
     ],
     "preflight": {
