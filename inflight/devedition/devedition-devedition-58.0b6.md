@@ -20,4 +20,5 @@
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1419189](http://bugzilla/1419189)        | Update verify failures because of the 58.0b1 --> 58.0b5 via SSL special case | True | False |
+| sfraser  | 2 | [bug none](http://bugzilla/none)        | publish to balrog task failed, edit and recreated as VoIHvlXNSnKeyh3NFewKWQ | False | True |
 

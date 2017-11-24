@@ -34,6 +34,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "description": "publish to balrog task failed, edit and recreated as VoIHvlXNSnKeyh3NFewKWQ",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "sfraser"
                 }
             ]
         }
