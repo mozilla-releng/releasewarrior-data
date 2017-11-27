@@ -35,8 +35,8 @@
                 {
                     "bug": "1420536 ",
                     "description": "Delete https://archive.mozilla.org/pub/thunderbird/releases/58.0b1/ and purge CDN caches",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]

@@ -20,7 +20,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug 1420536 ](http://bugzilla/1420536 )        | Delete https://archive.mozilla.org/pub/thunderbird/releases/58.0b1/ and purge CDN caches | False | True |
+| nthomas  | 1 | [bug 1420536 ](http://bugzilla/1420536 )        | Delete https://archive.mozilla.org/pub/thunderbird/releases/58.0b1/ and purge CDN caches | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
