@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-02-05
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-02-04 - [bug 1421346](http://bugzilla/1421346): Talk to RelMan to see if it's the right time to turn off staged rollout on beta
 
 ## Build 1  
 
