@@ -24,13 +24,13 @@
                     "alias": "pushapk",
                     "description": "run pushapk",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
                     "description": "published release tasks",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": []
