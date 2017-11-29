@@ -33,7 +33,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1421477",
+                    "description": "'Error: Error decrypting message: No key or password specified.' in funsize publish and beetmover tasks",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ]
         }
     ],
     "preflight": {

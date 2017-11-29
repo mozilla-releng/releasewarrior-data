@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug 1421477](http://bugzilla/1421477)        | 'Error: Error decrypting message: No key or password specified.' in funsize publish and beetmover tasks | False | True |
 
