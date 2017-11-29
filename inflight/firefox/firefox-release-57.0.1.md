@@ -21,7 +21,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1421535](http://bugzilla/1421535)        | UV tasks failing. localtest/cdntest pointed to old 57.0 wnp blobs rather than 57.0.1. Updated 4 wnp rules in both local and cdntest. Still failing. Need the special hack to query balrog properly, rerunning with that | False | True |
+| jlund  | 1 | [bug 1421535](http://bugzilla/1421535)        | UV tasks failing. localtest/cdntest pointed to old 57.0 wnp blobs rather than 57.0.1. Updated 4 wnp rules in both local and cdntest. Still failing. Need the special hack to query balrog properly, rerunning with that | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
