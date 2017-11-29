@@ -18,13 +18,13 @@
                     "alias": "wnp",
                     "description": "setup whatsnew page",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Set-up_whatsnew_page",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
