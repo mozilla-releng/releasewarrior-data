@@ -32,7 +32,7 @@
                     "bug": "none",
                     "description": "Funsize docker image failed, reran task manually",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]

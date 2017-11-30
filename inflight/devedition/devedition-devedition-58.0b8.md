@@ -19,5 +19,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Release Unblocked       | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug none](https://bugzil.la/none)        | Funsize docker image failed, reran task manually | False | True |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Funsize docker image failed, reran task manually | True | True |
 
