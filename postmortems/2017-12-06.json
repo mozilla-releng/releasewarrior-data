@@ -38,6 +38,22 @@
             "product": "fennec",
             "resolved": [],
             "version": "57.0.1"
+        },
+        {
+            "date": "2017-11-28",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1421477",
+                    "buildnum": 1,
+                    "description": "'Error: Error decrypting message: No key or password specified.' in funsize publish and beetmover tasks",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "52.5.1esr"
         }
     ],
     "date": "2017-12-06"
