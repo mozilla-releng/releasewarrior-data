@@ -19,6 +19,12 @@
                     "resolved": false
                 },
                 {
+                    "alias": "",
+                    "description": "after candidates are complete, create wnp blobs for the four rules in both localtest and cdntest. Patch Patcher configs for update verify to pass, rerun any failed update verify tasks that missed this fix in mean time.",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c5",
+                    "resolved": false
+                },
+                {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors",
