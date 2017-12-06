@@ -5,7 +5,24 @@
 ## Preflight tasks (pre go-to-build)
 - none
 
-## Build 1  
+## Build 2  
+
+### Graphs
+[task group](https://tools.taskcluster.net/push-inspector/#/c3ez9CQTRa2IJv_WTOOMdw)
+
+
+#### Status
+- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
+- [ ] 2.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors)  - pushed to mirrors/releases
+- [ ] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release)  - publish release tasks
+- [ ] 4.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs)  - signoff in Balrog
+
+### Issues
+| Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
+| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
+| none | | | | | |
+
+## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/ISOjLNumT_iXi5GinSOGRw)
