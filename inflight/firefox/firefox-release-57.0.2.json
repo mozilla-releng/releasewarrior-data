@@ -49,8 +49,8 @@
                 {
                     "bug": "none",
                     "description": "repack bbb task YvH9LOYBSam7sKOWPiA3Bg spot instance killed while running desktop_l10n.py reran",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
