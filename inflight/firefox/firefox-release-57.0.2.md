@@ -20,7 +20,7 @@
 - [ ] 6.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs)  - signoff in Balrog
 
 ### Issues
-| Who                 | ID               | Bug                                                                 | Description                | Release Unblocked       | Future Threat                |
+| Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1423663](https://bugzil.la/1423663)        | Docker generation for ubuntu:vivid distro failing due to EOL of vivid. Affected funsize and beetmover. Pushed a fix to repos. | False | True |
 

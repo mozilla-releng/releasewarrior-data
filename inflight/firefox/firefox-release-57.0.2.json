@@ -45,7 +45,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1423663",
+                    "description": "Docker generation for ubuntu:vivid distro failing due to EOL of vivid. Affected funsize and beetmover. Pushed a fix to repos.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
