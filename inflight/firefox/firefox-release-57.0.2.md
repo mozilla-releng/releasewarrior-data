@@ -22,7 +22,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | repack bbb task YvH9LOYBSam7sKOWPiA3Bg spot instance killed while running desktop_l10n.py reran | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
