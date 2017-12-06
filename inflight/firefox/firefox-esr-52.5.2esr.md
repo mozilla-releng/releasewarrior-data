@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1423663](https://bugzil.la/1423663)        | Docker generation for ubuntu:vivid distro failing due to EOL of vivid. Affected funsize and beetmover.Pushed a fix to repos. | False | True |
+| callek  | 1 | [bug 1423663](https://bugzil.la/1423663)        | Docker generation for ubuntu:vivid distro failing due to EOL of vivid. Affected funsize and beetmover.Pushed a fix to repos. | True | False |
 
