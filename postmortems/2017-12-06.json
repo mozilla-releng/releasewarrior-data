@@ -54,6 +54,50 @@
                 }
             ],
             "version": "52.5.1esr"
+        },
+        {
+            "date": "2017-11-30",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b8"
+        },
+        {
+            "date": "2017-11-30",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Funsize docker image failed, reran task manually",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b8"
+        },
+        {
+            "date": "2017-12-04",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b9"
+        },
+        {
+            "date": "2017-12-04",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b9"
+        },
+        {
+            "date": "2017-12-04",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "58.0b9"
         }
     ],
     "date": "2017-12-06"
