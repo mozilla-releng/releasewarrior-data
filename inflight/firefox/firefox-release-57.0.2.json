@@ -18,13 +18,13 @@
                     "alias": "wnp",
                     "description": "setup whatsnew page",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Set-up_whatsnew_page",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "",
                     "description": "after candidates are complete, create wnp blobs for the four rules in both localtest and cdntest. Patch Patcher configs for update verify to pass, rerun any failed update verify tasks that missed this fix in mean time.",
-                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c5",
-                    "resolved": false
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c6",
+                    "resolved": true
                 },
                 {
                     "alias": "mirrors",
