@@ -32,7 +32,7 @@
                     "bug": "none",
                     "description": "hang cloning l10n repo in mac l10 repack M90RGbtsQ7eEdVjq2ybRFg",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]

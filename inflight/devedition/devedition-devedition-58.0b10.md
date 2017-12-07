@@ -19,5 +19,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](https://bugzil.la/none)        | hang cloning l10n repo in mac l10 repack M90RGbtsQ7eEdVjq2ybRFg | False | True |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | hang cloning l10n repo in mac l10 repack M90RGbtsQ7eEdVjq2ybRFg | True | True |
 
