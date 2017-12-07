@@ -30,7 +30,7 @@
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
