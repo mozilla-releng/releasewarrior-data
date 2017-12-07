@@ -17,7 +17,7 @@
 - [x] 3.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c6)  - after candidates are complete, create wnp blobs for the four rules in both localtest and cdntest. Patch Patcher configs for update verify to pass, rerun any failed update verify tasks that missed this fix in mean time.
 - [x] 4.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors)  - pushed to mirrors/releases
 - [x] 5.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release)  - publish release tasks
-- [ ] 6.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs)  - signoff in Balrog
+- [x] 6.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs)  - signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
