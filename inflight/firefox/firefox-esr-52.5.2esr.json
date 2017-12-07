@@ -38,7 +38,7 @@
                     "bug": "none",
                     "description": "publish to esr channel task Zv9Tb2NKTPG61SyTx8r5qw failed but was green. Manually bumped rules",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]

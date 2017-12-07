@@ -20,7 +20,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | publish to esr channel task Zv9Tb2NKTPG61SyTx8r5qw failed but was green. Manually bumped rules | False | True |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | publish to esr channel task Zv9Tb2NKTPG61SyTx8r5qw failed but was green. Manually bumped rules | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
