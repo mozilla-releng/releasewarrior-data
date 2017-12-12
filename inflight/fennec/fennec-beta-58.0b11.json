@@ -36,6 +36,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "description": "All tasks reporting state to release-signoff, need to limit noise there.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         }

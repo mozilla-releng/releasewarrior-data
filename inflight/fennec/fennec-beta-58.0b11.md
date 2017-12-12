@@ -22,4 +22,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | callek  | 1 | [bug none](https://bugzil.la/none)        | eslint ran on publish_fennec graph | True | True |
+| callek  | 2 | [bug none](https://bugzil.la/none)        | All tasks reporting state to release-signoff, need to limit noise there. | False | True |
 
