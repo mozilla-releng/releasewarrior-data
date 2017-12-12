@@ -15,9 +15,10 @@
                     "resolved": true
                 },
                 {
+                    "alias": "",
                     "description": "Validate complete update",
                     "docs": "https://gist.github.com/Callek/4bdffb0e42e59cf65814f5e3c54b77fb",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
