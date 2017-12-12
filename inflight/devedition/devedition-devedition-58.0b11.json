@@ -24,7 +24,7 @@
                     "alias": "win64-migration",
                     "description": "Create/Publish win64 migration blob",
                     "docs": "https://gist.github.com/Callek/aac3df7a2f0461ecae5dadc29a2d1d4d",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
