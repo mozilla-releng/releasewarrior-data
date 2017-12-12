@@ -34,7 +34,7 @@
                     "bug": "none",
                     "description": "eslint ran on publish_fennec graph",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
