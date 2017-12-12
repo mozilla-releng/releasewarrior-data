@@ -15,6 +15,12 @@
                     "resolved": true
                 },
                 {
+                    "alias": "win64-migration",
+                    "description": "Create/Publish win64 migration blob",
+                    "docs": "https://gist.github.com/Callek/aac3df7a2f0461ecae5dadc29a2d1d4d",
+                    "resolved": false
+                },
+                {
                     "alias": "publish",
                     "description": "publish release tasks",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release",
@@ -24,12 +30,6 @@
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs",
-                    "resolved": false
-                },
-                {
-                    "alias": "win64-migration",
-                    "description": "Create/Publish win64 migration blob",
-                    "docs": "https://gist.github.com/Callek/aac3df7a2f0461ecae5dadc29a2d1d4d",
                     "resolved": false
                 }
             ],
