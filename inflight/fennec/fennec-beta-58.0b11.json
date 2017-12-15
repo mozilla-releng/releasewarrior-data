@@ -38,10 +38,10 @@
                     "who": "callek"
                 },
                 {
-                    "bug": "none",
+                    "bug": "1425568",
                     "description": "All tasks reporting state to release-signoff, need to limit noise there.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
