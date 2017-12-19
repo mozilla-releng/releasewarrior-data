@@ -33,7 +33,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "WneJDehrTgOfHn1L4kL_Ng - update verify job interrupted, rerun manually",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ]
         }
     ],
     "preflight": {
