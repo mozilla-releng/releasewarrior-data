@@ -38,7 +38,7 @@
                     "bug": "none",
                     "description": "WneJDehrTgOfHn1L4kL_Ng - update verify job interrupted, rerun manually",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]

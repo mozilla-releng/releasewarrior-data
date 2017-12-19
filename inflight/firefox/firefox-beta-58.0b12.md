@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](https://bugzil.la/none)        | WneJDehrTgOfHn1L4kL_Ng - update verify job interrupted, rerun manually | False | True |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | WneJDehrTgOfHn1L4kL_Ng - update verify job interrupted, rerun manually | True | True |
 
