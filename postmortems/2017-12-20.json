@@ -1,0 +1,153 @@
+{
+    "complete_releases": [
+        {
+            "date": "2017-12-01",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "repack bbb task YvH9LOYBSam7sKOWPiA3Bg spot instance killed while running desktop_l10n.py reran",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1423663",
+                    "buildnum": 1,
+                    "description": "Docker generation for ubuntu:vivid distro failing due to EOL of vivid. Affected funsize and beetmover. Pushed a fix to repos.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "57.0.2"
+        },
+        {
+            "date": "2017-12-06",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "publish to esr channel task Zv9Tb2NKTPG61SyTx8r5qw failed but was green. Manually bumped rules",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1423663",
+                    "buildnum": 1,
+                    "description": "Docker generation for ubuntu:vivid distro failing due to EOL of vivid. Affected funsize and beetmover.Pushed a fix to repos.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "52.5.2esr"
+        },
+        {
+            "date": "2017-12-07",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b10"
+        },
+        {
+            "date": "2017-12-07",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "hang cloning l10n repo in mac l10 repack M90RGbtsQ7eEdVjq2ybRFg",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b10"
+        },
+        {
+            "date": "2017-12-08",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "58.0b2"
+        },
+        {
+            "date": "2017-12-11",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b11"
+        },
+        {
+            "date": "2017-12-11",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b11"
+        },
+        {
+            "date": "2017-12-11",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "eslint ran on publish_fennec graph",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "1425568",
+                    "buildnum": 1,
+                    "description": "All tasks reporting state to release-signoff, need to limit noise there.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "58.0b11"
+        },
+        {
+            "date": "2017-12-18",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "WneJDehrTgOfHn1L4kL_Ng - update verify job interrupted, rerun manually",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b12"
+        },
+        {
+            "date": "2017-12-18",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b12"
+        },
+        {
+            "date": "2017-12-18",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "58.0b12"
+        }
+    ],
+    "date": "2017-12-20"
+}
