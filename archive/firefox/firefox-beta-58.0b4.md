@@ -1,23 +1,18 @@
-# firefox 58.0b4
+# Beta: Firefox 58.0b4
 
-### Date of go-to-build: 2017-11-15
+### Started: 2017-11-15
 
-## Preflight tasks (pre go-to-build)
-- none
+## Build 1
 
-## Build 1  
-
-### Graphs
-task graph url: unknown
+### Beta Graph
+[task group](https://tools.taskcluster.net/push-inspector/#/Ze5SClM0T4KVuorTQnMUQA)
 
 
 #### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [x] 2.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release)  - publish release tasks
-- [x] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs)  - signoff in Balrog
+- [x] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [x] [published release tasks](../how-tos/relpro.md#4-publish-release)
+- [x] [signoff in Balrog](../how-tos/relpro.md#3-signoffs)
 
 ### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](http://bugzilla/none)        | use releasewarrior 1.0 for notes on issues | False | True |
-
+- nthomas: [Bug 1417697](https://bugzil.la/1417697) - version bump failed to tag because of the relbranch, [landed manually](https://hg.mozilla.org/releases/mozilla-beta/pushloghtml?fromchange=7ecf3934e758&tochange=4fcc0808fe85)
+- nthomas: [Bug 1389312](https://bugzil.la/1389312) - release eta was in the past and Balrog complained, jlund manuallly scheduled the change

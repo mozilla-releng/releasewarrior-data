@@ -1,126 +1,60 @@
-# fennec 57.0
+# Fennec 57.0
 
-### Date of go-to-build: 2017-11-14
+### Started 2017-11-07
 
-## Preflight tasks (pre go-to-build)
+## Build 1
+:bomb: _**aborted release. starting new build num**_ :bomb:
+
+
+### Release Graph
+[task group](https://tools.taskcluster.net/push-inspector/#/d343GBDQQAqxpax-zFd1CA)
+
+### Release graph 2
+task graph url: unknown
+
+### Status
+- [x] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [x] emailed candidates
+- [ ] [run pushapk](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-google-play-store)
+- [ ] [push to mirrors and publish release](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-push-to-releases-dir-mirrors)
+
+### Issues
 - none
 
-## Build 7  
-
-### Graphs
-task graph url: unknown
+## Build 2
+:bomb: _**aborted release. starting new build num**_ :bomb:
 
 
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [x] 2.  - emailed candidates
-- [x] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [x] 4.  - published release tasks
+### Release Graph
+[task group](https://tools.taskcluster.net/push-inspector/#/BYWW8iI0SZmqK4aoxe_BDw)
 
-### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+### Release graph 2
+[task group](https://tools.taskcluster.net/push-inspector/#/fxGv7RM5Si-_PGb17TxRKA)
 
-## Build 6  :bomb: _aborted release. starting new build num_ :bomb: 
-
-### Graphs
-task graph url: unknown
-
-
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  - emailed candidates
-- [ ] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [ ] 4.  - published release tasks
+### Status
+- [x] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [x] emailed candidates
+- [ ] [run pushapk](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-google-play-store)
+- [ ] [push to mirrors and publish release](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-push-to-releases-dir-mirrors)
 
 ### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+- none
 
-## Build 5  :bomb: _aborted release. starting new build num_ :bomb: 
-
-### Graphs
-task graph url: unknown
+## Build 3
 
 
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  - emailed candidates
-- [ ] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [ ] 4.  - published release tasks
+### Release Graph
+[task group](https://tools.taskcluster.net/push-inspector/#/c_1ed3y2Tfiyl-zWCq8XQg)
 
-### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+### Release graph 2
+[task group](https://tools.taskcluster.net/push-inspector/#/dcN3UtdNQpWxoi5qz5p17Q)
 
-## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
-
-### Graphs
-task graph url: unknown
-
-
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  - emailed candidates
-- [ ] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [ ] 4.  - published release tasks
+### Status
+- [x] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [x] emailed candidates
+- [x] [run pushapk](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-google-play-store)
+- [x] [push to mirrors and publish release](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-push-to-releases-dir-mirrors)
 
 ### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
-
-## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
-
-### Graphs
-task graph url: unknown
-
-
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  - emailed candidates
-- [ ] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [ ] 4.  - published release tasks
-
-### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
-
-## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
-
-### Graphs
-task graph url: unknown
-
-
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  - emailed candidates
-- [ ] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [ ] 4.  - published release tasks
-
-### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
-
-## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
-
-### Graphs
-task graph url: unknown
-
-
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  - emailed candidates
-- [ ] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [ ] 4.  - published release tasks
-
-### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+- none
 

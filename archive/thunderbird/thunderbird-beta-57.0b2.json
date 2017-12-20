@@ -1,57 +1,20 @@
 {
-    "date": "2017-11-17",
-    "inflight": [
+    "builds": [
         {
             "aborted": false,
             "buildnum": 1,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "publish",
-                    "description": "publish release tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Publish_in_Balrog",
-                    "resolved": true
-                },
-                {
-                    "alias": "signoff",
-                    "description": "signoff in Balrog",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs",
-                    "resolved": true
-                },
-                {
-                    "alias": "postrelease",
-                    "description": "run postrelease tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
-                    "resolved": true
-                }
-            ],
+            "human_tasks": {
+                "publish": true,
+                "shipit": true,
+                "signoff": true
+            },
             "issues": [
-                {
-                    "bug": "1418725",
-                    "description": "update and final verify failures due to two sets of complete and partial data for win32 fr & it",
-                    "future_threat": false,
-                    "resolved": true,
-                    "who": "nthomas"
-                },
-                {
-                    "bug": "1389312",
-                    "description": "scheduling change in Balrog fails (wrong api), do it manually",
-                    "future_threat": true,
-                    "resolved": true,
-                    "who": "nthomas"
-                }
+                "nthomas: [Bug 1418725](https://bugzil.la/1418725) - update and final verify failures due two sets of complete and partial data for win32 fr & it",
+                "nthomas: [Bug 1389312](https://bugzil.la/1389312) - need to schedule a change to push updates to beta"
             ]
         }
     ],
-    "preflight": {
-        "human_tasks": []
-    },
+    "date": "2017-11-20",
     "product": "thunderbird",
     "version": "57.0b2"
 }

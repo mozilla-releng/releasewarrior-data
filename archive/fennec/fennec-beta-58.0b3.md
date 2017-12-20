@@ -1,24 +1,63 @@
-# fennec 58.0b3
+# Beta: Fennec 58.0b3
 
-### Date of go-to-build: 2017-11-14
+### Started 2017-11-13
 
-## Preflight tasks (pre go-to-build)
-- none
-
-## Build 1  
-
-### Graphs
-task graph url: unknown
+## Build 1
+:bomb: _**aborted release. starting new build num**_ :bomb:
 
 
-#### Status
-- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [x] 2.  - emailed candidates
-- [x] 3.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
-- [x] 4.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks)  - published release tasks
+### Beta Graph
+- first task graph url: unknown
+- second task graph url: unknown
+
+### Status
+- [ ] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [ ] [published release](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#publish-release)
 
 ### Issues
-| Who                 | ID               | Bug                                                                 | Descripiton                | Release Unblocked       | Future Threat                |
-| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](http://bugzilla/none)        | use releasewarrior 1.0 for notes on issues | False | True |
+- POTENTIAL ISSUE: Please validate beta repo has appropriate [version_display.txt](https://hg.mozilla.org/releases/mozilla-beta/file/default/browser/config/version_display.txt). Should be 58.0b3
+- asasaki: [Bug 1416812](https://bugzil.la/1416812) - relpro decision task fails with UnboundLocalError
+## Build 2
+:bomb: _**aborted release. starting new build num**_ :bomb:
 
+
+### Beta Graph
+- first task graph url: unknown
+- second task graph url: unknown
+
+### Status
+- [ ] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [ ] [published release](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#publish-release)
+
+### Issues
+- asasaki: [Bug 1416840](https://bugzil.la/1416840) - missing release scopes
+## Build 3
+:bomb: _**aborted release. starting new build num**_ :bomb:
+
+
+### Beta Graph
+- first task graph url: unknown
+- second task graph url: unknown
+
+### Status
+- [ ] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [ ] [published release](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#publish-release)
+
+### Issues
+- asasaki: [Bug 1416840](https://bugzil.la/1416840) - more missing scopes
+## Build 4
+
+
+### Beta Graph
+- [task group 1](https://tools.taskcluster.net/push-inspector/#/UruW-tHOTzCcKzuLxAfVIA)
+- [task group 2](https://tools.taskcluster.net/push-inspector/#/UbIuIw4AQSic_JSwLeTy1Q)
+
+### Status
+- [x] [submit to Shipit](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)
+- [x] [published release](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#publish-release)
+
+### Issues
+- asasaki: No email notification sent
+- jlorenzo: [Bug 1417472](https://bugzil.la/1417472) - [Fennec Relpro] publish_fennec action graph doesn't take artifacts from parent graph
+- asasaki: submitted graph WJHti58xSs60QiaR0FTcnw against build_number 1 accidentally.
+- asasaki: pushapk failed because it pushed in graph WJHti58xSs60QiaR0FTcnw

@@ -1,234 +1,46 @@
 {
-    "date": "2017-11-14",
-    "inflight": [
-        {
-            "aborted": false,
-            "buildnum": 7,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": true
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": true
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "",
-                    "resolved": true
-                }
-            ],
-            "issues": []
-        },
+    "builds": [
         {
             "aborted": true,
-            "buildnum": 6,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": false
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "",
-                    "resolved": false
-                }
-            ],
-            "issues": []
-        },
-        {
-            "aborted": true,
-            "buildnum": 5,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": false
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "",
-                    "resolved": false
-                }
-            ],
-            "issues": []
-        },
-        {
-            "aborted": true,
-            "buildnum": 4,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": false
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "",
-                    "resolved": false
-                }
-            ],
-            "issues": []
-        },
-        {
-            "aborted": true,
-            "buildnum": 3,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": false
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "",
-                    "resolved": false
-                }
-            ],
+            "buildnum": 1,
+            "graphid": "d343GBDQQAqxpax-zFd1CA",
+            "graphid_2": "",
+            "human_tasks": {
+                "candidates": true,
+                "publish": false,
+                "pushapk": false,
+                "shipit": true
+            },
             "issues": []
         },
         {
             "aborted": true,
             "buildnum": 2,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": false
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "",
-                    "resolved": false
-                }
-            ],
+            "graphid": "BYWW8iI0SZmqK4aoxe_BDw",
+            "graphid_2": "fxGv7RM5Si-_PGb17TxRKA",
+            "human_tasks": {
+                "candidates": true,
+                "publish": false,
+                "pushapk": false,
+                "shipit": true
+            },
             "issues": []
         },
         {
-            "aborted": true,
-            "buildnum": 1,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": false
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "",
-                    "resolved": false
-                }
-            ],
+            "aborted": false,
+            "buildnum": 3,
+            "graphid": "c_1ed3y2Tfiyl-zWCq8XQg",
+            "graphid_2": "dcN3UtdNQpWxoi5qz5p17Q",
+            "human_tasks": {
+                "candidates": true,
+                "publish": true,
+                "pushapk": true,
+                "shipit": true
+            },
             "issues": []
         }
     ],
-    "preflight": {
-        "human_tasks": []
-    },
+    "date": "2017-11-07",
     "product": "fennec",
     "version": "57.0"
 }

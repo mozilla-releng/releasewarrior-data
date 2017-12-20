@@ -1,50 +1,63 @@
 {
-    "date": "2017-11-14",
-    "inflight": [
+    "builds": [
+        {
+            "aborted": true,
+            "buildnum": 1,
+            "graphid": "",
+            "graphid_2": "",
+            "human_tasks": {
+                "publish": false,
+                "shipit": false
+            },
+            "issues": [
+                "POTENTIAL ISSUE: Please validate beta repo has appropriate [version_display.txt](https://hg.mozilla.org/releases/mozilla-beta/file/default/browser/config/version_display.txt). Should be 58.0b3",
+                "asasaki: [Bug 1416812](https://bugzil.la/1416812) - relpro decision task fails with UnboundLocalError"
+            ]
+        },
+        {
+            "aborted": true,
+            "buildnum": 2,
+            "graphid": "",
+            "graphid_2": "",
+            "human_tasks": {
+                "publish": false,
+                "shipit": false
+            },
+            "issues": [
+                "asasaki: [Bug 1416840](https://bugzil.la/1416840) - missing release scopes"
+            ]
+        },
+        {
+            "aborted": true,
+            "buildnum": 3,
+            "graphid": "",
+            "graphid_2": "",
+            "human_tasks": {
+                "publish": false,
+                "shipit": false
+            },
+            "issues": [
+                "asasaki: [Bug 1416840](https://bugzil.la/1416840) - more missing scopes"
+            ]
+        },
         {
             "aborted": false,
-            "buildnum": 1,
-            "graphids": [],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "candidates",
-                    "description": "emailed candidates",
-                    "docs": "",
-                    "resolved": true
-                },
-                {
-                    "alias": "pushapk",
-                    "description": "run pushapk",
-                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": true
-                },
-                {
-                    "alias": "publish",
-                    "description": "published release tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
-                    "resolved": true
-                }
-            ],
+            "buildnum": 4,
+            "graphid": "UruW-tHOTzCcKzuLxAfVIA",
+            "graphid_2": "UbIuIw4AQSic_JSwLeTy1Q",
+            "human_tasks": {
+                "publish": true,
+                "shipit": true
+            },
             "issues": [
-                {
-                    "bug": "none",
-                    "description": "use releasewarrior 1.0 for notes on issues",
-                    "future_threat": true,
-                    "resolved": false,
-                    "who": "jlund"
-                }
+                "asasaki: No email notification sent",
+                "jlorenzo: [Bug 1417472](https://bugzil.la/1417472) - [Fennec Relpro] publish_fennec action graph doesn't take artifacts from parent graph",
+                "asasaki: submitted graph WJHti58xSs60QiaR0FTcnw against build_number 1 accidentally.",
+                "asasaki: pushapk failed because it pushed in graph WJHti58xSs60QiaR0FTcnw"
             ]
         }
     ],
-    "preflight": {
-        "human_tasks": []
-    },
+    "date": "2017-11-13",
     "product": "fennec",
     "version": "58.0b3"
 }
