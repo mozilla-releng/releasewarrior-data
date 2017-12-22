@@ -37,7 +37,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1426790",
+                    "description": "Scheduling balrog change failed, not allowed to use an alias. Manually scheduled instead",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ]
         }
     ],
     "preflight": {
