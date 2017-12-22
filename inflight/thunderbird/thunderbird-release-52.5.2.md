@@ -21,5 +21,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug 1426790](https://bugzil.la/1426790)        | Scheduling balrog change failed, not allowed to use an alias. Manually scheduled instead | False | True |
+| nthomas  | 1 | [bug 1426790](https://bugzil.la/1426790)        | Scheduling balrog change failed, not allowed to use an alias. Manually scheduled instead | True | True |
 
