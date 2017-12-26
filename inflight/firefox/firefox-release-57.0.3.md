@@ -23,5 +23,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1421535](https://bugzil.la/1421535)        | update verify failures. needed to: https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c8 | False | True |
 

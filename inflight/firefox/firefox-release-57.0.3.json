@@ -51,7 +51,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1421535",
+                    "description": "update verify failures. needed to: https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c8",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {
