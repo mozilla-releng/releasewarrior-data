@@ -1,2 +1,4 @@
 # intelliJ pycharm
 .idea
+_site
+Gemfile*
