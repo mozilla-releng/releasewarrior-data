@@ -18,13 +18,13 @@
                     "alias": "",
                     "description": "localtest/cdntest update path setup. after all artifact gen tasks complete, remove 57.0.1 freeze for linux/mac. point to wnp",
                     "docs": "https://docs.google.com/spreadsheets/d/1Nua344Mque8NTpTOZdAesEv1cXYkscV4z9rn09r0cVc/edit#gid=0",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "wnp",
                     "description": "setup whatsnew page",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Set-up_whatsnew_page",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "mirrors",
