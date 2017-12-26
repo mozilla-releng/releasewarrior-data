@@ -33,7 +33,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "YkguRF5hRNy9Cu0Wqff1Xg docker gen tasks failed intermittently (stale state?) because tmp dir couldn't be created: Error calling 'link' for dind : EEXIST: file already exists, mkdir '/tmp/mQtdw8mjQU-TP_PRrpDTcQ'",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {
