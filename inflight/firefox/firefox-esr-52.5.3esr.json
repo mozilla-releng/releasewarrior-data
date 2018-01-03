@@ -40,6 +40,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "bump version did not work. I suspect because of relbranch",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         }

@@ -21,4 +21,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug none](https://bugzil.la/none)        | YkguRF5hRNy9Cu0Wqff1Xg docker gen tasks failed intermittently (stale state?) because tmp dir couldn't be created: Error calling 'link' for dind : EEXIST: file already exists, mkdir '/tmp/mQtdw8mjQU-TP_PRrpDTcQ' | True | True |
+| jlund  | 2 | [bug none](https://bugzil.la/none)        | bump version did not work. I suspect because of relbranch | False | True |
 
