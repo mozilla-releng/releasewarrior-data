@@ -1,6 +1,6 @@
-# devedition 58.0b15
+# devedition 58.0b14
 
-### Date of go-to-build: 2018-01-10
+### Date of go-to-build: 2018-01-08
 
 ## Preflight tasks (pre go-to-build)
 - none

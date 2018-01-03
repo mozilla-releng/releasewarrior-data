@@ -1,6 +1,6 @@
-# firefox 58.0b14
+# firefox 58.0b16
 
-### Date of go-to-build: 2018-01-08
+### Date of go-to-build: 2018-01-11
 
 ## Preflight tasks (pre go-to-build)
 - none
