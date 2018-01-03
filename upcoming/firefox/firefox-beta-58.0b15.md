@@ -1,4 +1,4 @@
-# firefox 58.0b14
+# firefox 58.0b15
 
 ### Date of go-to-build: 2018-01-08
 

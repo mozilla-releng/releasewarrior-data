@@ -1,4 +1,4 @@
-# fennec 58.0b16
+# fennec 58.0b17
 
 ### Date of go-to-build: 2018-01-15
 
