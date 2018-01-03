@@ -47,6 +47,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "publish to esr channel failed LUd7dUIURpuMifmbPq3fRQ - retry: attempt #4 caught exception: argument of type 'int' is not iterable",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         }
