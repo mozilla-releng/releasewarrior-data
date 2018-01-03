@@ -36,19 +36,19 @@
                     "alias": "publish",
                     "description": "publish release tasks",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "",
                     "description": "release channel update path setup: after go from relman to publish to release, remove 57.0.1 freeze for linux/mac. point to wnp for rules outside of automation",
                     "docs": "https://docs.google.com/spreadsheets/d/1Nua344Mque8NTpTOZdAesEv1cXYkscV4z9rn09r0cVc/edit#gid=0",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
