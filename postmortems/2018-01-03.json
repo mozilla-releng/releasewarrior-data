@@ -1,0 +1,83 @@
+{
+    "complete_releases": [
+        {
+            "date": "2017-12-21",
+            "future_threats": [
+                {
+                    "bug": "1426790",
+                    "buildnum": 1,
+                    "description": "Scheduling balrog change failed, not allowed to use an alias. Manually scheduled instead",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "52.5.2"
+        },
+        {
+            "date": "2017-12-26",
+            "future_threats": [
+                {
+                    "bug": "1421535",
+                    "buildnum": 1,
+                    "description": "update verify failures. needed to: https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c8",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "57.0.3"
+        },
+        {
+            "date": "2017-12-26",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "YkguRF5hRNy9Cu0Wqff1Xg docker gen tasks failed intermittently (stale state?) because tmp dir couldn't be created: Error calling 'link' for dind : EEXIST: file already exists, mkdir '/tmp/mQtdw8mjQU-TP_PRrpDTcQ'",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "bump version did not work. I suspect because of relbranch",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "publish to esr channel failed LUd7dUIURpuMifmbPq3fRQ - retry: attempt #4 caught exception: argument of type 'int' is not iterable",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "52.5.3esr"
+        },
+        {
+            "date": "2018-01-03",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b13"
+        },
+        {
+            "date": "2018-01-03",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b13"
+        }
+    ],
+    "date": "2018-01-03"
+}
