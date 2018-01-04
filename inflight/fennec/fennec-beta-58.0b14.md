@@ -9,7 +9,7 @@
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/F0FITdwfSuWvnGKZ_BAq3g)
-[task group](https://tools.taskcluster.net/push-inspector/#/ZTOWJ5rrQWO3EMKCdHUtRw)
+[task group](https://tools.taskcluster.net/push-inspector/#/aKt3t7p4S7aj5KqYCuGeUw)
 
 
 #### Status
