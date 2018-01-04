@@ -49,6 +49,12 @@
                     "resolved": false
                 },
                 {
+                    "alias": "",
+                    "description": "similar to wnp setup for local/cdntest, the 4 release rules should be scheduled to be updated. The two none wnp rules that automation knows about, will be scheduled for sign off automatically",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c8",
+                    "resolved": false
+                },
+                {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs",
