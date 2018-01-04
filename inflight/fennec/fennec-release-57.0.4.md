@@ -21,5 +21,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | callek  | 1 | [bug none](https://bugzil.la/none)        | Fennec releasewarrior steps still list candidates email for releases | True | True |
-| callek  | 2 | [bug none](https://bugzil.la/none)        | Fennec releasewarrior steps don't link to docs for publish release for releases | False | True |
+| callek  | 2 | [bug none](https://bugzil.la/none)        | Fennec releasewarrior steps don't link to docs for publish release for releases | True | True |
 
