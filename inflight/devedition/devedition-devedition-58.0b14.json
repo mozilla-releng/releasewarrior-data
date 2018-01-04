@@ -38,8 +38,8 @@
                 {
                     "bug": "none",
                     "description": "beetmover docker image generation failed because of timeout during installation of ubuntu packages",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
