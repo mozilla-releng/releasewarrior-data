@@ -5,7 +5,7 @@
 ## Preflight tasks (pre go-to-build)
 - none
 
-## Build 2
+## Build 2  
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/FO7gWl6XTkanyPrR-VN2oA)
@@ -19,7 +19,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | firefox mozilla-beta win32 l10n repack 2/10 (LeqqL7hIRJ2AbDPNRFgz_w) timed out cloning hg repo | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

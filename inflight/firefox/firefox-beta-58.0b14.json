@@ -27,7 +27,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "firefox mozilla-beta win32 l10n repack 2/10 (LeqqL7hIRJ2AbDPNRFgz_w) timed out cloning hg repo",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                }
+            ]
         },
         {
             "aborted": true,
