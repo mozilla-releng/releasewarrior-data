@@ -5,7 +5,8 @@
             "aborted": false,
             "buildnum": 2,
             "graphids": [
-                "F0FITdwfSuWvnGKZ_BAq3g"
+                "F0FITdwfSuWvnGKZ_BAq3g",
+                "ZTOWJ5rrQWO3EMKCdHUtRw"
             ],
             "human_tasks": [
                 {
@@ -18,7 +19,7 @@
                     "alias": "pushapk",
                     "description": "run pushapk",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",

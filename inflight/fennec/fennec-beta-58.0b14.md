@@ -9,11 +9,12 @@
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/F0FITdwfSuWvnGKZ_BAq3g)
+[task group](https://tools.taskcluster.net/push-inspector/#/ZTOWJ5rrQWO3EMKCdHUtRw)
 
 
 #### Status
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
+- [x] 2.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually)  - run pushapk
 - [ ] 3.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks)  - published release tasks
 
 ### Issues
