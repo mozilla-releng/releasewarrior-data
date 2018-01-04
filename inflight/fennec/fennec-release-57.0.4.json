@@ -33,7 +33,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Fennec releasewarrior steps still list candidates email for releases",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
