@@ -38,7 +38,7 @@
                     "bug": "none",
                     "description": "Fennec releasewarrior steps still list candidates email for releases",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 },
                 {
