@@ -31,6 +31,12 @@
                     "resolved": false
                 },
                 {
+                    "alias": "",
+                    "description": "run bensScript against cdntest (run again after we publish on release and sign off)",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c9",
+                    "resolved": false
+                },
+                {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors",
