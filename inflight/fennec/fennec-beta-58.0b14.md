@@ -5,7 +5,7 @@
 ## Preflight tasks (pre go-to-build)
 - none
 
-## Build 2
+## Build 2  
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/F0FITdwfSuWvnGKZ_BAq3g)
@@ -19,7 +19,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug https://github.com/mozilla-releng/releasewarrior-2.0/issues/35](https://bugzil.la/https://github.com/mozilla-releng/releasewarrior-2.0/issues/35)        | `release newbuild` creates an aborted build if build N-1 was aborted | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

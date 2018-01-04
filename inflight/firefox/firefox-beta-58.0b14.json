@@ -34,6 +34,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "https://github.com/mozilla-releng/releasewarrior-2.0/issues/35",
+                    "description": "`release newbuild` creates an aborted build if build N-1 was aborted",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
                 }
             ]
         },
