@@ -5,7 +5,7 @@
 ## Preflight tasks (pre go-to-build)
 - none
 
-## Build 2
+## Build 2  
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/cNG1wOc6S9am2YcnUw6LhA)
@@ -19,7 +19,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        |  funsize-update-generator (Jl04LG4VQ3SB8BBxyQ6XfQ), funsize-balrog-submitter (PZhb8YqpTBaqSvIF1ZALGw) failed because folder "/tmp/$task_id" already existed | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

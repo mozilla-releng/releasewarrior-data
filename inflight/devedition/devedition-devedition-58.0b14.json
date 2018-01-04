@@ -27,7 +27,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": " funsize-update-generator (Jl04LG4VQ3SB8BBxyQ6XfQ), funsize-balrog-submitter (PZhb8YqpTBaqSvIF1ZALGw) failed because folder \"/tmp/$task_id\" already existed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                }
+            ]
         },
         {
             "aborted": true,
