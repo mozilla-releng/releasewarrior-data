@@ -19,7 +19,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | firefox mozilla-beta win32 l10n repack 2/10 (LeqqL7hIRJ2AbDPNRFgz_w) timed out cloning hg repo | False | True |
+| jlorenzo | 1 | [bug 1428026](https://bugzil.la/1428026) | Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds | False | True |
 | jlorenzo  | 2 | [bug https://github.com/mozilla-releng/releasewarrior-2.0/issues/35](https://bugzil.la/https://github.com/mozilla-releng/releasewarrior-2.0/issues/35)        | `release newbuild` creates an aborted build if build N-1 was aborted | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
@@ -37,4 +37,3 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | none | | | | | |
-

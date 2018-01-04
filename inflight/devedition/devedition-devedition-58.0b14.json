@@ -48,6 +48,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "1428026",
+                    "description": "Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
                 }
             ]
         },

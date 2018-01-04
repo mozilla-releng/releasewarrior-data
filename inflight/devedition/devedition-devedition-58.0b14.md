@@ -22,6 +22,7 @@
 | jlorenzo  | 1 | [bug none](https://bugzil.la/none)        |  funsize-update-generator (Jl04LG4VQ3SB8BBxyQ6XfQ), funsize-balrog-submitter (PZhb8YqpTBaqSvIF1ZALGw) failed because folder "/tmp/$task_id" already existed | True | False |
 | jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | beetmover docker image generation failed because of timeout during installation of ubuntu packages | True | False |
 | jlorenzo  | 3 | [bug https://github.com/mozilla-releng/releasewarrior-2.0/issues/35](https://bugzil.la/https://github.com/mozilla-releng/releasewarrior-2.0/issues/35)        | `release newbuild` creates an aborted build if build N-1 was aborted | False | True |
+| jlorenzo | 4 | [bug 1428026](https://bugzil.la/1428026) | Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
@@ -38,4 +39,3 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | none | | | | | |
-
