@@ -20,6 +20,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlorenzo  | 1 | [bug none](https://bugzil.la/none)        |  funsize-update-generator (Jl04LG4VQ3SB8BBxyQ6XfQ), funsize-balrog-submitter (PZhb8YqpTBaqSvIF1ZALGw) failed because folder "/tmp/$task_id" already existed | False | True |
+| jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | beetmover docker image generation failed because of timeout during installation of ubuntu packages | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

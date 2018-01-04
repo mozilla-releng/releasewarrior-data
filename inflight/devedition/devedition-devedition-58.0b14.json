@@ -34,6 +34,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "none",
+                    "description": "beetmover docker image generation failed because of timeout during installation of ubuntu packages",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
                 }
             ]
         },
