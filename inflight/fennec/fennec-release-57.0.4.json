@@ -40,6 +40,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "description": "Fennec releasewarrior steps don't link to docs for publish release for releases",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         }
