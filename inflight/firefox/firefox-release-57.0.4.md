@@ -25,7 +25,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | firefox mozilla-release win64 l10n repack 4/10 (fcgk1lrFQO6UiWsrO8CpHA), firefox mozilla-beta win32 l10n repack 2/10 (LeqqL7hIRJ2AbDPNRFgz_w) timed out cloning hg repo | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
