@@ -20,7 +20,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug https://github.com/mozilla-releng/releasewarrior-2.0/issues/35](https://bugzil.la/https://github.com/mozilla-releng/releasewarrior-2.0/issues/35)        | `release newbuild` creates an aborted build if build N-1 was aborted | False | True |
+| jlorenzo  | 1 | [bug https://github.com/mozilla-releng/releasewarrior-2.0/issues/35](https://bugzil.la/https://github.com/mozilla-releng/releasewarrior-2.0/issues/35)        | `release newbuild` creates an aborted build if build N-1 was aborted | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
