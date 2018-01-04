@@ -68,7 +68,7 @@
                     "bug": "1428026",
                     "description": "Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 },
                 {
