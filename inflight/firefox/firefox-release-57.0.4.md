@@ -26,7 +26,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlorenzo  | 1 | [bug 1428026](https://bugzil.la/1428026)        | Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds | True | True |
-| jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | linux UV 12/12 (NC-DCUeyR1Slu6ULaHwZoQ) failed because of linux config off by 3 https://hg.mozilla.org/build/tools/rev/569ed0bb722a#l1.8 (https://hg.mozilla.org/build/tools/rev/352777d48a39#l1.11)  | False | True |
+| jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | linux UV 12/12 (NC-DCUeyR1Slu6ULaHwZoQ) failed because of linux config off by 3 https://hg.mozilla.org/build/tools/rev/569ed0bb722a#l1.8 (https://hg.mozilla.org/build/tools/rev/352777d48a39#l1.11)  | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

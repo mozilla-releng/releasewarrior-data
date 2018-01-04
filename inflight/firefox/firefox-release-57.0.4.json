@@ -74,8 +74,8 @@
                 {
                     "bug": "none",
                     "description": "linux UV 12/12 (NC-DCUeyR1Slu6ULaHwZoQ) failed because of linux config off by 3 https://hg.mozilla.org/build/tools/rev/569ed0bb722a#l1.8 (https://hg.mozilla.org/build/tools/rev/352777d48a39#l1.11) ",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
