@@ -18,9 +18,9 @@
 - [x] 4.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Set-up_whatsnew_page)  - setup whatsnew page
 - [x] 5.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c9)  - run bensScript against cdntest (run again after we publish on release and sign off)
 - [x] 6.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#2-push-to-releases-dir-mirrors)  - pushed to mirrors/releases
-- [ ] 7.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release)  - publish release tasks
-- [ ] 8.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c8)  - similar to wnp setup for local/cdntest, the 4 release rules should be scheduled to be updated. The two none wnp rules that automation knows about, will be scheduled for sign off automatically
-- [ ] 9.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs)  - signoff in Balrog
+- [x] 7.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#4-publish-release)  - publish release tasks
+- [x] 8.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c8)  - similar to wnp setup for local/cdntest, the 4 release rules should be scheduled to be updated. The two none wnp rules that automation knows about, will be scheduled for sign off automatically
+- [x] 9.  [how-to](https://github.com/mozilla/releasewarrior/blob/master/how-tos/relpro.md#3-signoffs)  - signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
