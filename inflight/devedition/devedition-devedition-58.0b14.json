@@ -55,13 +55,6 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "jlorenzo"
-                },
-                {
-                    "bug": "none",
-                    "description": "Source Generation task for deved 58.0b14 failed - Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). Reran manually (tc-cli)",
-                    "future_threat": true,
-                    "resolved": false,
-                    "who": "callek"
                 }
             ]
         },

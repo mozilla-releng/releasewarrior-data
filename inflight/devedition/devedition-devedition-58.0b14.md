@@ -23,7 +23,6 @@
 | jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | beetmover docker image generation failed because of timeout during installation of ubuntu packages | True | False |
 | jlorenzo  | 3 | [bug https://github.com/mozilla-releng/releasewarrior-2.0/issues/35](https://bugzil.la/https://github.com/mozilla-releng/releasewarrior-2.0/issues/35)        | `release newbuild` creates an aborted build if build N-1 was aborted | True | True |
 | jlorenzo  | 4 | [bug 1428026](https://bugzil.la/1428026)        | Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds | True | True |
-| callek  | 5 | [bug none](https://bugzil.la/none)        | Source Generation task for deved 58.0b14 failed - Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). Reran manually (tc-cli) | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
