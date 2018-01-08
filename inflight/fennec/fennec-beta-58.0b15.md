@@ -19,4 +19,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | callek  | 1 | [bug none](https://bugzil.la/none)        | All builds of fennec failed -- Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). reran via cli | True | False |
+| nthomas  | 2 | [bug none](https://bugzil.la/none)        | bouncer sub job (QuN-e5bIT-Sqzfaon5UQ9Q) ran but the bridge hit 503s updating tc. marked complete with cli | False | True |
 
