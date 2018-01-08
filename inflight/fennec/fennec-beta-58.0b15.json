@@ -33,7 +33,7 @@
                     "bug": "none",
                     "description": "bouncer sub job (QuN-e5bIT-Sqzfaon5UQ9Q) ran but the bridge hit 503s updating tc. marked complete with cli",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
