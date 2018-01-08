@@ -18,5 +18,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug none](https://bugzil.la/none)        | All builds of fennec failed -- Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). reran via cli | False | True |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | All builds of fennec failed -- Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). reran via cli | True | False |
 

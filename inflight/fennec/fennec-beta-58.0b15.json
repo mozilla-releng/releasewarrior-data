@@ -25,8 +25,8 @@
                 {
                     "bug": "none",
                     "description": "All builds of fennec failed -- Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). reran via cli",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
