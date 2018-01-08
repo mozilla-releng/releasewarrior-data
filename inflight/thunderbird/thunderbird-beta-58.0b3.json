@@ -22,7 +22,7 @@
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "postrelease",
