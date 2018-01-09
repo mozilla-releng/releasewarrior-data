@@ -5,7 +5,8 @@
             "aborted": false,
             "buildnum": 1,
             "graphids": [
-                "RxS2YAQ8RR-n8p8xmSvO_g"
+                "RxS2YAQ8RR-n8p8xmSvO_g",
+                "TzaEpvzyTk65VXCcYkpEjQ"
             ],
             "human_tasks": [
                 {
@@ -18,7 +19,7 @@
                     "alias": "pushapk",
                     "description": "run pushapk",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Push-to-Google-Play#what-to-do",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
