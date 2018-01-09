@@ -19,5 +19,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug none](https://bugzil.la/none)        | Source Generation task for deved 58.0b15 failed - Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). Reran manually (tc-cli) | False | True |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Source Generation task for deved 58.0b15 failed - Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). Reran manually (tc-cli) | True | False |
 
