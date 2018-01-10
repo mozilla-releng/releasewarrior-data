@@ -1,0 +1,190 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-01-03",
+            "future_threats": [
+                {
+                    "bug": "https://github.com/mozilla-releng/releasewarrior-2.0/issues/35",
+                    "buildnum": 2,
+                    "description": "`release newbuild` creates an aborted build if build N-1 was aborted",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "58.0b14"
+        },
+        {
+            "date": "2018-01-03",
+            "future_threats": [
+                {
+                    "bug": "https://github.com/mozilla-releng/releasewarrior-2.0/issues/35",
+                    "buildnum": 2,
+                    "description": "`release newbuild` creates an aborted build if build N-1 was aborted",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1428026",
+                    "buildnum": 2,
+                    "description": "Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": " funsize-update-generator (Jl04LG4VQ3SB8BBxyQ6XfQ), funsize-balrog-submitter (PZhb8YqpTBaqSvIF1ZALGw) failed because folder \"/tmp/$task_id\" already existed",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "beetmover docker image generation failed because of timeout during installation of ubuntu packages",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "58.0b14"
+        },
+        {
+            "date": "2018-01-03",
+            "future_threats": [
+                {
+                    "bug": "1428026",
+                    "buildnum": 2,
+                    "description": "Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "https://github.com/mozilla-releng/releasewarrior-2.0/issues/35",
+                    "buildnum": 2,
+                    "description": "`release newbuild` creates an aborted build if build N-1 was aborted",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b14"
+        },
+        {
+            "date": "2018-01-03",
+            "future_threats": [
+                {
+                    "bug": "1428026",
+                    "buildnum": 2,
+                    "description": "Repacks on bbb failed to robustcheckout repos: timeout after 1800 seconds",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "linux UV 12/12 (NC-DCUeyR1Slu6ULaHwZoQ) failed because of linux config off by 3 https://hg.mozilla.org/build/tools/rev/569ed0bb722a#l1.8 (https://hg.mozilla.org/build/tools/rev/352777d48a39#l1.11) ",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "57.0.4"
+        },
+        {
+            "date": "2018-01-04",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Fennec releasewarrior steps still list candidates email for releases",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Fennec releasewarrior steps don't link to docs for publish release for releases",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "57.0.4"
+        },
+        {
+            "date": "2018-01-04",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "58.0b3"
+        },
+        {
+            "date": "2018-01-08",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "bouncer sub job (QuN-e5bIT-Sqzfaon5UQ9Q) ran but the bridge hit 503s updating tc. marked complete with cli",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "All builds of fennec failed -- Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). reran via cli",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "58.0b15"
+        },
+        {
+            "date": "2018-01-08",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Source Generation task for deved 58.0b15 failed - Theory is that it broke due to a [Taskcluster infra issue](https://github.com/taskcluster/taskcluster-retrospectives/pull/5/files). Reran manually (tc-cli)",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "58.0b15"
+        },
+        {
+            "date": "2018-01-08",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b15"
+        }
+    ],
+    "date": "2018-01-10"
+}
