@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1412967",
+                "deadline": "2018-01-11",
+                "description": "Update releaserunner regexes in puppet",
+                "resolved": false
+            }
+        ]
     },
     "product": "devedition",
     "version": "59.0b1"
