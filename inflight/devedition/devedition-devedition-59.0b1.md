@@ -21,5 +21,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | rr3 on bm85 was out of date for in-tree relpro, needed to hg pull, and submit a new build | False | True |
 

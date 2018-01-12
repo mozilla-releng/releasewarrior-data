@@ -39,7 +39,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "rr3 on bm85 was out of date for in-tree relpro, needed to hg pull, and submit a new build",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
