@@ -39,7 +39,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "rr3 on bm85 needed to be restarted via supervisorctl, and a new build created.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         },
         {
             "aborted": true,
