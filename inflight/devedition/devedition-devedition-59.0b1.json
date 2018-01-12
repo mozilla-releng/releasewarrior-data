@@ -43,9 +43,9 @@
                 {
                     "bug": "none",
                     "description": "rr3 on bm85 needed to be restarted via supervisorctl, and a new build created.",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
