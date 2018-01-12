@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | 2 dummy tasks (A41szYoPTUK9wLRxWtJvrg &f2joGZpPQJG5rEnTzJu2cA) ended up as exception/claimExpired. TC or worker issue ? Reran them to unblock an update verify job each | False | True |
 
