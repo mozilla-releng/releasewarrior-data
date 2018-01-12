@@ -44,7 +44,7 @@
                     "bug": "1430246",
                     "description": "mar_tools_url was set as per buildbot logic not TC logic.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
