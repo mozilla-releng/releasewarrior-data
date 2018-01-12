@@ -22,6 +22,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | callek  | 1 | [bug 1430246](https://bugzil.la/1430246)        | mar_tools_url was set as per buildbot logic not TC logic. | True | True |
+| callek  | 2 | [bug 1430246](https://bugzil.la/1430246)        | release-source-signing is running on depsigning | False | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 

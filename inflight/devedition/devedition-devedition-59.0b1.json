@@ -46,6 +46,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "callek"
+                },
+                {
+                    "bug": "1430246",
+                    "description": "release-source-signing is running on depsigning",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         },
