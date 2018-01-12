@@ -47,6 +47,13 @@
                     "id": 1,
                     "resolved": true,
                     "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "description": "build4 died in shipit because the changeset picked up 58's relbranch",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         },
