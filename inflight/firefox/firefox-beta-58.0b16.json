@@ -38,7 +38,7 @@
                     "bug": "none",
                     "description": "2 dummy tasks (A41szYoPTUK9wLRxWtJvrg &f2joGZpPQJG5rEnTzJu2cA) ended up as exception/claimExpired. TC or worker issue ? Reran them to unblock an update verify job each",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
