@@ -46,7 +46,7 @@
                 "bug": "1412967",
                 "deadline": "2018-01-11",
                 "description": "Update releaserunner regexes in puppet",
-                "resolved": false
+                "resolved": true
             }
         ]
     },
