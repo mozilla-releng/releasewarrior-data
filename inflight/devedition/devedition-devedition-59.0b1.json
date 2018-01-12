@@ -50,8 +50,8 @@
                 {
                     "bug": "1430246",
                     "description": "release-source-signing is running on depsigning",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
