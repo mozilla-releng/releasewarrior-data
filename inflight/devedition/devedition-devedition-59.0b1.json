@@ -51,8 +51,8 @@
                 {
                     "bug": "none",
                     "description": "build4 died in shipit because the changeset picked up 58's relbranch",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]

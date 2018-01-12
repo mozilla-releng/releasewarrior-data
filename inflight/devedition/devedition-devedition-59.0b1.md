@@ -22,7 +22,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | callek  | 1 | [bug none](https://bugzil.la/none)        | rr3 on bm85 needed to be restarted via supervisorctl, and a new build created. | True | False |
-| callek  | 2 | [bug none](https://bugzil.la/none)        | build4 died in shipit because the changeset picked up 58's relbranch | False | True |
+| callek  | 2 | [bug none](https://bugzil.la/none)        | build4 died in shipit because the changeset picked up 58's relbranch | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
