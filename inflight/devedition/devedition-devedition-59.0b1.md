@@ -21,7 +21,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| aki  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV failures because of missing in-tree configuration on mozharness script args | False | True |
 
 ## Build 5  :bomb: _aborted release. starting new build num_ :bomb: 
 

@@ -39,7 +39,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1430246",
+                    "description": "UV failures because of missing in-tree configuration on mozharness script args",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "aki"
+                }
+            ]
         },
         {
             "aborted": true,
