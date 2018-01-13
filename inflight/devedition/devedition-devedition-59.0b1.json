@@ -43,8 +43,8 @@
                 {
                     "bug": "1430246",
                     "description": "l10n mac jobs failing bc of missing os import",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "aki"
                 }
             ]

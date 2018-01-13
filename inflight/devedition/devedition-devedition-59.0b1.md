@@ -21,7 +21,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| aki  | 1 | [bug 1430246](https://bugzil.la/1430246)        | l10n mac jobs failing bc of missing os import | False | True |
+| aki  | 1 | [bug 1430246](https://bugzil.la/1430246)        | l10n mac jobs failing bc of missing os import | True | False |
 
 ## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
 
