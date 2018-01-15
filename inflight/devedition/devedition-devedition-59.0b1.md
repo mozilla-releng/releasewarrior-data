@@ -21,7 +21,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| aki  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV failing to apply some (all?) partials. Unclear on cause. More notes here: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c16 | False | True |
+| aki  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV failing to apply some (all?) partials. Unclear on cause. More notes here: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c16 | True | False |
 
 ## Build 6  :bomb: _aborted release. starting new build num_ :bomb: 
 

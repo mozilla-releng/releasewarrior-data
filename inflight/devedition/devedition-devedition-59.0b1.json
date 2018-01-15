@@ -43,8 +43,8 @@
                 {
                     "bug": "1430246",
                     "description": "UV failing to apply some (all?) partials. Unclear on cause. More notes here: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c16",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "aki"
                 }
             ]
