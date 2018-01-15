@@ -21,7 +21,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18 | False | True |
 
 ## Build 7  :bomb: _aborted release. starting new build num_ :bomb: 
 
