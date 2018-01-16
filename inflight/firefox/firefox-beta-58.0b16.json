@@ -30,7 +30,7 @@
                     "alias": "",
                     "description": "Because we migrated m-c->m-b in between gtb and publish, callek cancelled version bump task. We should manually sanity check the version string in tree is good for next beta. This I suppose should be 59.0b1. Should also add FIREFOX_58_0b16_{RELEASE,BUILD1} tags on 8bb8f895a740ba60d587337e920f30ec3000c4ca",
                     "docs": "https://tools.taskcluster.net/groups/SS1je0y2Sy2-t35x5sYZOA/tasks/INyW0CckTYGxOlcqT0e5Lg/details",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
