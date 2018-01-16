@@ -15,6 +15,12 @@
                     "resolved": true
                 },
                 {
+                    "alias": "",
+                    "description": "A tools patch that truncates UV tests for <57.0.4 for linux/mac and <56.0 for win. This reflects our watershed state and release-localtest. The tools repo will need to be retagged with the patcher config changes. Context in the bug. Note, we don't need the OS_VERSION patches previously.",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1415557#c16",
+                    "resolved": false
+                },
+                {
                     "alias": "beta",
                     "description": "publish in Balrog on beta channel",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release",
