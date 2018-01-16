@@ -61,9 +61,9 @@
                 {
                     "bug": "1430535",
                     "description": "Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
