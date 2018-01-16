@@ -5,7 +5,25 @@
 ## Preflight tasks (pre go-to-build)
 - [x] 1. due:2018-01-11 - [bug 1412967](https://bugzil.la/1412967): Update releaserunner regexes in puppet
 
-## Build 8  
+## Build 9  
+
+### Graphs
+[task group](https://tools.taskcluster.net/push-inspector/#/A48U4LBZSh6MyIl_4kCBEw)
+
+
+#### Status
+- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
+- [ ] 2.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1412962)  - Validate new locale (ia) was built and is ready
+- [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
+- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#publish-the-release)  - publish release tasks
+- [ ] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#obtain-sign-offs-for-changes)  - signoff in Balrog
+
+### Issues
+| Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
+| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
+| jlund  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18 | False | True |
+
+## Build 8  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/Neyjzg81QtKTx9M84MG3RA)
