@@ -3,6 +3,89 @@
     "inflight": [
         {
             "aborted": false,
+            "buildnum": 3,
+            "graphids": [
+                "ELmfX3koT0GN-In8__rgXA"
+            ],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "",
+                    "description": "A tools patch that truncates UV tests for <57.0.4 for linux/mac and <56.0 for win. This reflects our watershed state and release-localtest. The tools repo will need to be retagged with the patcher config changes. Context in the bug. Note, we don't need the OS_VERSION patches previously.",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1415557#c16",
+                    "resolved": false
+                },
+                {
+                    "alias": "beta",
+                    "description": "publish in Balrog on beta channel",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release",
+                    "resolved": false
+                },
+                {
+                    "alias": "betasignoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",
+                    "resolved": false
+                },
+                {
+                    "alias": "wnp",
+                    "description": "setup whatsnew page (bug 1428419)",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Set-up_whatsnew_page",
+                    "resolved": false
+                },
+                {
+                    "alias": "mirrors",
+                    "description": "pushed to mirrors/releases",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#push-artifacts-to-releases-directory",
+                    "resolved": false
+                },
+                {
+                    "alias": "publish",
+                    "description": "publish release tasks",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release",
+                    "resolved": false
+                },
+                {
+                    "alias": "signoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",
+                    "resolved": false
+                }
+            ],
+            "issues": [
+                {
+                    "bug": "1430535",
+                    "description": "Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1415557",
+                    "description": "Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win)",
+                    "future_threat": true,
+                    "id": 2,
+                    "resolved": false,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1430670",
+                    "description": "AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/",
+                    "future_threat": true,
+                    "id": 3,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
+        },
+        {
+            "aborted": true,
             "buildnum": 2,
             "graphids": [
                 "cynEWCkRSZyGzr5qg_6fTA"
