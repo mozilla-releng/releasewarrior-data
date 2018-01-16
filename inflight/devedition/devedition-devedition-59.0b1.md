@@ -5,7 +5,26 @@
 ## Preflight tasks (pre go-to-build)
 - [x] 1. due:2018-01-11 - [bug 1412967](https://bugzil.la/1412967): Update releaserunner regexes in puppet
 
-## Build 9  
+## Build 10  
+
+### Graphs
+[task group](https://tools.taskcluster.net/push-inspector/#/bZOzB1olQcmJQ3dK_gnntA)
+
+
+#### Status
+- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
+- [ ] 2.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1412962)  - Validate new locale (ia) was built and is ready
+- [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
+- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#publish-the-release)  - publish release tasks
+- [ ] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#obtain-sign-offs-for-changes)  - signoff in Balrog
+
+### Issues
+| Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
+| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
+| jlund  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18 | False | True |
+| jlund  | 2 | [bug 1430670](https://bugzil.la/1430670)        | AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/ | False | True |
+
+## Build 9  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/A48U4LBZSh6MyIl_4kCBEw)
