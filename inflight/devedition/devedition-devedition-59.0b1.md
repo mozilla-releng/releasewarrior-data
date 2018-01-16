@@ -5,7 +5,26 @@
 ## Preflight tasks (pre go-to-build)
 - [x] 1. due:2018-01-11 - [bug 1412967](https://bugzil.la/1412967): Update releaserunner regexes in puppet
 
-## Build 10  
+## Build 11  
+
+### Graphs
+[task group](https://tools.taskcluster.net/push-inspector/#/A4DHGsN6Rxy0_d3yuLF3lQ)
+
+
+#### Status
+- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
+- [ ] 2.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1412962)  - Validate new locale (ia) was built and is ready
+- [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
+- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#publish-the-release)  - publish release tasks
+- [ ] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#obtain-sign-offs-for-changes)  - signoff in Balrog
+- [ ] 6.  - (maybe) manually tag and version bump devedition
+
+### Issues
+| Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
+| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
+| none | | | | | |
+
+## Build 10  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/bZOzB1olQcmJQ3dK_gnntA)
