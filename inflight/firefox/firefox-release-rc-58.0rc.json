@@ -51,7 +51,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1430535",
+                    "description": "Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ]
         }
     ],
     "preflight": {

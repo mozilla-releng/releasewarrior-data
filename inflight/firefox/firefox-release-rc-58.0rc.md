@@ -23,5 +23,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug 1430535](https://bugzil.la/1430535)        | Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials | False | True |
 
