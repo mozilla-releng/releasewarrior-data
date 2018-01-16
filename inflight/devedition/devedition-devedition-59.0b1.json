@@ -49,9 +49,9 @@
                 {
                     "bug": "1430246",
                     "description": "UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 },
                 {
