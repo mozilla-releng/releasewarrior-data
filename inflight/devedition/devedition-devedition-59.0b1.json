@@ -57,9 +57,9 @@
                 {
                     "bug": "1430670",
                     "description": "AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 2,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]

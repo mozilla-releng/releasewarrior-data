@@ -23,7 +23,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18 | True | False |
-| jlund  | 2 | [bug 1430670](https://bugzil.la/1430670)        | AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/ | False | True |
+| jlund  | 2 | [bug 1430670](https://bugzil.la/1430670)        | AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/ | True | False |
 
 ## Build 9  :bomb: _aborted release. starting new build num_ :bomb: 
 
