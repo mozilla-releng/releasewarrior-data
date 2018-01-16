@@ -58,6 +58,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "1415557",
+                    "description": "Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         }

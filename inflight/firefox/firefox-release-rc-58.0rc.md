@@ -24,4 +24,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1430535](https://bugzil.la/1430535)        | Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials | False | True |
+| nthomas  | 2 | [bug 1415557](https://bugzil.la/1415557)        | Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win) | False | True |
 
