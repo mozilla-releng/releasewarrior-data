@@ -50,8 +50,8 @@
                 {
                     "bug": "none",
                     "description": "N2a8PW_vTEad-YK7G1GZ8g l10n mac repack failed. hg timeout for gecko repo mozilla-unified. reran",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]

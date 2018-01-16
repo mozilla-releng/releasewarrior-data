@@ -22,7 +22,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1430246](https://bugzil.la/1430246)        | UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18 | False | True |
-| jlund  | 2 | [bug none](https://bugzil.la/none)        | N2a8PW_vTEad-YK7G1GZ8g l10n mac repack failed. hg timeout for gecko repo mozilla-unified. reran | False | True |
+| jlund  | 2 | [bug none](https://bugzil.la/none)        | N2a8PW_vTEad-YK7G1GZ8g l10n mac repack failed. hg timeout for gecko repo mozilla-unified. reran | True | False |
 
 ## Build 7  :bomb: _aborted release. starting new build num_ :bomb: 
 
