@@ -19,13 +19,13 @@
                     "alias": "",
                     "description": "Validate new locale (ia) was built and is ready",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1412962",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
