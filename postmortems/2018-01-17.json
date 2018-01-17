@@ -1,0 +1,35 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-01-11",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "2 dummy tasks (A41szYoPTUK9wLRxWtJvrg &f2joGZpPQJG5rEnTzJu2cA) ended up as exception/claimExpired. TC or worker issue ? Reran them to unblock an update verify job each",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0b16"
+        },
+        {
+            "date": "2018-01-11",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "58.0b16"
+        },
+        {
+            "date": "2018-01-15",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "58.0b17"
+        }
+    ],
+    "date": "2018-01-17"
+}
