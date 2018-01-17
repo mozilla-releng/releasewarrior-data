@@ -33,7 +33,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1412967",
+                    "description": "Releaserunner was not configured to track esr, after in-tree-relpro changes.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
