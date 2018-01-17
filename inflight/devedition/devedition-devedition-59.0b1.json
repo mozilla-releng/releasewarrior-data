@@ -45,7 +45,7 @@
                     "alias": "",
                     "description": "(maybe) manually tag and version bump devedition",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
