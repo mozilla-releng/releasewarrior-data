@@ -71,15 +71,15 @@
                     "description": "Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win)",
                     "future_threat": true,
                     "id": 2,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
                     "bug": "1430670",
                     "description": "AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 3,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]

@@ -25,8 +25,8 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1430535](https://bugzil.la/1430535)        | Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials | True | False |
-| nthomas  | 2 | [bug 1415557](https://bugzil.la/1415557)        | Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win) | False | True |
-| jlund  | 3 | [bug 1430670](https://bugzil.la/1430670)        | AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/ | False | True |
+| nthomas  | 2 | [bug 1415557](https://bugzil.la/1415557)        | Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win) | True | True |
+| jlund  | 3 | [bug 1430670](https://bugzil.la/1430670)        | AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/ | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
