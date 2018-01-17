@@ -25,7 +25,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1431152](https://bugzil.la/1431152)        | Version bumping for devedition fails due to invalid config file. | False | True |
+| callek  | 1 | [bug 1431152](https://bugzil.la/1431152)        | Version bumping for devedition fails due to invalid config file. | True | True |
 
 ## Build 10  :bomb: _aborted release. starting new build num_ :bomb: 
 
