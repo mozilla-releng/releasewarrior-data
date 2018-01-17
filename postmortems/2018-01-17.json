@@ -24,6 +24,147 @@
             "version": "58.0b16"
         },
         {
+            "date": "2018-01-12",
+            "future_threats": [
+                {
+                    "bug": "1431152",
+                    "buildnum": 11,
+                    "description": "Version bumping for devedition fails due to invalid config file.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1430246",
+                    "buildnum": 9,
+                    "description": "UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1430670",
+                    "buildnum": 9,
+                    "description": "AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1430246",
+                    "buildnum": 8,
+                    "description": "UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1430246",
+                    "buildnum": 4,
+                    "description": "mar_tools_url was set as per buildbot logic not TC logic.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "rr3 on bm85 needed to be restarted via supervisorctl, and a new build created.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1430246",
+                    "buildnum": 10,
+                    "description": "UV partial bustage from build7 needs to be verified to be fixed: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c18",
+                    "future_threat": false,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1430670",
+                    "buildnum": 10,
+                    "description": "AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/",
+                    "future_threat": false,
+                    "id": 2,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 8,
+                    "description": "N2a8PW_vTEad-YK7G1GZ8g l10n mac repack failed. hg timeout for gecko repo mozilla-unified. reran",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1430246",
+                    "buildnum": 7,
+                    "description": "UV failing to apply some (all?) partials. Unclear on cause. More notes here: https://bugzilla.mozilla.org/show_bug.cgi?id=1430246#c16",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "aki"
+                },
+                {
+                    "bug": "1430246",
+                    "buildnum": 6,
+                    "description": "UV failures because of missing in-tree configuration on mozharness script args",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "aki"
+                },
+                {
+                    "bug": "1430246",
+                    "buildnum": 5,
+                    "description": "l10n mac jobs failing bc of missing os import",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "aki"
+                },
+                {
+                    "bug": "1430246",
+                    "buildnum": 4,
+                    "description": "release-source-signing is running on depsigning",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "rr3 on bm85 needed to be restarted via supervisorctl, and a new build created.",
+                    "future_threat": false,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "build4 died in shipit because the changeset picked up 58's relbranch",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "rr3 on bm85 was out of date for in-tree relpro, needed to hg pull, and submit a new build",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "59.0b1"
+        },
+        {
             "date": "2018-01-15",
             "future_threats": [],
             "product": "fennec",
