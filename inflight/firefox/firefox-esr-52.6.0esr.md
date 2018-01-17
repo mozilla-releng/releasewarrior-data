@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1412967](https://bugzil.la/1412967)        | Releaserunner was not configured to track esr, after in-tree-relpro changes. | False | True |
+| callek  | 1 | [bug 1412967](https://bugzil.la/1412967)        | Releaserunner was not configured to track esr, after in-tree-relpro changes. | True | False |
 
