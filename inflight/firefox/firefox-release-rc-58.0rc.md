@@ -24,7 +24,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | ssh connection failed for a repack. reran JYZIwWyHS1mMaBEs0yv8Gw | False | True |
 
 ## Build 5  :bomb: _aborted release. starting new build num_ :bomb: 
 
