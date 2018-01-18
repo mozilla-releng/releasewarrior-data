@@ -60,7 +60,7 @@
                     "bug": "none",
                     "description": "ssh connection failed for a repack. reran JYZIwWyHS1mMaBEs0yv8Gw",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
