@@ -3,6 +3,40 @@
     "inflight": [
         {
             "aborted": false,
+            "buildnum": 2,
+            "graphids": [
+                "Bhn58VtAQuqrwc63y-JzJw"
+            ],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "candidates",
+                    "description": "emailed candidates",
+                    "docs": "",
+                    "resolved": false
+                },
+                {
+                    "alias": "pushapk",
+                    "description": "run pushapk",
+                    "docs": "https://github.com/mozilla/releasewarrior/blob/master/how-tos/fennec-temp-relpro.md#run-pushapk-manually",
+                    "resolved": false
+                },
+                {
+                    "alias": "publish",
+                    "description": "published release tasks",
+                    "docs": "",
+                    "resolved": false
+                }
+            ],
+            "issues": []
+        },
+        {
+            "aborted": true,
             "buildnum": 1,
             "graphids": [
                 "G8cZeBcxRxa3lwFem-CCjw"
