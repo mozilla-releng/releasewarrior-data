@@ -24,7 +24,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1431381](https://bugzil.la/1431381)        | Partials generation broken with construct exception (due to missing package pins) | False | True |
+| callek  | 1 | [bug 1431381](https://bugzil.la/1431381)        | Partials generation broken with construct exception (due to missing package pins) | True | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 
