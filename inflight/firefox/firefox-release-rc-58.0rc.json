@@ -57,7 +57,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1431381",
+                    "description": "Partials generation broken with construct exception (due to missing package pins)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         },
         {
             "aborted": true,
