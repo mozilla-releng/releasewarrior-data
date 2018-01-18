@@ -2,7 +2,7 @@
     "date": "2018-01-15",
     "inflight": [
         {
-            "aborted": false,
+            "aborted": true,
             "buildnum": 4,
             "graphids": [
                 "ZQ5x4-6dR7W5DBGSIryEYg"

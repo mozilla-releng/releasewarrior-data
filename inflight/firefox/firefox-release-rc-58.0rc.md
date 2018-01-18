@@ -5,7 +5,7 @@
 ## Preflight tasks (pre go-to-build)
 - [x] 1. due:2018-01-15 - [bug 1415557](https://bugzil.la/1415557): this is actually a post gtb human task but we are limited in rw and can't create ad-hoc tasks until after gtb. We should merge, fix conflicts of the patcher patch we have needed since 57.0. Context: https://bugzilla.mozilla.org/show_bug.cgi?id=1415557#c9 and recent example tools patch with required retagging can be found here: https://bugzilla.mozilla.org/show_bug.cgi?id=1421535#c8 *Note*: we still need proper docs on how to do this I believe.
 
-## Build 4  
+## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
 [task group](https://tools.taskcluster.net/push-inspector/#/ZQ5x4-6dR7W5DBGSIryEYg)
