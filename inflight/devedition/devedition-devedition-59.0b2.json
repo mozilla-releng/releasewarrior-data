@@ -39,7 +39,7 @@
                     "alias": "",
                     "description": "Manually version bump, and mark as shipped (due to Bug 1431152)",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
