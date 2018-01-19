@@ -5,7 +5,8 @@
             "aborted": false,
             "buildnum": 6,
             "graphids": [
-                "NTzcMXyoTdaaAXvCqJKPtQ"
+                "NTzcMXyoTdaaAXvCqJKPtQ",
+                "AtQ39aLrRPae7xT5-RjPPA"
             ],
             "human_tasks": [
                 {
@@ -42,7 +43,7 @@
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#push-artifacts-to-releases-directory",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
