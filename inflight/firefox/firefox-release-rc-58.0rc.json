@@ -57,15 +57,7 @@
                     "resolved": false
                 }
             ],
-            "issues": [
-                {
-                    "bug": "none",
-                    "description": "ssh connection failed for a repack. reran JYZIwWyHS1mMaBEs0yv8Gw",
-                    "future_threat": true,
-                    "resolved": true,
-                    "who": "jlund"
-                }
-            ]
+            "issues": []
         },
         {
             "aborted": true,
