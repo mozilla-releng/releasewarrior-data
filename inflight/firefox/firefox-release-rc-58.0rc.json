@@ -123,7 +123,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1431381",
+                    "description": "Partials generation broken with construct exception (due to missing package pins) -- Release only due to funsize balrog docker being seperate",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ]
         },
         {
             "aborted": true,
