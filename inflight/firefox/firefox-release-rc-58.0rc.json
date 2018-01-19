@@ -58,6 +58,12 @@
                     "resolved": false
                 },
                 {
+                    "alias": "",
+                    "description": "Create POA for Firefox Balrog rules, to make 'release' match 'release-cdntest'",
+                    "docs": "",
+                    "resolved": false
+                },
+                {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",

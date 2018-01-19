@@ -21,7 +21,8 @@
 - [x] 6.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
 - [ ] 7.  [how-to](https://hg.mozilla.org/users/bhearsum_mozilla.com/tools/file/update-status/scripts/updates/)  - Create BenScript config for 58.0 WNP, and run against release-cdntest
 - [ ] 8.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release)  - publish release tasks
-- [ ] 9.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
+- [ ] 9.  - Create POA for Firefox Balrog rules, to make 'release' match 'release-cdntest'
+- [ ] 10.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
