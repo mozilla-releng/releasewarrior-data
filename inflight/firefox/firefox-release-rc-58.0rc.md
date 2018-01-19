@@ -13,7 +13,7 @@
 
 #### Status
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1415557#c16)  - A tools patch that truncates UV tests for <57.0.4 for linux/mac and <56.0 for win. This reflects our watershed state and release-localtest. The tools repo will need to be retagged with the patcher config changes. Context in the bug. Note, we don't need the OS_VERSION patches previously.
+- [x] 2.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1415557#c16)  - A tools patch that truncates UV tests for <57.0.4 for linux/mac and <56.0 for win. This reflects our watershed state and release-localtest. The tools repo will need to be retagged with the patcher config changes. Context in the bug. Note, we don't need the OS_VERSION patches previously.
 - [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release)  - publish in Balrog on beta channel
 - [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
 - [ ] 5.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Set-up_whatsnew_page)  - setup whatsnew page (bug 1428419)
