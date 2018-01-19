@@ -20,7 +20,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | linux64 repack 7/10 (JYZIwWyHS1mMaBEs0yv8Gw) failed upload on a single locale, a rather strange ssh warning. The corresponding artifacts task (TK2DGUBMRn6h08dfVJC8qw) also failed. Initial fix was running the repack in buildbot, rather than tc, witbhout touching the artifacts task so - so the repack failed. Reran both tasks using taskcluster cli | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
