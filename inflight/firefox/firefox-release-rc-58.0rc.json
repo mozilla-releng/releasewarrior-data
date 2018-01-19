@@ -24,13 +24,13 @@
                     "alias": "beta",
                     "description": "publish in Balrog on beta channel",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "betasignoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "wnp",
