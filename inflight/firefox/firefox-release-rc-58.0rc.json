@@ -46,6 +46,12 @@
                     "resolved": true
                 },
                 {
+                    "alias": "",
+                    "description": "Create BenScript config for 58.0 WNP, and run against release-cdntest",
+                    "docs": "https://hg.mozilla.org/users/bhearsum_mozilla.com/tools/file/update-status/scripts/updates/",
+                    "resolved": false
+                },
+                {
                     "alias": "publish",
                     "description": "publish release tasks",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release",
