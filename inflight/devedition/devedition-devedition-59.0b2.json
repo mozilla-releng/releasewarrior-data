@@ -32,6 +32,12 @@
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#obtain-sign-offs-for-changes",
                     "resolved": false
+                },
+                {
+                    "alias": "",
+                    "description": "Manually version bump, and mark as shipped (due to Bug 1431152)",
+                    "docs": "",
+                    "resolved": false
                 }
             ],
             "issues": [
