@@ -33,7 +33,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1432265",
+                    "description": "Source builder was being signed with dep-signing, an issue that also hit devedition but needed a different patch.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
