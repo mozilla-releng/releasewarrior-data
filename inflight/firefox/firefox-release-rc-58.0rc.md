@@ -28,7 +28,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1432335](https://bugzil.la/1432335)        | Firefox 58 Release Uptake Monitoring failed, due to missing bz2 mar's | False | True |
 
 ## Build 5  :bomb: _aborted release. starting new build num_ :bomb: 
 
