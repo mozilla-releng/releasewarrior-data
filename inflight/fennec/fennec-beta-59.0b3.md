@@ -18,5 +18,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1432265](https://bugzil.la/1432265)        | Source builder would have been signed with dep-signing, an issue that hit firefox 59.0b3. | False | True |
 

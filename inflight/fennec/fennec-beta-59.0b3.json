@@ -21,7 +21,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1432265",
+                    "description": "Source builder would have been signed with dep-signing, an issue that hit firefox 59.0b3.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
