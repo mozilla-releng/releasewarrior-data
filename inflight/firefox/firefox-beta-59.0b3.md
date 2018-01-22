@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1432265](https://bugzil.la/1432265)        | Source builder was being signed with dep-signing, an issue that also hit devedition but needed a different patch. | False | True |
+| callek  | 1 | [bug 1432265](https://bugzil.la/1432265)        | Source builder was being signed with dep-signing, an issue that also hit devedition but needed a different patch. | True | False |
 
