@@ -49,7 +49,7 @@
                     "alias": "",
                     "description": "Create BenScript config for 58.0 WNP, and run against release-cdntest",
                     "docs": "https://hg.mozilla.org/users/bhearsum_mozilla.com/tools/file/update-status/scripts/updates/",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
