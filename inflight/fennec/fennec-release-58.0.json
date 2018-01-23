@@ -25,7 +25,7 @@
                     "alias": "publish",
                     "description": "published release tasks",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": []
