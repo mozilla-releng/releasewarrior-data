@@ -23,7 +23,7 @@
 - [x] 8.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release)  - publish release tasks
 - [x] 9.  [how-to](https://gist.github.com/Callek/5a6bdbc1c4b82dc5ba8cd6644e14e79f)  - Perform POA for Firefox Balrog rules, to make 'release' match 'release-cdntest'
 - [x] 10.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
-- [ ] 11.  - Run BenScript 58.0 WNP config against 'release' channel.
+- [x] 11.  - Run BenScript 58.0 WNP config against 'release' channel.
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |

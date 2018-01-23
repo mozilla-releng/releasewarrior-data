@@ -73,7 +73,7 @@
                     "alias": "",
                     "description": "Run BenScript 58.0 WNP config against 'release' channel.",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
