@@ -18,7 +18,7 @@
                     "alias": "",
                     "description": "Validate new locale (ia) was built and is ready",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1412962",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
