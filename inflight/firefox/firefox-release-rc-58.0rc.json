@@ -59,8 +59,8 @@
                 },
                 {
                     "alias": "",
-                    "description": "Create POA for Firefox Balrog rules, to make 'release' match 'release-cdntest'",
-                    "docs": "",
+                    "description": "Perform POA for Firefox Balrog rules, to make 'release' match 'release-cdntest'",
+                    "docs": "https://gist.github.com/Callek/5a6bdbc1c4b82dc5ba8cd6644e14e79f",
                     "resolved": false
                 },
                 {
