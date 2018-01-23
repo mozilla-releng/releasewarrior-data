@@ -87,8 +87,8 @@
                 {
                     "bug": "1432335",
                     "description": "Final verify was blocked on uptake monitoring - forced to run via cancel=>rerun.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
