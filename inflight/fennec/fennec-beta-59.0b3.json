@@ -34,7 +34,7 @@
                     "bug": "1432696",
                     "description": "ship_fennec action generates failing, unwanted l10n tasks",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
