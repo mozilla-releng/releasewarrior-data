@@ -24,5 +24,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | mirroring aurora watersheds were added to aurora-localtest: rules 728 and 726. This broke UV as UV wasn't prepared for them. I moved them to low priority so they won't get hit in Balrog. Fix is to fix up patcher configs so UV expects them. We should also discuss if those watersheds are needed at all anymore | False | True |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | mirroring aurora watersheds were added to aurora-localtest: rules 728 and 726. This broke UV as UV wasn't prepared for them. I moved them to low priority so they won't get hit in Balrog. Fix is to fix up patcher configs so UV expects them. We should also discuss if those watersheds are needed at all anymore | True | True |
 

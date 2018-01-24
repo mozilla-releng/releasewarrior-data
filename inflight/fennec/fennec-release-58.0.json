@@ -32,8 +32,8 @@
                 {
                     "bug": "1328719",
                     "description": "[Bug 1328719's patch](https://bug1328719.bmoattachments.org/attachment.cgi?id=8944128) broke production pushapk because PyOpenSSL bump needed cryptography>=2.1.4.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
