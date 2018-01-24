@@ -18,7 +18,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | docs missing new fennec flavour: ship_fennec https://github.com/mozilla-releng/releasewarrior-2.0/issues/50 | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

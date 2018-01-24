@@ -21,7 +21,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "docs missing new fennec flavour: ship_fennec https://github.com/mozilla-releng/releasewarrior-2.0/issues/50",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         },
         {
             "aborted": true,
