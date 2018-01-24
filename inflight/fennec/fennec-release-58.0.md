@@ -20,7 +20,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1328719](https://bugzil.la/1328719)        | [Bug 1328719's patch](https://bug1328719.bmoattachments.org/attachment.cgi?id=8944128) broke production pushapk because PyOpenSSL bump needed cryptography>=2.1.4. | False | True |
+| callek  | 1 | [bug 1328719](https://bugzil.la/1328719)        | [Bug 1328719's patch](https://bug1328719.bmoattachments.org/attachment.cgi?id=8944128) broke production pushapk because PyOpenSSL bump needed cryptography>=2.1.4. | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
