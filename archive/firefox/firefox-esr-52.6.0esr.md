@@ -22,7 +22,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug none](https://bugzil.la/none)        | linux64 repack 7/10 (JYZIwWyHS1mMaBEs0yv8Gw) failed upload on a single locale, a rather strange ssh warning. The corresponding artifacts task (TK2DGUBMRn6h08dfVJC8qw) also failed. Initial fix was running the repack in buildbot, rather than tc, witbhout touching the artifacts task so - so the repack failed. Reran both tasks using taskcluster cli | True | False |
-| callek  | 2 | [bug 1407174](https://bugzil.la/1407174)        | Balrog failure when publishing (task shows as SUCCESSFUL!) Cannot submit scheduled change to alias "esr52": Invalid input for rule_id. Not an integer. rule_id: u'esr52' is not a 'rule_id' - Previously hit 52.4.1 (and others) | True | True |
+| callek  | 2 | [bug 1376502](https://bugzil.la/1376502)        | publish to balrog no longer works in automation | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
