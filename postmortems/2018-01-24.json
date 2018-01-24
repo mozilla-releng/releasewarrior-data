@@ -1,0 +1,236 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-01-15",
+            "future_threats": [
+                {
+                    "bug": "1432335",
+                    "buildnum": 6,
+                    "description": "Firefox 58 Release Uptake Monitoring failed, due to missing bz2 mar's",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1431381",
+                    "buildnum": 5,
+                    "description": "Partials generation broken with construct exception (due to missing package pins) -- Release only due to funsize balrog docker being seperate",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1431381",
+                    "buildnum": 4,
+                    "description": "Partials generation broken with construct exception (due to missing package pins)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1415557",
+                    "buildnum": 3,
+                    "description": "Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win)",
+                    "future_threat": true,
+                    "id": 2,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1430535",
+                    "buildnum": 2,
+                    "description": "Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1415557",
+                    "buildnum": 2,
+                    "description": "Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win)",
+                    "future_threat": true,
+                    "id": 2,
+                    "resolved": false,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1430670",
+                    "buildnum": 2,
+                    "description": "AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1430535",
+                    "buildnum": 1,
+                    "description": "Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1415557",
+                    "buildnum": 1,
+                    "description": "Update verify failures from testing updates from behind the watersheds at 57.0.4 (linux & mac) and 56.0 (win)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1432335",
+                    "buildnum": 6,
+                    "description": "Final verify was blocked on uptake monitoring - forced to run via cancel=>rerun.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1430535",
+                    "buildnum": 3,
+                    "description": "Despite backout of bug 1418425 and CDN purge in bug 1430597, we got CRC errors for partials",
+                    "future_threat": false,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1430670",
+                    "buildnum": 3,
+                    "description": "AWS network issues causing lot's of failures over the network. Tasks need to be rerun. Something like: https://irccloud.mozilla.com/pastebin/LulhGcoq/",
+                    "future_threat": false,
+                    "id": 3,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "version": "58.0rc"
+        },
+        {
+            "date": "2018-01-15",
+            "future_threats": [
+                {
+                    "bug": "1407174",
+                    "buildnum": 2,
+                    "description": "Balrog failure when publishing (task shows as SUCCESSFUL!) Cannot submit scheduled change to alias \"esr52\": Invalid input for rule_id. Not an integer. rule_id: u'esr52' is not a 'rule_id' - Previously hit 52.4.1 (and others)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "linux64 repack 7/10 (JYZIwWyHS1mMaBEs0yv8Gw) failed upload on a single locale, a rather strange ssh warning. The corresponding artifacts task (TK2DGUBMRn6h08dfVJC8qw) also failed. Initial fix was running the repack in buildbot, rather than tc, witbhout touching the artifacts task so - so the repack failed. Reran both tasks using taskcluster cli",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1412967",
+                    "buildnum": 1,
+                    "description": "Releaserunner was not configured to track esr, after in-tree-relpro changes.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "52.6.0esr"
+        },
+        {
+            "date": "2018-01-16",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "1328719",
+                    "buildnum": 2,
+                    "description": "[Bug 1328719's patch](https://bug1328719.bmoattachments.org/attachment.cgi?id=8944128) broke production pushapk because PyOpenSSL bump needed cryptography>=2.1.4.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "58.0"
+        },
+        {
+            "date": "2018-01-18",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "mirroring aurora watersheds were added to aurora-localtest: rules 728 and 726. This broke UV as UV wasn't prepared for them. I moved them to low priority so they won't get hit in Balrog. Fix is to fix up patcher configs so UV expects them. We should also discuss if those watersheds are needed at all anymore",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "59.0b2"
+        },
+        {
+            "date": "2018-01-22",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "59.0b3"
+        },
+        {
+            "date": "2018-01-22",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "docs missing new fennec flavour: ship_fennec https://github.com/mozilla-releng/releasewarrior-2.0/issues/50",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1432696",
+                    "buildnum": 2,
+                    "description": "ship_fennec action generates failing, unwanted l10n tasks",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "1432265",
+                    "buildnum": 1,
+                    "description": "Source builder would have been signed with dep-signing, an issue that hit firefox 59.0b3.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "59.0b3"
+        },
+        {
+            "date": "2018-01-22",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1432265",
+                    "buildnum": 1,
+                    "description": "Source builder was being signed with dep-signing, an issue that also hit devedition but needed a different patch.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "59.0b3"
+        }
+    ],
+    "date": "2018-01-24"
+}
