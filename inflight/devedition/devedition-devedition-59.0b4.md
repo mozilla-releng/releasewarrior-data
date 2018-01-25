@@ -21,5 +21,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug 1433226](https://bugzil.la/1433226)        | had to rerun repackage-l10n-it-macosx64-devedition-nightly/opt due to it not producing a dmg or mar on the first run. | False | True |
+| bhearsum  | 1 | [bug 1433226](https://bugzil.la/1433226)        | had to rerun repackage-l10n-it-macosx64-devedition-nightly/opt due to it not producing a dmg or mar on the first run. | True | True |
 
