@@ -34,7 +34,7 @@
                     "bug": "none",
                     "description": "balrog publishing task updated fallbackMapping to 59.0b3. julien pointed out that this is wrong if we want to ship 59.0b4 at < 100 background rate",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
