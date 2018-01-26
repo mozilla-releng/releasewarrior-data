@@ -36,6 +36,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "description": "release notications about shipping are lies",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         }

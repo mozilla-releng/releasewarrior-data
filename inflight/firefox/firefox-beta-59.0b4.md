@@ -22,4 +22,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | balrog publishing task updated fallbackMapping to 59.0b3. julien pointed out that this is wrong if we want to ship 59.0b4 at < 100 background rate | True | True |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | release notications about shipping are lies | False | True |
 
