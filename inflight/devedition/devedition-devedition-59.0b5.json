@@ -38,7 +38,7 @@
                     "bug": "1433809",
                     "description": "Missing SHA*SUMS files",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
