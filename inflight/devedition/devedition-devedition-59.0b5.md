@@ -21,4 +21,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1433809](https://bugzil.la/1433809)        | Missing SHA*SUMS files | True | True |
+| nthomas  | 2 | [bug none](https://bugzil.la/none)        | cot failure in win32 signing job (f400phKcTOewjOZ7qXxI8g) due to 500 from queue.taskcluster.net | False | True |
 

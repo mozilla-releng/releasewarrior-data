@@ -40,6 +40,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "description": "cot failure in win32 signing job (f400phKcTOewjOZ7qXxI8g) due to 500 from queue.taskcluster.net",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         }
