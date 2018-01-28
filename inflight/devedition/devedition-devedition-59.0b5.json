@@ -44,8 +44,8 @@
                 {
                     "bug": "none",
                     "description": "cot failure in win32 signing job (f400phKcTOewjOZ7qXxI8g) due to 500 from queue.taskcluster.net",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
