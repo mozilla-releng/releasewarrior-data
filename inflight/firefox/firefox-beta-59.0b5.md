@@ -19,5 +19,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug 1433809](https://bugzil.la/1433809)        | Missing SHA*SUMS files | False | True |
+| nthomas  | 1 | [bug 1433809](https://bugzil.la/1433809)        | Missing SHA*SUMS files | True | True |
 
