@@ -20,4 +20,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | why is there a push apk breakpoint task in fennec push and ship graphs | False | True |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | why does fennec release use publish_fennec instead of push_fennec for ACTION_FLAVOR | False | True |
 

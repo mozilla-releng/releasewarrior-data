@@ -29,6 +29,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "description": "why does fennec release use publish_fennec instead of push_fennec for ACTION_FLAVOR",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         }
