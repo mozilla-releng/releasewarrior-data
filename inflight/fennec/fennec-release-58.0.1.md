@@ -21,4 +21,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | why is there a push apk breakpoint task in fennec push and ship graphs | False | True |
 | bhearsum  | 2 | [bug none](https://bugzil.la/none)        | why does fennec release use publish_fennec instead of push_fennec for ACTION_FLAVOR | False | True |
+| bhearsum  | 3 | [bug none](https://bugzil.la/none)        | why are source-test-mozlint-eslint and source-test-mozlint-test-manifest running as part of publish_fennec | False | True |
 
