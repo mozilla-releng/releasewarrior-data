@@ -20,7 +20,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | why is there a push apk breakpoint task in fennec push and ship graphs | True | True |
-| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | why does fennec release use publish_fennec instead of push_fennec for ACTION_FLAVOR | False | True |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | why does fennec release use publish_fennec instead of push_fennec for ACTION_FLAVOR | True | True |
 | bhearsum  | 3 | [bug none](https://bugzil.la/none)        | why are source-test-mozlint-eslint and source-test-mozlint-test-manifest running as part of publish_fennec | False | True |
 | bhearsum  | 4 | [bug none](https://bugzil.la/none)        | release notes pointed at wrong push instructions | False | True |
 
