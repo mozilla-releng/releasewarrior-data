@@ -48,7 +48,7 @@
                     "bug": "none",
                     "description": "release notes pointed at wrong push instructions",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
