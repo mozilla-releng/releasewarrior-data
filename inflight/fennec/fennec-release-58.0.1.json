@@ -22,7 +22,15 @@
                     "resolved": true
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "why is there a push apk breakpoint task in fennec push and ship graphs",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         }
     ],
     "preflight": {
