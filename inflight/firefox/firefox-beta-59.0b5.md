@@ -21,5 +21,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1433809](https://bugzil.la/1433809)        | Missing SHA*SUMS files | True | True |
-| jlund  | 2 | [bug 1433809](https://bugzil.la/1433809)        | push graph was generated before promote graph finished and dependencies ignore checksums artifacts. We need to first make sure if KEY, SHA512SUMS made it to releases dir. If it did not, we need to do something like https://bugzilla.mozilla.org/show_bug.cgi?id=1433809#c1 but for devedition 59.0 | False | True |
+| jlund  | 2 | [bug 1433809](https://bugzil.la/1433809)        | push graph was generated before promote graph finished and dependencies ignore checksums artifacts. We need to first make sure if KEY, SHA512SUMS made it to releases dir. If it did not, we need to do something like https://bugzilla.mozilla.org/show_bug.cgi?id=1433809#c1 but for devedition 59.0 | True | False |
 
