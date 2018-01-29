@@ -35,6 +35,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "1433809",
+                    "description": "push graph was generated before promote graph finished and dependencies ignore checksums artifacts. We need to first make sure if KEY, SHA512SUMS made it to releases dir. If it did not, we need to do something like https://bugzilla.mozilla.org/show_bug.cgi?id=1433809#c1 but for devedition 59.0",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         }
