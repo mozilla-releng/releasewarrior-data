@@ -23,4 +23,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1433809](https://bugzil.la/1433809)        | Missing SHA*SUMS files | True | True |
 | nthomas  | 2 | [bug none](https://bugzil.la/none)        | cot failure in win32 signing job (f400phKcTOewjOZ7qXxI8g) due to 500 from queue.taskcluster.net | True | False |
+| jlund  | 3 | [bug 1433809](https://bugzil.la/1433809)        | push graph was generated before promote graph finished and dependencies ignore checksums artifacts. We need to first make sure if KEY, SHA512SUMS made it to releases dir. If it did not, we need to do something like https://bugzilla.mozilla.org/show_bug.cgi?id=1433809#c1 but for devedition 59.0b5 | False | True |
 
