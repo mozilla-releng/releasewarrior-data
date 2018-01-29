@@ -41,7 +41,7 @@
                     "bug": "none",
                     "description": "why are source-test-mozlint-eslint and source-test-mozlint-test-manifest running as part of publish_fennec",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 },
                 {
