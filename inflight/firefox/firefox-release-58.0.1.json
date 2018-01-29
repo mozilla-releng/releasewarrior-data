@@ -44,7 +44,7 @@
                     "bug": "1432335",
                     "description": "Firefox 58 Release Uptake Monitoring failed, due to missing bz2 mars",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "sfraser"
                 }
             ]
