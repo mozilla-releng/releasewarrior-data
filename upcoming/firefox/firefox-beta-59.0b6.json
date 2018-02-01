@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1431764",
+                "deadline": "2018-01-30",
+                "description": "[jlorenzo] 'release-mark-as-shipped' task is now running on scriptworker. I don't expect breakage, but there might be issues either related to scopes or to https credentials. In case of a failure, you can just manually mark the release as shipped on the ship-it webUI. This task doesn't do more. In any case, please reach out to me if any issue comes up",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "59.0b6"

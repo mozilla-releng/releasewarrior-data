@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-01-31
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-01-30 - [bug 1431764](https://bugzil.la/1431764): [jlorenzo] 'release-mark-as-shipped' task is now running on scriptworker. I don't expect breakage, but there might be issues either related to scopes or to https credentials. In case of a failure, you can just manually mark the release as shipped on the ship-it webUI. This task doesn't do more. In any case, please reach out to me if any issue comes up
 
 ## Build 1  
 
