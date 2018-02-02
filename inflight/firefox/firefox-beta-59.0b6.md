@@ -22,5 +22,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| bhearsum  | 1 | [bug 1433157](https://bugzil.la/1433157)        | ship action task failed because of missing scopes | False | True |
 

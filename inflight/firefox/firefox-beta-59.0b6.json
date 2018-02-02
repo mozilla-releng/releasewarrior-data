@@ -35,7 +35,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1433157",
+                    "description": "ship action task failed because of missing scopes",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         }
     ],
     "preflight": {
