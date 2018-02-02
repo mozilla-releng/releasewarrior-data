@@ -39,8 +39,8 @@
                 {
                     "bug": "1433157",
                     "description": "ship action task failed because of missing scopes",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
