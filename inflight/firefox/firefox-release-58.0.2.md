@@ -21,5 +21,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | needed to rerun l10n task that timed out. This should be auto retried by tc or the script. task: WOGc2qYcRqCHHX7P2q3QLw | False | True |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | needed to rerun l10n task that timed out. This should be auto retried by tc or the script. task: WOGc2qYcRqCHHX7P2q3QLw | True | True |
 
