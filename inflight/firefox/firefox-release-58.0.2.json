@@ -39,7 +39,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "needed to rerun l10n task that timed out. This should be auto retried by tc or the script. task: WOGc2qYcRqCHHX7P2q3QLw",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {
