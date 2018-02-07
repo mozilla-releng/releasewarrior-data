@@ -17,7 +17,7 @@
 - [x] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
 - [x] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#publish-the-release)  - publish release tasks
 - [x] 5.  - manaully schedule an update for the two release wnp rules similar to release-cdntest: rules 733 and 677. Sign off on these as well as automation scheduled changes when ready to signoff
-- [ ] 6.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
+- [x] 6.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
