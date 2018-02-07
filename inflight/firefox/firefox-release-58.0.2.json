@@ -33,6 +33,12 @@
                     "resolved": false
                 },
                 {
+                    "alias": "",
+                    "description": "manaully schedule an update for the two release wnp rules similar to release-cdntest: rules 733 and 677. Sign off on these as well as automation scheduled changes when ready to signoff",
+                    "docs": "",
+                    "resolved": false
+                },
+                {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",
