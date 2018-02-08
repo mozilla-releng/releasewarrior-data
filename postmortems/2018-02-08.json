@@ -1,0 +1,81 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-01-31",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1433157",
+                    "buildnum": 1,
+                    "description": "ship action task failed because of missing scopes",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "59.0b6"
+        },
+        {
+            "date": "2018-01-31",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1433157",
+                    "buildnum": 1,
+                    "description": "ship action task failed because of missing scopes",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "59.0b6"
+        },
+        {
+            "date": "2018-02-05",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "59.0b7"
+        },
+        {
+            "date": "2018-02-05",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "59.0b7"
+        },
+        {
+            "date": "2018-02-05",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "59.0b7"
+        },
+        {
+            "date": "2018-02-06",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "needed to rerun l10n task that timed out. This should be auto retried by tc or the script. task: WOGc2qYcRqCHHX7P2q3QLw",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "58.0.2"
+        },
+        {
+            "date": "2018-02-06",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "58.0.2"
+        }
+    ],
+    "date": "2018-02-08"
+}
