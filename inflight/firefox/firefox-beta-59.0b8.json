@@ -5,7 +5,10 @@
             "aborted": false,
             "buildnum": 2,
             "graphids": [
-                "fr4aqIAoSK-4iY6-Vs8Zqg",
+                [
+                    "promote",
+                    "fr4aqIAoSK-4iY6-Vs8Zqg"
+                ],
                 [
                     "push",
                     "IaPhu3XWTjSZPmq0N6ZFrQ"
