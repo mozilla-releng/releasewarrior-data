@@ -39,8 +39,8 @@
                 {
                     "bug": "1437099",
                     "description": "Ship-it is unresponsive. All connections to port 443 are hanging",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 }
             ]

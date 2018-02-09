@@ -22,7 +22,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| mihaitabara  | 1 | [bug 1437099](https://bugzil.la/1437099)        | Ship-it is unresponsive. All connections to port 443 are hanging | False | True |
+| mihaitabara  | 1 | [bug 1437099](https://bugzil.la/1437099)        | Ship-it is unresponsive. All connections to port 443 are hanging | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
