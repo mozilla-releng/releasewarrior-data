@@ -5,14 +5,8 @@
             "aborted": false,
             "buildnum": 2,
             "graphids": [
-                [
-                    "promote",
-                    "fr4aqIAoSK-4iY6-Vs8Zqg"
-                ],
-                [
-                    "push",
-                    "IaPhu3XWTjSZPmq0N6ZFrQ"
-                ]
+                "fr4aqIAoSK-4iY6-Vs8Zqg",
+                "IaPhu3XWTjSZPmq0N6ZFrQ"
             ],
             "human_tasks": [
                 {
