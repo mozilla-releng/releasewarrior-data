@@ -8,7 +8,7 @@
 ## Build 2  
 
 ### Graphs
-[J](https://tools.taskcluster.net/push-inspector/#/Y)
+[promote](https://tools.taskcluster.net/push-inspector/#/JYVhA-O6RvO8ppYKdwFNBw)
 [push](https://tools.taskcluster.net/push-inspector/#/VE-IWBFFQaqO_lJ2-8nbaw)
 
 
