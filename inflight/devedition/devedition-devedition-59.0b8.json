@@ -38,7 +38,7 @@
                     "bug": "none",
                     "description": "Promotion Release Promotion Updates Release task failed to push to hg. Collision with desktop beta? Reran PmXbQjOjRNKiKddYhRX0YQ",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
