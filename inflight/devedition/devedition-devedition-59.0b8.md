@@ -20,7 +20,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | Promotion Release Promotion Updates Release task failed to push to hg. Collision with desktop beta? Reran PmXbQjOjRNKiKddYhRX0YQ | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
