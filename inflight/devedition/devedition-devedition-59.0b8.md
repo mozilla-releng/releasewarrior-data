@@ -23,6 +23,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug none](https://bugzil.la/none)        | Promotion Release Promotion Updates Release task failed to push to hg. Collision with desktop beta? Reran PmXbQjOjRNKiKddYhRX0YQ | True | True |
+| mihaitabara  | 2 | [bug 1437099](https://bugzil.la/1437099)        | Ship-it is unresponsive. All connections to port 443 are hanging | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
