@@ -8,8 +8,8 @@
 ## Build 2  
 
 ### Graphs
-[task group](https://tools.taskcluster.net/push-inspector/#/['promote', 'JYVhA-O6RvO8ppYKdwFNBw'])
-[task group](https://tools.taskcluster.net/push-inspector/#/['push', 'VE-IWBFFQaqO_lJ2-8nbaw'])
+[task group](https://tools.taskcluster.net/push-inspector/#/JYVhA-O6RvO8ppYKdwFNBw)
+[task group](https://tools.taskcluster.net/push-inspector/#/VE-IWBFFQaqO_lJ2-8nbaw)
 
 
 #### Status
