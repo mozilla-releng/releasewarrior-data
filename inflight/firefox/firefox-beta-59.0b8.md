@@ -8,7 +8,8 @@
 ## Build 2  
 
 ### Graphs
-[task group](https://tools.taskcluster.net/push-inspector/#/fr4aqIAoSK-4iY6-Vs8Zqg)
+[f](https://tools.taskcluster.net/push-inspector/#/r)
+[push](https://tools.taskcluster.net/push-inspector/#/IaPhu3XWTjSZPmq0N6ZFrQ)
 
 
 #### Status
@@ -25,7 +26,7 @@
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
-[task group](https://tools.taskcluster.net/push-inspector/#/dGhOcSOPRl-VpcRHi9GrSw)
+[d](https://tools.taskcluster.net/push-inspector/#/G)
 
 
 #### Status
