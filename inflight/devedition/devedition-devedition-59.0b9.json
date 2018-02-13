@@ -39,8 +39,8 @@
                 {
                     "bug": "none",
                     "description": "Version bump failed, `push creates new remote head`. Most likely race condition while firefox already pushed. Rerunning this.\"",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 }
             ]
