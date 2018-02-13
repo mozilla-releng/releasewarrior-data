@@ -8,7 +8,8 @@
 ## Build 1  
 
 ### Graphs
-[task group](https://tools.taskcluster.net/push-inspector/#/O3M23N33QcGvnAqLXHbVKA)
+[O](https://tools.taskcluster.net/push-inspector/#/3)
+[O](https://tools.taskcluster.net/push-inspector/#/o)
 
 
 #### Status
