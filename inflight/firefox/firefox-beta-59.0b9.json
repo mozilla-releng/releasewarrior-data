@@ -39,8 +39,8 @@
                 {
                     "bug": "none",
                     "description": "nightly-l10n-macosx64-devedition-nightly-11/opt failed with connection reset error while cloning a repo",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 },
                 {
