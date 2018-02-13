@@ -5,8 +5,14 @@
             "aborted": false,
             "buildnum": 1,
             "graphids": [
-                ["promote", "O3M23N33QcGvnAqLXHbVKA"],
-                ["ship", "OoiEYkynQiqo1fmDOF1vkg"]
+                [
+                    "promote",
+                    "O3M23N33QcGvnAqLXHbVKA"
+                ],
+                [
+                    "ship",
+                    "OoiEYkynQiqo1fmDOF1vkg"
+                ]
             ],
             "human_tasks": [
                 {
