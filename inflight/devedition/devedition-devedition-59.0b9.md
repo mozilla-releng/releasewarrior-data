@@ -22,5 +22,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| mihaitabara  | 1 | [bug none](https://bugzil.la/none)        | Version bump failed, `push creates new remote head`. Most likely race condition while firefox already pushed. Rerunning this." | False | True |
 
