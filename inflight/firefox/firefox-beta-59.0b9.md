@@ -23,5 +23,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | nightly-l10n-macosx64-devedition-nightly-11/opt failed with connection reset error while cloning a repo | True | False |
-| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | huge backlog of signing tasks - almost 1000 pending at one point | False | True |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | huge backlog of signing tasks - almost 1000 pending at one point | True | False |
 

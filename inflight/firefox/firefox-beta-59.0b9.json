@@ -46,8 +46,8 @@
                 {
                     "bug": "none",
                     "description": "huge backlog of signing tasks - almost 1000 pending at one point",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
