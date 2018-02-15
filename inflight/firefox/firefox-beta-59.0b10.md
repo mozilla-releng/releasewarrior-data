@@ -20,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | new action task role (repo:hg.mozilla.org/releases/mozilla-beta:branch:default) was missing queue:create-task:highest:scriptworker-prov-v1/beetmoverworker-v1 | False | True |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | new action task role (repo:hg.mozilla.org/releases/mozilla-beta:branch:default) was missing queue:create-task:highest:scriptworker-prov-v1/beetmoverworker-v1 | True | False |
 
