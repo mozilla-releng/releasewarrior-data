@@ -35,8 +35,8 @@
                 {
                     "bug": "none",
                     "description": "new action task role (repo:hg.mozilla.org/releases/mozilla-beta:branch:default) was missing queue:create-task:highest:scriptworker-prov-v1/beetmoverworker-v1",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
