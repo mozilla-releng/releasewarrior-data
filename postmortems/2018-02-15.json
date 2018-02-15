@@ -1,0 +1,100 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-02-02",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "59.0b1"
+        },
+        {
+            "date": "2018-02-08",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1437099",
+                    "buildnum": 2,
+                    "description": "Ship-it is unresponsive. All connections to port 443 are hanging",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                }
+            ],
+            "version": "59.0b8"
+        },
+        {
+            "date": "2018-02-08",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "Promotion Release Promotion Updates Release task failed to push to hg. Collision with desktop beta? Reran PmXbQjOjRNKiKddYhRX0YQ",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1437099",
+                    "buildnum": 2,
+                    "description": "Ship-it is unresponsive. All connections to port 443 are hanging",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                }
+            ],
+            "version": "59.0b8"
+        },
+        {
+            "date": "2018-02-12",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "nightly-l10n-macosx64-devedition-nightly-11/opt failed with connection reset error while cloning a repo",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "huge backlog of signing tasks - almost 1000 pending at one point",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "59.0b9"
+        },
+        {
+            "date": "2018-02-12",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Version bump failed, `push creates new remote head`. Most likely race condition while firefox already pushed. Rerunning this.\"",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                }
+            ],
+            "version": "59.0b9"
+        },
+        {
+            "date": "2018-02-12",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "59.0b9"
+        }
+    ],
+    "date": "2018-02-15"
+}
