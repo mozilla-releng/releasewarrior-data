@@ -35,8 +35,8 @@
                 {
                     "bug": "none",
                     "description": "queue:create-task:highest:scriptworker-prov-v1/balrogworker-v1",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
