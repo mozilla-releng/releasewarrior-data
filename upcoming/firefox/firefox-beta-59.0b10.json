@@ -1,0 +1,42 @@
+{
+    "date": "2018-02-15",
+    "inflight": [
+        {
+            "aborted": false,
+            "buildnum": 1,
+            "graphids": [],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": false
+                },
+                {
+                    "alias": "mirrors",
+                    "description": "pushed to mirrors/releases",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory",
+                    "resolved": false
+                },
+                {
+                    "alias": "publish",
+                    "description": "publish release tasks",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#ship-the-release",
+                    "resolved": false
+                },
+                {
+                    "alias": "signoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#obtain-sign-offs-for-changes",
+                    "resolved": false
+                }
+            ],
+            "issues": []
+        }
+    ],
+    "preflight": {
+        "human_tasks": []
+    },
+    "product": "firefox",
+    "version": "59.0b10"
+}
