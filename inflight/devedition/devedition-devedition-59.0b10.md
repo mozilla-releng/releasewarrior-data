@@ -20,7 +20,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | queue:create-task:highest:scriptworker-prov-v1/balrogworker-v1 | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
