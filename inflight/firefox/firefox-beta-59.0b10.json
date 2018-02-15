@@ -31,7 +31,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "missing scope queue:create-task:highest:scriptworker-prov-v1/balrogworker-v1",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         },
         {
             "aborted": true,
