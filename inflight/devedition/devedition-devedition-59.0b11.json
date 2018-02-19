@@ -40,7 +40,7 @@
                 {
                     "bug": "1409445",
                     "description": "Updates builder can race pushing to tools",
-                    "future_threat": true,
+                    "future_threat": false,
                     "resolved": true,
                     "who": "jlund"
                 },
