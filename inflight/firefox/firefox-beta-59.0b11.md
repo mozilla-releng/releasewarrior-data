@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1438906](https://bugzil.la/1438906)        | UV script change broke mac-os UV. backed out | False | True |
+| jlund  | 1 | [bug 1438906](https://bugzil.la/1438906)        | UV script change broke mac-os UV. backed out | True | False |
 
