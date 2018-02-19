@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1438906",
+                    "description": "UV script change broke mac-os UV. backed out",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {
