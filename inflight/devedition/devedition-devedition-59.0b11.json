@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1409445",
+                    "description": "Updates builder can race pushing to tools",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {
