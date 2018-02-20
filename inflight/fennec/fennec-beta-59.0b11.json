@@ -28,8 +28,8 @@
                 {
                     "bug": "1439735",
                     "description": "ship_fennec phase graph gen broken on beta because of missing scopes",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
