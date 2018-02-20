@@ -23,5 +23,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1409445](https://bugzil.la/1409445)        | Updates builder can race pushing to tools | True | False |
-| jlund  | 2 | [bug 1438906](https://bugzil.la/1438906)        | UV script change broke mac-os UV. backed out | False | True |
+| jlund  | 2 | [bug 1438906](https://bugzil.la/1438906)        | UV script change broke mac-os UV. backed out | True | False |
 

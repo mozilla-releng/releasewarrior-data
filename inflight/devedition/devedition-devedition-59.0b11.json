@@ -55,8 +55,8 @@
                 {
                     "bug": "1438906",
                     "description": "UV script change broke mac-os UV. backed out",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
