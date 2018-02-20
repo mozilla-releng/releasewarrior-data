@@ -18,5 +18,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1439735](https://bugzil.la/1439735)        | ship_fennec phase graph gen broken on beta because of missing scopes | False | True |
 
