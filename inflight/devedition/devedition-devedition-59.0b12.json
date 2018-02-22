@@ -44,8 +44,8 @@
                 {
                     "bug": "1438906",
                     "description": "UV osx failed again with new patch from bug. Backed out",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]

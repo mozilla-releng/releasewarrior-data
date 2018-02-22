@@ -21,5 +21,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1438906](https://bugzil.la/1438906)        | UV osx failed again with new patch from bug. Backed out | False | True |
+| jlund  | 1 | [bug 1438906](https://bugzil.la/1438906)        | UV osx failed again with new patch from bug. Backed out | True | False |
 
