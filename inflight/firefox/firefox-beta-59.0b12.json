@@ -47,6 +47,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "bouncer check failing",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         }
