@@ -58,6 +58,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "Failed version bump. Seems like we always need to rerun this because of race condition with the firefox counterpart.\"",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mihaitabara"
                 }
             ]
         }
