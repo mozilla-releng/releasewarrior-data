@@ -8,7 +8,8 @@
 ## Build 1  
 
 ### Graphs
-[promote](https://tools.taskcluster.net/push-inspector/#/bTpUhB6AQ1qGf7a31L61yw)
+* [promote](https://tools.taskcluster.net/push-inspector/#/bTpUhB6AQ1qGf7a31L61yw) bTpUhB6AQ1qGf7a31L61yw
+* [push](https://tools.taskcluster.net/push-inspector/#/KDKXiWdaR1q8kYGu5bHeZw) KDKXiWdaR1q8kYGu5bHeZw
 
 
 #### Status
