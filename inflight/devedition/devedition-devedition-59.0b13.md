@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug 1438735](https://bugzil.la/1438735)        | balrog submission failed | False | True |
+| bhearsum  | 1 | [bug 1438735](https://bugzil.la/1438735)        | balrog submission failed | True | False |
 

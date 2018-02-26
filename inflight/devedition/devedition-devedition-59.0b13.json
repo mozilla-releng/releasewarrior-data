@@ -40,8 +40,8 @@
                 {
                     "bug": "1438735",
                     "description": "balrog submission failed",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
