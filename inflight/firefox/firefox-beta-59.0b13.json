@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1438735",
+                    "description": "balrog submission failed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         }
     ],
     "preflight": {
