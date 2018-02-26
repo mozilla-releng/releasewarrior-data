@@ -1,0 +1,63 @@
+{
+    "date": "2018-02-19",
+    "inflight": [
+        {
+            "aborted": false,
+            "buildnum": 1,
+            "graphids": [
+                [
+                    "promote",
+                    "bRQAVMr8RLq2aWvyLKlz-g"
+                ],
+                [
+                    "push",
+                    "NlgkuG5ZSgyg1t0TNNoH_Q"
+                ],
+                [
+                    "ship",
+                    "Lk3mNdYXSsyy4ADm7JXe3g"
+                ]
+            ],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "mirrors",
+                    "description": "pushed to mirrors/releases",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory",
+                    "resolved": true
+                },
+                {
+                    "alias": "publish",
+                    "description": "publish release tasks",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#ship-the-release",
+                    "resolved": true
+                },
+                {
+                    "alias": "signoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#obtain-sign-offs-for-changes",
+                    "resolved": true
+                }
+            ],
+            "issues": [
+                {
+                    "bug": "1438906",
+                    "description": "UV script change broke mac-os UV. backed out",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ]
+        }
+    ],
+    "preflight": {
+        "human_tasks": []
+    },
+    "product": "firefox",
+    "version": "59.0b11"
+}

@@ -1,0 +1,43 @@
+{
+    "date": "2018-02-19",
+    "inflight": [
+        {
+            "aborted": false,
+            "buildnum": 1,
+            "graphids": [
+                [
+                    "promote",
+                    "KXRPz4JqTem0pbm20Tv-UA"
+                ]
+            ],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "pushapk",
+                    "description": "run pushapk",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Push-to-Google-Play#what-to-do",
+                    "resolved": true
+                }
+            ],
+            "issues": [
+                {
+                    "bug": "1439735",
+                    "description": "ship_fennec phase graph gen broken on beta because of missing scopes",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ]
+        }
+    ],
+    "preflight": {
+        "human_tasks": []
+    },
+    "product": "fennec",
+    "version": "59.0b11"
+}

@@ -1,0 +1,77 @@
+{
+    "date": "2018-02-22",
+    "inflight": [
+        {
+            "aborted": false,
+            "buildnum": 1,
+            "graphids": [
+                [
+                    "promote",
+                    "RxpwQLikS22S-VNoZcgzng"
+                ],
+                [
+                    "push",
+                    "Wn10U6j5Qf6QrlylAzzhxQ"
+                ],
+                [
+                    "ship",
+                    "KhvsulMXT8O19_stq2aHYA"
+                ]
+            ],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "mirrors",
+                    "description": "pushed to mirrors/releases",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory",
+                    "resolved": true
+                },
+                {
+                    "alias": "publish",
+                    "description": "publish release tasks",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
+                    "resolved": true
+                },
+                {
+                    "alias": "signoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
+                    "resolved": true
+                }
+            ],
+            "issues": [
+                {
+                    "bug": "1438906",
+                    "description": "UV osx failed again with new patch from bug. Backed out",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "bouncer check failing",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "Failed version bump. Seems like we always need to rerun this because of race condition with the firefox counterpart.\"",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mihaitabara"
+                }
+            ]
+        }
+    ],
+    "preflight": {
+        "human_tasks": []
+    },
+    "product": "devedition",
+    "version": "59.0b12"
+}

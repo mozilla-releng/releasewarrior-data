@@ -1,0 +1,70 @@
+{
+    "date": "2018-02-22",
+    "inflight": [
+        {
+            "aborted": false,
+            "buildnum": 1,
+            "graphids": [
+                [
+                    "promote",
+                    "InM5oVpGR5WOomM8Nbs43g"
+                ],
+                [
+                    "push",
+                    "DzR0kEOiRNy6lZQAOnkk3w"
+                ],
+                [
+                    "ship",
+                    "IW8HE5kmSVCzUu0HwlUQ0w"
+                ]
+            ],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "mirrors",
+                    "description": "pushed to mirrors/releases",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory",
+                    "resolved": true
+                },
+                {
+                    "alias": "publish",
+                    "description": "publish release tasks",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
+                    "resolved": true
+                },
+                {
+                    "alias": "signoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
+                    "resolved": true
+                }
+            ],
+            "issues": [
+                {
+                    "bug": "1435638",
+                    "description": "partner repacks failing tls1 errors with github",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "bouncer check failing",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
+        }
+    ],
+    "preflight": {
+        "human_tasks": []
+    },
+    "product": "firefox",
+    "version": "59.0b12"
+}
