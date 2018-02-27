@@ -20,5 +20,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1439735](https://bugzil.la/1439735)        | ship_fennec phase graph gen broken on beta because of missing scopes | True | False |
-| jlund  | 2 | [bug none](https://bugzil.la/none)        | human breakpoint never resolved in ship graph. issue caught by relman 7 days later. the human breakpoint task is being removed in ~1 week | False | True |
+| jlund  | 2 | [bug none](https://bugzil.la/none)        | human breakpoint never resolved in ship graph. issue caught by relman 7 days later. the human breakpoint task is being removed in ~1 week | True | False |
 
