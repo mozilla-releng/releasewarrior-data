@@ -23,5 +23,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1435638](https://bugzil.la/1435638)        | partner repacks failing tls1 errors with github | True | True |
-| jlund  | 2 | [bug none](https://bugzil.la/none)        | bouncer check failing | False | True |
+| jlund  | 2 | [bug none](https://bugzil.la/none)        | bouncer check failing | True | True |
 
