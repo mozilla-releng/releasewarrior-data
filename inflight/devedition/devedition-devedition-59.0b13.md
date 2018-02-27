@@ -8,13 +8,13 @@
 ## Build 1  
 
 ### Graphs
-* [promote](https://tools.taskcluster.net/push-inspector/#/LM3fhE87Rz2-0DQq7C9TaA) LM3fhE87Rz2-0DQq7C9TaA
-* [push](https://tools.taskcluster.net/push-inspector/#/PgoG2nSQQhm-FqiskPeddQ) PgoG2nSQQhm-FqiskPeddQ
+[promote](https://tools.taskcluster.net/push-inspector/#/LM3fhE87Rz2-0DQq7C9TaA)
+[push](https://tools.taskcluster.net/push-inspector/#/PgoG2nSQQhm-FqiskPeddQ)
 
 
 #### Status
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
+- [x] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
 - [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#publish-the-release)  - publish release tasks
 - [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks-TC#obtain-sign-offs-for-changes)  - signoff in Balrog
 
