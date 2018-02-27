@@ -35,6 +35,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "human breakpoint never resolved in ship graph. issue caught by relman 7 days later. the human breakpoint task is being removed in ~1 week",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         }
