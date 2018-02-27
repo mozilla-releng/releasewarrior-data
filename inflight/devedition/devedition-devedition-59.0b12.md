@@ -23,6 +23,6 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1438906](https://bugzil.la/1438906)        | UV osx failed again with new patch from bug. Backed out | True | False |
-| jlund  | 2 | [bug none](https://bugzil.la/none)        | bouncer check failing | False | True |
+| jlund  | 2 | [bug none](https://bugzil.la/none)        | bouncer check failing | True | True |
 | mihaitabara  | 3 | [bug none](https://bugzil.la/none)        | Failed version bump. Seems like we always need to rerun this because of race condition with the firefox counterpart." | False | True |
 
