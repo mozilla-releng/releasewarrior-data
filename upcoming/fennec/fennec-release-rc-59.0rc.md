@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-03-01
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-03-05 - [bug none](https://bugzil.la/none): [jlorenzo] Workaround in case the fennec_rc taskgraph isn't ready yet: when the promote action graph is submitted, cancel the "google-play-strings" task (for instance https://tools.taskcluster.net/groups/BFxmYjjZQRynxfeInleESg/tasks/MN0K1JIDTbWqfe7TmIJ2pw/details). Then, push-apk will detect no strings and will skip the part where they get updated. This ensures we don't promote Firefox 59 publicly on Google Play, on the release product.
 
 ## Build 1  
 
