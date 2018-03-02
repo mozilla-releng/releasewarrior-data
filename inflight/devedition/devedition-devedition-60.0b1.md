@@ -8,7 +8,7 @@
 ## Build 2  
 
 ### Graphs
-task graph url: unknown
+* [promote](https://tools.taskcluster.net/push-inspector/#/ZNS-m-xcRAWJ3FWzL4byMQ) ZNS-m-xcRAWJ3FWzL4byMQ
 
 
 #### Status
