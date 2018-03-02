@@ -35,8 +35,8 @@
                 {
                     "bug": "none",
                     "description": "in-tree code tried to use beetmoverworker-dev instead of production beetmoverworker",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
