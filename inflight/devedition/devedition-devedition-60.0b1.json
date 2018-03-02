@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "generate-checksums-beetmover failed with a cot error",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         },
         {
             "aborted": true,
