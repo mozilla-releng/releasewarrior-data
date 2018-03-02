@@ -25,7 +25,7 @@ task graph url: unknown
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
-task graph url: unknown
+* [promote](https://tools.taskcluster.net/push-inspector/#/RKcena0UR0-zuryWgN3B2w) RKcena0UR0-zuryWgN3B2w
 
 
 #### Status

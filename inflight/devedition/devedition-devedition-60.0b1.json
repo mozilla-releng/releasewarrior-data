@@ -36,7 +36,12 @@
         {
             "aborted": true,
             "buildnum": 1,
-            "graphids": [],
+            "graphids": [
+                [
+                    "promote",
+                    "RKcena0UR0-zuryWgN3B2w"
+                ]
+            ],
             "human_tasks": [
                 {
                     "alias": "shipit",
