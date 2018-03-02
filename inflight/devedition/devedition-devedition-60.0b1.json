@@ -40,8 +40,8 @@
                 {
                     "bug": "1432219",
                     "description": "generate-checksums-beetmover failed with a cot error",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
