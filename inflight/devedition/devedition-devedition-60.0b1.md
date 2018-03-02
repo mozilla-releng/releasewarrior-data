@@ -20,7 +20,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | generate-checksums-beetmover failed with a cot error | False | True |
+| bhearsum  | 1 | [bug 1432219](https://bugzil.la/1432219)        | generate-checksums-beetmover failed with a cot error | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
