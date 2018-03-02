@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-03-02
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-03-01 - [bug none](https://bugzil.la/none): [jlorenzo] I just chatted with jcristau. He would like to kick off a devedition build with what's currently on beta (i.e.: no extra patch since mergeday). Julien doesn't want more patches in the product (but doesn't care too much about the TC changes). Therefore, I uplifted the bouncer and version bump to beta.
 
 ## Build 1  
 

@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "none",
+                "deadline": "2018-03-01",
+                "description": "[jlorenzo] I just chatted with jcristau. He would like to kick off a devedition build with what's currently on beta (i.e.: no extra patch since mergeday). Julien doesn't want more patches in the product (but doesn't care too much about the TC changes). Therefore, I uplifted the bouncer and version bump to beta.",
+                "resolved": false
+            }
+        ]
     },
     "product": "devedition",
     "version": "60.0b1"
