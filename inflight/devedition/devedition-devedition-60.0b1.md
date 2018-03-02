@@ -5,7 +5,24 @@
 ## Preflight tasks (pre go-to-build)
 - [ ] 1. due:2018-03-01 - [bug none](https://bugzil.la/none): [jlorenzo] I just chatted with jcristau. He would like to kick off a devedition build with what's currently on beta (i.e.: no extra patch since mergeday). Julien doesn't want more patches in the product (but doesn't care too much about the TC changes). Therefore, I uplifted the bouncer and version bump to beta.
 
-## Build 2  
+## Build 3  
+
+### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/ZNS-m-xcRAWJ3FWzL4byMQ) ZNS-m-xcRAWJ3FWzL4byMQ
+
+
+#### Status
+- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
+- [ ] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
+- [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release)  - publish release tasks
+- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes)  - signoff in Balrog
+
+### Issues
+| Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
+| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
+| none | | | | | |
+
+## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/ZNS-m-xcRAWJ3FWzL4byMQ) ZNS-m-xcRAWJ3FWzL4byMQ
