@@ -38,6 +38,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug 1432219](https://bugzil.la/1432219)        | generate-checksums-beetmover failed with a cot error | True | False |
+| bhearsum  | 2 | [bug ](https://bugzil.la/)        | numerous update verify failures caused by repeated failed downloads - reruns greened things up | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

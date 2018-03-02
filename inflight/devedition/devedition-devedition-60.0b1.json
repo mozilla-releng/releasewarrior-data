@@ -80,6 +80,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "",
+                    "description": "numerous update verify failures caused by repeated failed downloads - reruns greened things up",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "bhearsum"
                 }
             ]
         },
