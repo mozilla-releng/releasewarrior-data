@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-03-05
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-03-05 - [bug 1443104](https://bugzil.la/1443104): Make sure all bouncer related issues are fixed in-tree and hacks removed the bouncerscript side.
 
 ## Build 1  
 

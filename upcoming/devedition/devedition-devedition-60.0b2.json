@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1443104",
+                "deadline": "2018-03-05",
+                "description": "Make sure all bouncer related issues are fixed in-tree and hacks removed the bouncerscript side.",
+                "resolved": false
+            }
+        ]
     },
     "product": "devedition",
     "version": "60.0b2"
