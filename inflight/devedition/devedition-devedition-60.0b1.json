@@ -40,7 +40,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1398796",
+                    "description": "Bou",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mihaitabara"
+                }
+            ]
         },
         {
             "aborted": true,

@@ -21,7 +21,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| mihaitabara  | 1 | [bug 1398796](https://bugzil.la/1398796)        | Bou | False | True |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
