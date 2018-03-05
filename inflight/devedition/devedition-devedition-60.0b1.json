@@ -43,7 +43,7 @@
             "issues": [
                 {
                     "bug": "1398796",
-                    "description": "Bou",
+                    "description": "bouncer check (formerly known 'uptake monitoring') fails for en-US builds during 60.0b1",
                     "future_threat": true,
                     "resolved": false,
                     "who": "mihaitabara"
