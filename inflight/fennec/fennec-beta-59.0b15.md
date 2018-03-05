@@ -8,7 +8,7 @@
 ## Build 1  
 
 ### Graphs
-task graph url: unknown
+* [promote](https://tools.taskcluster.net/push-inspector/#/A3nXbpQ3RE6rOPlKC7v5dg) A3nXbpQ3RE6rOPlKC7v5dg
 
 
 #### Status
