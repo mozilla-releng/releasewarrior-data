@@ -51,8 +51,8 @@
                 {
                     "bug": "1443104",
                     "description": "Update verification fails as well. Most likely related to bouncer check errors.\"",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 }
             ]

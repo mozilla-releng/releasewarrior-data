@@ -22,7 +22,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | mihaitabara  | 1 | [bug 1398796](https://bugzil.la/1398796)        | bouncer check (formerly known 'uptake monitoring') fails for en-US builds during 60.0b1 | True | True |
-| mihaitabara  | 2 | [bug 1443104](https://bugzil.la/1443104)        | Update verification fails as well. Most likely related to bouncer check errors." | False | True |
+| mihaitabara  | 2 | [bug 1443104](https://bugzil.la/1443104)        | Update verification fails as well. Most likely related to bouncer check errors." | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
