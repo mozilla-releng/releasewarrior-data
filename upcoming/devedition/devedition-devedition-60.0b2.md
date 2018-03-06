@@ -4,6 +4,7 @@
 
 ## Preflight tasks (pre go-to-build)
 - [ ] 1. due:2018-03-05 - [bug 1443104](https://bugzil.la/1443104): Make sure all bouncer related issues are fixed in-tree and hacks removed the bouncerscript side.
+- [ ] 2. due:2018-03-08 - [bug 1433459](https://bugzil.la/1433459): Bouncer alias fix that Johan pushed https://bugzilla.mozilla.org/show_bug.cgi?id=1433459#c43 needs to get to beta before GTB
 
 ## Build 1  
 

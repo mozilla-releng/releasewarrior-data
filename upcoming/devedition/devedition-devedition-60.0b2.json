@@ -41,6 +41,12 @@
                 "deadline": "2018-03-05",
                 "description": "Make sure all bouncer related issues are fixed in-tree and hacks removed the bouncerscript side.",
                 "resolved": false
+            },
+            {
+                "bug": "1433459",
+                "deadline": "2018-03-08",
+                "description": "Bouncer alias fix that Johan pushed https://bugzilla.mozilla.org/show_bug.cgi?id=1433459#c43 needs to get to beta before GTB",
+                "resolved": false
             }
         ]
     },
