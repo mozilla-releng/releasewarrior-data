@@ -62,8 +62,8 @@
                 {
                     "bug": "1443534",
                     "description": "scope issues for treescript for 60.0b1",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 }
             ]
