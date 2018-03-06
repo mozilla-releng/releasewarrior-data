@@ -69,8 +69,8 @@
                 {
                     "bug": "1443549",
                     "description": "bouncer aliases failing for two action scopes present",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 }
             ]
