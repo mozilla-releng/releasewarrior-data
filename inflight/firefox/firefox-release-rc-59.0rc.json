@@ -61,6 +61,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "1443432",
+                    "description": "IF WE ARE SHIPPING 59.0build1, talk to jlorenzo and mkaply about manual steps needed for snap. not needed for build2",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         }

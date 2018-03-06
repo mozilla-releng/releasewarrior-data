@@ -24,4 +24,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug 1443335](https://bugzil.la/1443335)        | release-snap builder failed because it couldn't find credentials | True | False |
+| bhearsum  | 2 | [bug 1443432](https://bugzil.la/1443432)        | IF WE ARE SHIPPING 59.0build1, talk to jlorenzo and mkaply about manual steps needed for snap. not needed for build2 | False | True |
 
