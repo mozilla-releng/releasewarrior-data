@@ -17,7 +17,7 @@
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
 - [x] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
 - [x] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release)  - publish release tasks
-- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes)  - signoff in Balrog
+- [x] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes)  - signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
@@ -25,7 +25,7 @@
 | mihaitabara  | 1 | [bug 1398796](https://bugzil.la/1398796)        | bouncer check (formerly known 'uptake monitoring') fails for en-US builds during 60.0b1 | True | True |
 | mihaitabara  | 2 | [bug 1443104](https://bugzil.la/1443104)        | Update verification fails as well. Most likely related to bouncer check errors." | True | False |
 | mihaitabara  | 3 | [bug 1443534](https://bugzil.la/1443534)        | scope issues for treescript for 60.0b1 | True | False |
-| mihaitabara  | 4 | [bug 1443549](https://bugzil.la/1443549)        | bouncer aliases failing for two action scopes present | False | True |
+| mihaitabara  | 4 | [bug 1443549](https://bugzil.la/1443549)        | bouncer aliases failing for two action scopes present | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 

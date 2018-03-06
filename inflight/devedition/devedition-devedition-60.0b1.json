@@ -41,7 +41,7 @@
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
@@ -69,8 +69,8 @@
                 {
                     "bug": "1443549",
                     "description": "bouncer aliases failing for two action scopes present",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 }
             ]
