@@ -23,5 +23,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug 1443335](https://bugzil.la/1443335)        | release-snap builder failed because it couldn't find credentials | False | True |
+| bhearsum  | 1 | [bug 1443335](https://bugzil.la/1443335)        | release-snap builder failed because it couldn't find credentials | True | False |
 
