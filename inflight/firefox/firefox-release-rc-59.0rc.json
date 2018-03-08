@@ -62,9 +62,9 @@
                 {
                     "bug": "1443432",
                     "description": "IF WE ARE SHIPPING 59.0build1, talk to jlorenzo and mkaply about manual steps needed for snap. not needed for build2",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 2,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 },
                 {
