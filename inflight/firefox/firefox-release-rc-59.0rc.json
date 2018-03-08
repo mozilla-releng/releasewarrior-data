@@ -3,6 +3,61 @@
     "inflight": [
         {
             "aborted": false,
+            "buildnum": 4,
+            "graphids": [
+                [
+                    "promote_rc",
+                    "SjeNNvPdStWuuvjJp4PUBA"
+                ]
+            ],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "ship-rc",
+                    "description": "publish in Balrog on beta channel",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship-rc",
+                    "resolved": false
+                },
+                {
+                    "alias": "betasignoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",
+                    "resolved": false
+                },
+                {
+                    "alias": "wnp",
+                    "description": "setup whatsnew page",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md",
+                    "resolved": false
+                },
+                {
+                    "alias": "mirrors",
+                    "description": "pushed to mirrors/releases",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#push",
+                    "resolved": false
+                },
+                {
+                    "alias": "ship",
+                    "description": "publish release tasks",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship",
+                    "resolved": false
+                },
+                {
+                    "alias": "signoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes",
+                    "resolved": false
+                }
+            ],
+            "issues": []
+        },
+        {
+            "aborted": true,
             "buildnum": 3,
             "graphids": [
                 [
