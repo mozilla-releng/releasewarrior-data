@@ -66,6 +66,13 @@
                     "id": 2,
                     "resolved": false,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "description": "missing secrets:get:project/releng/snapcraft/firefox/candidate scope",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         },
