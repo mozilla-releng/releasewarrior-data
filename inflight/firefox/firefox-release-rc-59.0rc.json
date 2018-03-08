@@ -72,7 +72,7 @@
                     "bug": "none",
                     "description": "lots of confusion around the locale list for WNP. can we ask relman or whomever owns it to give us the list upfront?",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
