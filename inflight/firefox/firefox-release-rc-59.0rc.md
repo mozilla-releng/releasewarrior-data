@@ -25,6 +25,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug issue](https://bugzil.la/issue)        | snap failed with KeyError: '"status"' | False | True |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | lots of confusion around the locale list for WNP. can we ask relman or whomever owns it to give us the list upfront? | False | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 
