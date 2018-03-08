@@ -38,8 +38,8 @@
                 {
                     "bug": "none",
                     "description": "had to local patch trigger_action.py to support ship_fennec_rc flavour",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 },
                 {
