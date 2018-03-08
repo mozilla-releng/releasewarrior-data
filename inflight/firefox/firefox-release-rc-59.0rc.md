@@ -25,7 +25,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug 1443432](https://bugzil.la/1443432)        | IF WE ARE SHIPPING 59.0build1, talk to jlorenzo and mkaply about manual steps needed for snap. not needed for build2 | True | False |
-| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | missing secrets:get:project/releng/snapcraft/firefox/candidate scope | False | True |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | missing secrets:get:project/releng/snapcraft/firefox/candidate scope | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

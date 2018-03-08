@@ -70,8 +70,8 @@
                 {
                     "bug": "none",
                     "description": "missing secrets:get:project/releng/snapcraft/firefox/candidate scope",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
