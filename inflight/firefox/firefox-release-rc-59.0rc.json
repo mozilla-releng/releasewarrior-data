@@ -54,7 +54,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "snap failed with KeyError: '\"status\"'",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         },
         {
             "aborted": true,
