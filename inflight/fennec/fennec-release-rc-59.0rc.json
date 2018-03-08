@@ -37,6 +37,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "description": "ship fennec rc action task failed with scope issues on project:releng:googleplay:release",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         }
