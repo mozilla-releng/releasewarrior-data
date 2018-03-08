@@ -58,8 +58,8 @@
                 {
                     "bug": "none",
                     "description": "same scope issues as build2 - it looks like it didn't actually get added between build2 and build3",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
