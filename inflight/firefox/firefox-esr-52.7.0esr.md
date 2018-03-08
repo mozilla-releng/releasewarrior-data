@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | lots of issues with timeouts during builds (pre release graph) - possibly caused by issues in use1 | False | True |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | lots of issues with timeouts during builds (pre release graph) - possibly caused by issues in use1 | True | False |
 

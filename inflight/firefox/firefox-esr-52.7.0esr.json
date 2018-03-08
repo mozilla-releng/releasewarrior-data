@@ -40,8 +40,8 @@
                 {
                     "bug": "none",
                     "description": "lots of issues with timeouts during builds (pre release graph) - possibly caused by issues in use1",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
