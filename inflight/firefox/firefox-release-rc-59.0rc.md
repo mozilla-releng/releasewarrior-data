@@ -23,7 +23,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | snap failed with KeyError: '"status"' | False | True |
+| bhearsum  | 1 | [bug issue](https://bugzil.la/issue)        | snap failed with KeyError: '"status"' | False | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 

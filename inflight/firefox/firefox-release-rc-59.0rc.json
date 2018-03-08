@@ -56,7 +56,7 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
+                    "bug": "issue",
                     "description": "snap failed with KeyError: '\"status\"'",
                     "future_threat": true,
                     "resolved": false,
