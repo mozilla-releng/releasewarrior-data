@@ -18,6 +18,12 @@
                     "resolved": true
                 },
                 {
+                    "alias": "",
+                    "description": "Set up WNP on release-localtest so QE can early test blobs and rules. Context: https://bugzilla.mozilla.org/show_bug.cgi?id=1438653#c7 ",
+                    "docs": "",
+                    "resolved": false
+                },
+                {
                     "alias": "ship-rc",
                     "description": "publish in Balrog on beta channel",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship-rc",
