@@ -8,8 +8,7 @@
 ## Build 3  
 
 ### Graphs
-* [promote_rc](https://tools.taskcluster.net/push-inspector/#/S3Ygsrn8QfuFvBXK5nAXlw) S3Ygsrn8QfuFvBXK5nAXlw
-* [ship_rc](https://tools.taskcluster.net/push-inspector/#/F15arWGbTqCE_90xxLOkdw) F15arWGbTqCE_90xxLOkdw
+task graph url: unknown
 
 
 #### Status
@@ -29,8 +28,7 @@
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
-* [promote_rc](https://tools.taskcluster.net/push-inspector/#/S3Ygsrn8QfuFvBXK5nAXlw) S3Ygsrn8QfuFvBXK5nAXlw
-* [ship_rc](https://tools.taskcluster.net/push-inspector/#/F15arWGbTqCE_90xxLOkdw) F15arWGbTqCE_90xxLOkdw
+* [promote_rc](https://tools.taskcluster.net/push-inspector/#/Y82yfN7lTuKFwhRb6_WX8g) Y82yfN7lTuKFwhRb6_WX8g
 
 
 #### Status

@@ -4,16 +4,7 @@
         {
             "aborted": false,
             "buildnum": 3,
-            "graphids": [
-                [
-                    "promote_rc",
-                    "S3Ygsrn8QfuFvBXK5nAXlw"
-                ],
-                [
-                    "ship_rc",
-                    "F15arWGbTqCE_90xxLOkdw"
-                ]
-            ],
+            "graphids": [],
             "human_tasks": [
                 {
                     "alias": "shipit",
@@ -66,11 +57,7 @@
             "graphids": [
                 [
                     "promote_rc",
-                    "S3Ygsrn8QfuFvBXK5nAXlw"
-                ],
-                [
-                    "ship_rc",
-                    "F15arWGbTqCE_90xxLOkdw"
+                    "Y82yfN7lTuKFwhRb6_WX8g"
                 ]
             ],
             "human_tasks": [
