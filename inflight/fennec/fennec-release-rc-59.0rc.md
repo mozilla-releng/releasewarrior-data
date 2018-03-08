@@ -21,5 +21,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | had to local patch trigger_action.py to support ship_fennec_rc flavour | True | False |
-| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | ship fennec rc action task failed with scope issues on project:releng:googleplay:release | False | True |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | ship fennec rc action task failed with scope issues on project:releng:googleplay:release | True | False |
 
