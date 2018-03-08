@@ -23,7 +23,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | same scope issues as build2 - it looks like it didn't actually get added between build2 and build3 | False | True |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
