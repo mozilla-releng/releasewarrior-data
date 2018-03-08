@@ -21,5 +21,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | update verify config failed because we were missing tags on mozilla-beta after we changed the watersheds in https://hg.mozilla.org/releases/mozilla-beta/rev/23c473f89743 | False | True |
 

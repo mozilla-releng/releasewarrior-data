@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "update verify config failed because we were missing tags on mozilla-beta after we changed the watersheds in https://hg.mozilla.org/releases/mozilla-beta/rev/23c473f89743",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         }
     ],
     "preflight": {
