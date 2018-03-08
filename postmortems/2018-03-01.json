@@ -207,6 +207,99 @@
             "product": "fennec",
             "resolved": [],
             "version": "59.0b13"
+        },
+        {
+            "date": "2018-03-01",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "59.0b14"
+        },
+        {
+            "date": "2018-03-01",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "59.0b14"
+        },
+        {
+            "date": "2018-03-01",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "59.0b2"
+        },
+        {
+            "date": "2018-03-02",
+            "future_threats": [
+                {
+                    "bug": "1398796",
+                    "buildnum": 3,
+                    "description": "bouncer check (formerly known 'uptake monitoring') fails for en-US builds during 60.0b1",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                },
+                {
+                    "bug": "",
+                    "buildnum": 2,
+                    "description": "numerous update verify failures caused by repeated failed downloads - reruns greened things up",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1443104",
+                    "buildnum": 3,
+                    "description": "Update verification fails as well. Most likely related to bouncer check errors.\"",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                },
+                {
+                    "bug": "1443534",
+                    "buildnum": 3,
+                    "description": "scope issues for treescript for 60.0b1",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                },
+                {
+                    "bug": "1443549",
+                    "buildnum": 3,
+                    "description": "bouncer aliases failing for two action scopes present",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                },
+                {
+                    "bug": "1432219",
+                    "buildnum": 2,
+                    "description": "generate-checksums-beetmover failed with a cot error",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "in-tree code tried to use beetmoverworker-dev instead of production beetmoverworker",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "60.0b1"
+        },
+        {
+            "date": "2018-03-05",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "59.0b15"
         }
     ],
     "date": "2018-03-01"
