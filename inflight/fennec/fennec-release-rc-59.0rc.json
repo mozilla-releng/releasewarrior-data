@@ -48,6 +48,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "1444391",
+                    "description": "accidentally changed org.mozilla.firefox description to \"Firefox for Android Beta\"",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
                 }
             ]
         }
