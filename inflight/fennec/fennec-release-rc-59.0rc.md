@@ -22,5 +22,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | had to local patch trigger_action.py to support ship_fennec_rc flavour | True | False |
 | bhearsum  | 2 | [bug none](https://bugzil.la/none)        | ship fennec rc action task failed with scope issues on project:releng:googleplay:release | True | False |
-| bhearsum  | 3 | [bug 1444391](https://bugzil.la/1444391)        | accidentally changed org.mozilla.firefox description to "Firefox for Android Beta" | False | True |
+| bhearsum  | 3 | [bug 1444391](https://bugzil.la/1444391)        | accidentally changed org.mozilla.firefox description to "Firefox for Android Beta" | True | True |
 
