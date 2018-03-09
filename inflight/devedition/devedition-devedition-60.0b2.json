@@ -55,8 +55,8 @@
                 {
                     "bug": "1444131",
                     "description": "boucner check fails for apparently whitespace typo in provisioning partials",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 }
             ]

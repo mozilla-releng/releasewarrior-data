@@ -24,5 +24,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug none](https://bugzil.la/none)        | update verify config failed because we were missing tags on mozilla-beta after we changed the watersheds in https://hg.mozilla.org/releases/mozilla-beta/rev/23c473f89743 | True | False |
-| mihaitabara  | 2 | [bug 1444131](https://bugzil.la/1444131)        | boucner check fails for apparently whitespace typo in provisioning partials | False | True |
+| mihaitabara  | 2 | [bug 1444131](https://bugzil.la/1444131)        | boucner check fails for apparently whitespace typo in provisioning partials | True | False |
 
