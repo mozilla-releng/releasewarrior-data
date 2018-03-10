@@ -68,6 +68,13 @@
                     "id": 1,
                     "resolved": false,
                     "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "description": "snap failed with KeyError: '\\\"status\\\"'",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mihaitabara"
                 }
             ]
         },

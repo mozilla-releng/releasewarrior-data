@@ -25,6 +25,7 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug issue](https://bugzil.la/issue)        | snap failed with KeyError: '"status"' | False | True |
+| mihaitabara  | 2 | [bug none](https://bugzil.la/none)        | snap failed with KeyError: '\"status\"' | False | True |
 
 ## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
 
