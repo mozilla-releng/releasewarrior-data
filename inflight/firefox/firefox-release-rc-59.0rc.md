@@ -5,7 +5,28 @@
 ## Preflight tasks (pre go-to-build)
 - none
 
-## Build 4  
+## Build 5  
+
+### Graphs
+task graph url: unknown
+
+
+#### Status
+- [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
+- [ ] 2.  - Set up WNP on release-localtest so QE can early test blobs and rules. Context: https://bugzilla.mozilla.org/show_bug.cgi?id=1438653#c7 
+- [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship-rc)  - publish in Balrog on beta channel
+- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
+- [ ] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md)  - setup whatsnew page
+- [ ] 6.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#push)  - pushed to mirrors/releases
+- [ ] 7.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship)  - publish release tasks
+- [ ] 8.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
+
+### Issues
+| Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
+| ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
+| bhearsum  | 1 | [bug issue](https://bugzil.la/issue)        | snap failed with KeyError: '"status"' | False | True |
+
+## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
 
 ### Graphs
 * [promote_rc](https://tools.taskcluster.net/push-inspector/#/N8hCeDl0Qty2PM3ukpcmmw) N8hCeDl0Qty2PM3ukpcmmw
