@@ -21,7 +21,7 @@
                     "alias": "",
                     "description": "Set up WNP on release-localtest so QE can early test blobs and rules. Context: https://bugzilla.mozilla.org/show_bug.cgi?id=1438653#c7 ",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "ship-rc",
