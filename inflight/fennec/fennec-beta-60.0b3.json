@@ -3,6 +3,35 @@
     "inflight": [
         {
             "aborted": false,
+            "buildnum": 2,
+            "graphids": [],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "pushapk",
+                    "description": "run pushapk",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/mobile/howto.md",
+                    "resolved": false
+                }
+            ],
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "bhearsum accidentally reran the action task, then cancelled it, which broke CoT for remaining tasks. build2 was required",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
+        },
+        {
+            "aborted": true,
             "buildnum": 1,
             "graphids": [
                 [
