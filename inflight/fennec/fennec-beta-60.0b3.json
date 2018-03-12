@@ -24,7 +24,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "bhearsum accidentally reran the action task, then cancelled it, which broke CoT for remaining tasks. build2 was required",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ]
         }
     ],
     "preflight": {
