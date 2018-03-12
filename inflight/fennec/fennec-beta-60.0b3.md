@@ -18,7 +18,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | bhearsum accidentally reran the action task, then cancelled it, which broke CoT for remaining tasks. build2 was required | False | True |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | bhearsum accidentally reran the action task, then cancelled it, which broke CoT for remaining tasks. build2 was required | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
