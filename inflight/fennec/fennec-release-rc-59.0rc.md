@@ -10,7 +10,7 @@
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/Jp2wmtf8R8K1c_BAAL-vkw) Jp2wmtf8R8K1c_BAAL-vkw
 * [ship_rc](https://tools.taskcluster.net/push-inspector/#/TfKFXCykQTuPkyAarmpNTw) TfKFXCykQTuPkyAarmpNTw
-* [ship](https://tools.taskcluster.net/push-inspector/#/eVA6-oBlTbiZa1GlULlivw) eVA6-oBlTbiZa1GlULlivw
+* [ship](https://tools.taskcluster.net/push-inspector/#/GVR2-lrQRt2QpvTj5TFkxg) GVR2-lrQRt2QpvTj5TFkxg
 
 
 #### Status
