@@ -85,7 +85,7 @@
                     "bug": "none",
                     "description": "snap failed with KeyError: '\\\"status\\\"'",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "mihaitabara"
                 },
                 {
