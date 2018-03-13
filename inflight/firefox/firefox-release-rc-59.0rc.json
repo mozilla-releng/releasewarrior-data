@@ -78,7 +78,7 @@
                     "description": "snap failed with KeyError: '\"status\"'",
                     "future_threat": true,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 },
                 {
