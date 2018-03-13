@@ -22,14 +22,14 @@
 - [x] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md)  - setup whatsnew page
 - [x] 6.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#push)  - pushed to mirrors/releases
 - [x] 7.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship)  - publish release tasks
-- [ ] 8.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
+- [x] 8.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/wiki/Release-Promotion-Tasks#obtain-sign-offs-for-changes)  - signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug issue](https://bugzil.la/issue)        | snap failed with KeyError: '"status"' | False | True |
 | mihaitabara  | 2 | [bug none](https://bugzil.la/none)        | snap failed with KeyError: '\"status\"' | False | True |
-| nthomas  | 3 | [bug none](https://bugzil.la/none)        | 58.0 WNP rules where still on release-cdntest (699 and 732). Removed them to unblock QA. We'll need to remove 677 and 733 to push to release. | False | True |
+| nthomas  | 3 | [bug none](https://bugzil.la/none)        | 58.0 WNP rules where still on release-cdntest (699 and 732). Removed them to unblock QA. We'll need to remove 677 and 733 to push to release. | True | False |
 
 ## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
 
