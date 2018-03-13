@@ -83,6 +83,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "mihaitabara"
+                },
+                {
+                    "bug": "none",
+                    "description": "58.0 WNP rules where still on release-cdntest (699 and 732). Removed them to unblock QA. We'll need to remove 677 and 733 to push to release.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         },

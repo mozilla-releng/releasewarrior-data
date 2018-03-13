@@ -28,6 +28,7 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | bhearsum  | 1 | [bug issue](https://bugzil.la/issue)        | snap failed with KeyError: '"status"' | False | True |
 | mihaitabara  | 2 | [bug none](https://bugzil.la/none)        | snap failed with KeyError: '\"status\"' | False | True |
+| nthomas  | 3 | [bug none](https://bugzil.la/none)        | 58.0 WNP rules where still on release-cdntest (699 and 732). Removed them to unblock QA. We'll need to remove 677 and 733 to push to release. | False | True |
 
 ## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
 
