@@ -21,4 +21,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug none](https://bugzil.la/none)        | 9 l10n repacks failed to wget-en-US, tentatively blaming this on taskcluster. Reran the jobs. | True | False |
+| bhearsum  | 2 | [bug none](https://bugzil.la/none)        | had to manually schedule changes to rules because we were only shipping this release to the "it" locale | False | True |
 
