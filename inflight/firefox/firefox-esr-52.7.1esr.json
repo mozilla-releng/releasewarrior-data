@@ -47,8 +47,8 @@
                 {
                     "bug": "none",
                     "description": "had to manually schedule changes to rules because we were only shipping this release to the \"it\" locale",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
