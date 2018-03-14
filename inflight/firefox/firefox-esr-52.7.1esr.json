@@ -40,8 +40,8 @@
                 {
                     "bug": "none",
                     "description": "9 l10n repacks failed to wget-en-US, tentatively blaming this on taskcluster. Reran the jobs.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
