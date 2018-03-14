@@ -10,6 +10,7 @@
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/UwO-I8PVRAWvKczWwqUOSA) UwO-I8PVRAWvKczWwqUOSA
 * [push](https://tools.taskcluster.net/push-inspector/#/So41oQodQtCx4lMpoLRtjw) So41oQodQtCx4lMpoLRtjw
+* [ship](https://tools.taskcluster.net/push-inspector/#/S7zuZJT5ThqQvS3vLLaWqw) S7zuZJT5ThqQvS3vLLaWqw
 
 
 #### Status
