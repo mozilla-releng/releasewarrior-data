@@ -1,0 +1,232 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-03-01",
+            "future_threats": [
+                {
+                    "bug": "1444391",
+                    "buildnum": 1,
+                    "description": "accidentally changed org.mozilla.firefox description to \"Firefox for Android Beta\"",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "had to local patch trigger_action.py to support ship_fennec_rc flavour",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "ship fennec rc action task failed with scope issues on project:releng:googleplay:release",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "59.0rc"
+        },
+        {
+            "date": "2018-03-05",
+            "future_threats": [
+                {
+                    "bug": "issue",
+                    "buildnum": 5,
+                    "description": "snap failed with KeyError: '\"status\"'",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 5,
+                    "description": "snap failed with KeyError: '\\\"status\\\"'",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                },
+                {
+                    "bug": "issue",
+                    "buildnum": 4,
+                    "description": "snap failed with KeyError: '\"status\"'",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 4,
+                    "description": "lots of confusion around the locale list for WNP. can we ask relman or whomever owns it to give us the list upfront?",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "1443432",
+                    "buildnum": 1,
+                    "description": "IF WE ARE SHIPPING 59.0build1, talk to jlorenzo and mkaply about manual steps needed for snap. not needed for build2",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 5,
+                    "description": "58.0 WNP rules where still on release-cdntest (699 and 732). Removed them to unblock QA. We'll need to remove 677 and 733 to push to release.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "same scope issues as build2 - it looks like it didn't actually get added between build2 and build3",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "1443432",
+                    "buildnum": 2,
+                    "description": "IF WE ARE SHIPPING 59.0build1, talk to jlorenzo and mkaply about manual steps needed for snap. not needed for build2",
+                    "future_threat": false,
+                    "id": 2,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "missing secrets:get:project/releng/snapcraft/firefox/candidate scope",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "1443335",
+                    "buildnum": 1,
+                    "description": "release-snap builder failed because it couldn't find credentials",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "59.0rc"
+        },
+        {
+            "date": "2018-03-05",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "lots of issues with timeouts during builds (pre release graph) - possibly caused by issues in use1",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "52.7.0esr"
+        },
+        {
+            "date": "2018-03-05",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "update verify config failed because we were missing tags on mozilla-beta after we changed the watersheds in https://hg.mozilla.org/releases/mozilla-beta/rev/23c473f89743",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "1444131",
+                    "buildnum": 1,
+                    "description": "boucner check fails for apparently whitespace typo in provisioning partials",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mihaitabara"
+                }
+            ],
+            "version": "60.0b2"
+        },
+        {
+            "date": "2018-03-12",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b3"
+        },
+        {
+            "date": "2018-03-12",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b3"
+        },
+        {
+            "date": "2018-03-12",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "bhearsum accidentally reran the action task, then cancelled it, which broke CoT for remaining tasks. build2 was required",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "bhearsum"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "bhearsum accidentally reran the action task, then cancelled it, which broke CoT for remaining tasks. build2 was required",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "bhearsum"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b3"
+        },
+        {
+            "date": "2018-03-13",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "9 l10n repacks failed to wget-en-US, tentatively blaming this on taskcluster. Reran the jobs.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "had to manually schedule changes to rules because we were only shipping this release to the \"it\" locale",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "52.7.1esr"
+        }
+    ],
+    "date": "2018-03-15"
+}
