@@ -35,8 +35,8 @@
                 {
                     "bug": "none",
                     "description": "release runner failed when build was being submitted due to differences between l10n-changesets and shipped-locales",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "bhearsum"
                 }
             ]
