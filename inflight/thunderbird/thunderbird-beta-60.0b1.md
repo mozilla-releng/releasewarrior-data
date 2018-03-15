@@ -20,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | release runner failed when build was being submitted due to differences between l10n-changesets and shipped-locales | False | True |
 
