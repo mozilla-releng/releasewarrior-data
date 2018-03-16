@@ -21,4 +21,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | [funsize] Publish to Balrog linux chunk 1 for 52.7.1esr timeout | True | False |
+| nthomas  | 2 | [bug none](https://bugzil.la/none)        | update verify failures for it on esr-localtest from the 52.7.1 special casing, Changed the rule to affect 'esr' instead of 'esr*' and rerun | False | True |
 
