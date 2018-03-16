@@ -19,7 +19,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1445890](https://bugzil.la/1445890)        | Manually changed bouncer entries because task definition has wrong path | False | True |
+| jlorenzo  | 1 | [bug 1445890](https://bugzil.la/1445890)        | Manually changed bouncer entries because task definition has wrong path | True | True |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
