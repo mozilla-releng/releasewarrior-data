@@ -8,7 +8,7 @@
 ## Build 2  
 
 ### Graphs
-task graph url: unknown
+* [promote](https://tools.taskcluster.net/push-inspector/#/SHAgSDNaTrK2_GxA-7eXyA) SHAgSDNaTrK2_GxA-7eXyA
 
 
 #### Status
