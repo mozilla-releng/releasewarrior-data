@@ -3,6 +3,46 @@
     "inflight": [
         {
             "aborted": false,
+            "buildnum": 3,
+            "graphids": [],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "pushapk",
+                    "description": "run pushapk",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/mobile/howto.md",
+                    "resolved": false
+                }
+            ],
+            "issues": []
+        },
+        {
+            "aborted": true,
+            "buildnum": 2,
+            "graphids": [],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "pushapk",
+                    "description": "run pushapk",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/mobile/howto.md",
+                    "resolved": false
+                }
+            ],
+            "issues": []
+        },
+        {
+            "aborted": true,
             "buildnum": 1,
             "graphids": [
                 [
