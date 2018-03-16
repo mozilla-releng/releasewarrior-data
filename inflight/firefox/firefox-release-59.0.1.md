@@ -23,5 +23,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | snap died with KeyError: '"status"' | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | snap died with KeyError: '"status"' | True | True |
 

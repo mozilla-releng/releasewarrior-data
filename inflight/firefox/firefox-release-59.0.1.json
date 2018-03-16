@@ -55,7 +55,7 @@
                     "bug": "none",
                     "description": "snap died with KeyError: '\"status\"'",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
