@@ -18,7 +18,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug 1445890](https://bugzil.la/1445890)        | Manually changed bouncer entries because task definition has wrong path | False | True |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 

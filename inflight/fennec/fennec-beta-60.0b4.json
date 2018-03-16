@@ -19,7 +19,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1445890",
+                    "description": "Manually changed bouncer entries because task definition has wrong path",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                }
+            ]
         },
         {
             "aborted": true,
