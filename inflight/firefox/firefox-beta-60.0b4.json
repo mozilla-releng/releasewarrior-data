@@ -40,8 +40,8 @@
                 {
                     "bug": "none",
                     "description": "Timeout generating checksums (ZJbBUuVgQ9--wse6vvrU6A). Rerun",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]

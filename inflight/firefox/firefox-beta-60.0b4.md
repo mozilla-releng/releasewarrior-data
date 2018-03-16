@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](https://bugzil.la/none)        | Timeout generating checksums (ZJbBUuVgQ9--wse6vvrU6A). Rerun | False | True |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | Timeout generating checksums (ZJbBUuVgQ9--wse6vvrU6A). Rerun | True | False |
 
