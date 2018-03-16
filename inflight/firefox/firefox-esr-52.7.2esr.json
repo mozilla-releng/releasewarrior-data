@@ -51,8 +51,8 @@
                 {
                     "bug": "none",
                     "description": "update verify failures for it on esr-localtest from the 52.7.1 special casing, Changed the rule to affect 'esr' instead of 'esr*' and rerun",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
