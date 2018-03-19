@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-03-19
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-03-18 - [bug 1445593](https://bugzil.la/1445593): All scriptworker instances had their *script bumped, for refactoring. Changes happened at the beginning of scripts, hence if a failure is a fallout, it must be at the beginning of the run. No behavior is expected to change [jlorenzo]
 
 ## Build 1  
 

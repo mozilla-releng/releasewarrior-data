@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1445593",
+                "deadline": "2018-03-18",
+                "description": "All scriptworker instances had their *script bumped, for refactoring. Changes happened at the beginning of scripts, hence if a failure is a fallout, it must be at the beginning of the run. No behavior is expected to change [jlorenzo]",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "60.0b5"
