@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-03-19
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-04-24 - [bug 1445666](https://bugzil.la/1445666): remove esr-latest* aliases from esr52
 
 ## Build 1  
 
