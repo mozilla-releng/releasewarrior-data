@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1431789",
+                    "description": "502: bad gateway for balrog submit-locale tasks",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ]
         }
     ],
     "preflight": {
