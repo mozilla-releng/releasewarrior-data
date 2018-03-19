@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1431789](https://bugzil.la/1431789)        | 502: bad gateway for balrog submit-locale tasks | False | True |
+| asasaki  | 1 | [bug 1431789](https://bugzil.la/1431789)        | 502: bad gateway for balrog submit-locale tasks | True | False |
 
