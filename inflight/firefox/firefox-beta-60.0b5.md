@@ -23,4 +23,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1431789](https://bugzil.la/1431789)        | 502: bad gateway for balrog submit-locale tasks | True | False |
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | partials-pt-PT-win64-nightly/opt failed; rerun fixed | True | False |
+| asasaki  | 3 | [bug none](https://bugzil.la/none)        | snap image failed | False | True |
 
