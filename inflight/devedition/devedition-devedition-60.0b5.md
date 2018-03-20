@@ -22,5 +22,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1431789](https://bugzil.la/1431789)        | 502: bad gateway for balrog submit-locale tasks | True | False |
-| asasaki  | 2 | [bug none](https://bugzil.la/none)        | partials-az-win32-devedition-nightly/opt failed | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | partials-az-win32-devedition-nightly/opt failed | True | False |
 
