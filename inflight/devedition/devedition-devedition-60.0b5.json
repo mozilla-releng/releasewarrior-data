@@ -43,6 +43,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "partials-az-win32-devedition-nightly/opt failed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }
