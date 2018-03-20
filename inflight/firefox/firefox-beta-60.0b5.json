@@ -51,8 +51,8 @@
                 {
                     "bug": "none",
                     "description": "partials-pt-PT-win64-nightly/opt failed; rerun fixed",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
