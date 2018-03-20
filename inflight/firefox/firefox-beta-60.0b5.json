@@ -61,6 +61,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "bouncer check failed; rerun fixed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }
