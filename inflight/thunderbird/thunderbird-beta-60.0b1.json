@@ -31,7 +31,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "checksums failed (https://trello.com/c/AQkBwbPd/357-add-back-old-generate-checksums-script-in-mozharness-with-a-different-name-and-also-tweak-bbconfigs-so-that-tb-checksums-dont-fa)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ]
         },
         {
             "aborted": true,

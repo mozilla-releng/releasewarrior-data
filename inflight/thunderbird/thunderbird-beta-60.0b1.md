@@ -20,7 +20,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | checksums failed (https://trello.com/c/AQkBwbPd/357-add-back-old-generate-checksums-script-in-mozharness-with-a-different-name-and-also-tweak-bbconfigs-so-that-tb-checksums-dont-fa) | False | True |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
