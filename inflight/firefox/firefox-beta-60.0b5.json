@@ -58,8 +58,8 @@
                 {
                     "bug": "none",
                     "description": "snap image failed",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
