@@ -58,15 +58,15 @@
                 {
                     "bug": "none",
                     "description": "snap image failed",
-                    "future_threat": false,
-                    "resolved": true,
+                    "future_threat": true,
+                    "resolved": false,
                     "who": "asasaki"
                 },
                 {
                     "bug": "none",
                     "description": "bouncer check failed; rerun fixed",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
