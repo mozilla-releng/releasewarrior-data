@@ -1,0 +1,122 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-03-15",
+            "future_threats": [
+                {
+                    "bug": "1445890",
+                    "buildnum": 3,
+                    "description": "Manually changed bouncer entries because task definition has wrong path",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b4"
+        },
+        {
+            "date": "2018-03-15",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "59.0.1"
+        },
+        {
+            "date": "2018-03-15",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b4"
+        },
+        {
+            "date": "2018-03-15",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "[funsize] Publish to Balrog linux chunk 1 for 52.7.1esr timeout",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "update verify failures for it on esr-localtest from the 52.7.1 special casing, Changed the rule to affect 'esr' instead of 'esr*' and rerun",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "52.7.2esr"
+        },
+        {
+            "date": "2018-03-15",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Timeout generating checksums (ZJbBUuVgQ9--wse6vvrU6A). Rerun",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "60.0b4"
+        },
+        {
+            "date": "2018-03-15",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "snap died with KeyError: '\"status\"'",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "59.0.1"
+        },
+        {
+            "date": "2018-03-19",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b5"
+        },
+        {
+            "date": "2018-03-19",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1431789",
+                    "buildnum": 1,
+                    "description": "502: bad gateway for balrog submit-locale tasks",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "partials-az-win32-devedition-nightly/opt failed",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "60.0b5"
+        }
+    ],
+    "date": "2018-03-22"
+}
