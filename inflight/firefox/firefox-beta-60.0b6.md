@@ -23,5 +23,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1448239](https://bugzil.la/1448239)        | Snap build failed: 404 when downloading libtiff5-dev_4.0.6-1ubuntu0.3_amd64.deb. Temporarilly resolved by submitting https://tools.taskcluster.net/groups/Ar8c5e3_T_iHbJlzBP56FA/tasks/az361OxlRqCRJsRkveXfmg | True | True |
-| jlorenzo  | 2 | [bug 1448377 ](https://bugzil.la/1448377 )        | Bug 1448377 - Balrog doesn't enact scheduled changes anymore | False | True |
+| jlorenzo  | 2 | [bug 1448377 ](https://bugzil.la/1448377 )        | Bug 1448377 - Balrog doesn't enact scheduled changes anymore | True | False |
 
