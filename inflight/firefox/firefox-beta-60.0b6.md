@@ -21,5 +21,4 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | snap failed | False | True |
-
+| asasaki  | 1 | [bug 1448239](https://bugzil.la/1448239)        | Snap build failed: 404 when downloading libtiff5-dev_4.0.6-1ubuntu0.3_amd64.deb. Manually resolved by submitting https://tools.taskcluster.net/groups/Ar8c5e3_T_iHbJlzBP56FA/tasks/az361OxlRqCRJsRkveXfmg | True | True |

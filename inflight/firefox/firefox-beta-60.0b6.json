@@ -42,10 +42,10 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
-                    "description": "snap failed",
+                    "bug": "1448239",
+                    "description": "Snap build failed: 404 when downloading libtiff5-dev_4.0.6-1ubuntu0.3_amd64.deb. Temporarilly resolved by submitting https://tools.taskcluster.net/groups/Ar8c5e3_T_iHbJlzBP56FA/tasks/az361OxlRqCRJsRkveXfmg",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
