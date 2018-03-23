@@ -23,4 +23,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | both ryan and i reran the same repackage task, then ryan cancelled his (latest). i had to cancel the repackage-signing task, then rerun both in order. this could have forced us to do a build2 if it wasn't caught in time. we should consider moving off treeherder and into a releaseduty dashboard, and/or going with stricter handoffs | True | True |
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | release-updates-builder-firefox died trying to use the v4 submitter (buildbot) | False | True |
+| asasaki  | 3 | [bug none](https://bugzil.la/none)        | snap failed | False | True |
 
