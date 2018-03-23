@@ -22,5 +22,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1448377](https://bugzil.la/1448377)        | Balrog doesn't enact scheduled changes anymore | False | True |
+| jlorenzo  | 1 | [bug 1448377](https://bugzil.la/1448377)        | Balrog doesn't enact scheduled changes anymore | True | False |
 
