@@ -44,7 +44,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1448377",
+                    "description": "Balrog doesn't enact scheduled changes anymore",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                }
+            ]
         }
     ],
     "preflight": {
