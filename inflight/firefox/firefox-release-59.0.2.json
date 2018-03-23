@@ -63,6 +63,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "repackages and partials continue to be flaky, requiring people to rerun tasks. if these were robust, we wouldn't have hit the double rerun conflict",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }
