@@ -15,10 +15,11 @@
 #### Status
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
 - [x] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
-- [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release)  - schedule the release for shipping
+- [x] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release)  - schedule the release for shipping
 - [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes)  - signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1448239](https://bugzil.la/1448239)        | Snap build failed: 404 when downloading libtiff5-dev_4.0.6-1ubuntu0.3_amd64.deb. Manually resolved by submitting https://tools.taskcluster.net/groups/Ar8c5e3_T_iHbJlzBP56FA/tasks/az361OxlRqCRJsRkveXfmg | True | True |
+| asasaki  | 1 | [bug 1448239](https://bugzil.la/1448239)        | Snap build failed: 404 when downloading libtiff5-dev_4.0.6-1ubuntu0.3_amd64.deb. Temporarilly resolved by submitting https://tools.taskcluster.net/groups/Ar8c5e3_T_iHbJlzBP56FA/tasks/az361OxlRqCRJsRkveXfmg | True | True |
+
