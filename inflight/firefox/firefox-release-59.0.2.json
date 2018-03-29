@@ -61,8 +61,8 @@
                 {
                     "bug": "none",
                     "description": "release-updates-builder-firefox died trying to use the v4 submitter (buildbot)",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
