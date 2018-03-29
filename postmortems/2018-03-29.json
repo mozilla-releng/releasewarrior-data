@@ -1,6 +1,58 @@
 {
     "complete_releases": [
         {
+            "date": "2018-03-15",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 6,
+                    "description": "checksums failed (https://trello.com/c/AQkBwbPd/357-add-back-old-generate-checksums-script-in-mozharness-with-a-different-name-and-also-tweak-bbconfigs-so-that-tb-checksums-dont-fa)",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 5,
+                    "description": "checksums failed (https://trello.com/c/AQkBwbPd/357-add-back-old-generate-checksums-script-in-mozharness-with-a-different-name-and-also-tweak-bbconfigs-so-that-tb-checksums-dont-fa)",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 4,
+                    "description": "checksums failed (https://trello.com/c/AQkBwbPd/357-add-back-old-generate-checksums-script-in-mozharness-with-a-different-name-and-also-tweak-bbconfigs-so-that-tb-checksums-dont-fa)",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "checksums failed (https://trello.com/c/AQkBwbPd/357-add-back-old-generate-checksums-script-in-mozharness-with-a-different-name-and-also-tweak-bbconfigs-so-that-tb-checksums-dont-fa)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "release runner failed when build was being submitted due to differences between l10n-changesets and shipped-locales",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "version": "60.0b1"
+        },
+        {
             "date": "2018-03-22",
             "future_threats": [],
             "product": "devedition",
@@ -54,6 +106,72 @@
             "product": "thunderbird",
             "resolved": [],
             "version": "52.7.0"
+        },
+        {
+            "date": "2018-03-23",
+            "future_threats": [
+                {
+                    "bug": "1445666",
+                    "buildnum": 2,
+                    "description": "only updated the esr52-latest* aliases, not the esr-latest*",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Wrong changeset given on ship it. Build 1 waits on builds that will never come. Build2 started.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "52.7.3esr"
+        },
+        {
+            "date": "2018-03-23",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "both ryan and i reran the same repackage task, then ryan cancelled his (latest). i had to cancel the repackage-signing task, then rerun both in order. this could have forced us to do a build2 if it wasn't caught in time. we should consider moving off treeherder and into a releaseduty dashboard, and/or going with stricter handoffs",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "snap failed",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "repackages and partials continue to be flaky, requiring people to rerun tasks. if these were robust, we wouldn't have hit the double rerun conflict",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "release-updates-builder-firefox died trying to use the v4 submitter (buildbot)",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "59.0.2"
         },
         {
             "date": "2018-03-26",
