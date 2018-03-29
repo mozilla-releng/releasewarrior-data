@@ -69,7 +69,7 @@
                     "bug": "none",
                     "description": "snap failed",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
