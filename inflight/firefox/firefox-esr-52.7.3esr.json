@@ -45,7 +45,7 @@
                     "bug": "1445666",
                     "description": "only updated the esr52-latest* aliases, not the esr-latest*",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

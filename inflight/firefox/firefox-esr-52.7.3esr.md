@@ -21,7 +21,7 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1445666](https://bugzil.la/1445666)        | only updated the esr52-latest* aliases, not the esr-latest* | False | True |
+| asasaki  | 1 | [bug 1445666](https://bugzil.la/1445666)        | only updated the esr52-latest* aliases, not the esr-latest* | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
