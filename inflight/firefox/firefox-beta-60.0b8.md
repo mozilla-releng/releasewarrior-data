@@ -22,5 +22,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1450075](https://bugzil.la/1450075)        | partials and repackages continue to be flaky | False | True |
+| asasaki  | 1 | [bug 1450075](https://bugzil.la/1450075)        | partials and repackages continue to be flaky | True | True |
 

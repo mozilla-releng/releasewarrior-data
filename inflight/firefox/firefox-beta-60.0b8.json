@@ -49,7 +49,7 @@
                     "bug": "1450075",
                     "description": "partials and repackages continue to be flaky",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
