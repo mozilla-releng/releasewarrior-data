@@ -41,7 +41,7 @@
                     "bug": "1304942",
                     "description": "hg clone bustage",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

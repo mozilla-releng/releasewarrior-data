@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1304942](https://bugzil.la/1304942)        | hg clone bustage | False | True |
+| asasaki  | 1 | [bug 1304942](https://bugzil.la/1304942)        | hg clone bustage | True | True |
 
