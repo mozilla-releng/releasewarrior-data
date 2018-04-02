@@ -48,7 +48,7 @@
                     "bug": "1450075",
                     "description": "partials flaky",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
