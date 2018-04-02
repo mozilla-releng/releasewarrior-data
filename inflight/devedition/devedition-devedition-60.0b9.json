@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1304942",
+                    "description": "hg clone bustage",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ]
         }
     ],
     "preflight": {
