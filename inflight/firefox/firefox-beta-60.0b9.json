@@ -41,7 +41,7 @@
                     "bug": "1371378",
                     "description": "hg bundle issue",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
