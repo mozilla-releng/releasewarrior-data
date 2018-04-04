@@ -44,15 +44,7 @@
                     "resolved": true
                 }
             ],
-            "issues": [
-                {
-                    "bug": "none",
-                    "description": "checksums not pushed to releases; blocking b9",
-                    "future_threat": true,
-                    "resolved": false,
-                    "who": "asasaki"
-                }
-            ]
+            "issues": []
         }
     ],
     "preflight": {
