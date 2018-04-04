@@ -23,4 +23,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1450075](https://bugzil.la/1450075)        | partials and repackages continue to be flaky | True | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | checksums not pushed to releases; blocking b9 | False | True |
 
