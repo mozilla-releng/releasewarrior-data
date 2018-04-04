@@ -25,5 +25,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1304942](https://bugzil.la/1304942)        | hg clone bustage | True | True |
 | asasaki  | 2 | [bug 1450075](https://bugzil.la/1450075)        | partials flaky | True | True |
-| asasaki  | 3 | [bug 1451531](https://bugzil.la/1451531)        | missing checksums | False | True |
+| asasaki  | 3 | [bug 1451531](https://bugzil.la/1451531)        | missing checksums | True | True |
 

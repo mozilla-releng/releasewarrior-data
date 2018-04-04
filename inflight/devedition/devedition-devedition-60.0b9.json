@@ -67,7 +67,7 @@
                     "bug": "1451531",
                     "description": "missing checksums",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
