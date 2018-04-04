@@ -9,8 +9,9 @@
 
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/NXi31S58R6OEAtWdahm9LQ) NXi31S58R6OEAtWdahm9LQ
-* [ship](https://tools.taskcluster.net/push-inspector/#/L3icgE9-QlebaWhBDuTbzQ) L3icgE9-QlebaWhBDuTbzQ
 * [push](https://tools.taskcluster.net/push-inspector/#/CR3CKCvFRPCCt5U2X538Pg) CR3CKCvFRPCCt5U2X538Pg
+* [ship](https://tools.taskcluster.net/push-inspector/#/L3icgE9-QlebaWhBDuTbzQ) L3icgE9-QlebaWhBDuTbzQ
+* [push2](https://tools.taskcluster.net/push-inspector/#/c5EiS45XRAa3_Kd7k64yFw) c5EiS45XRAa3_Kd7k64yFw
 
 
 #### Status
@@ -23,4 +24,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1371378](https://bugzil.la/1371378)        | hg bundle issue | True | True |
+| asasaki  | 2 | [bug 1451531](https://bugzil.la/1451531)        | beetmover-cdns didn't push checksums | True | True |
 

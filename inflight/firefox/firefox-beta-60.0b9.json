@@ -10,12 +10,16 @@
                     "NXi31S58R6OEAtWdahm9LQ"
                 ],
                 [
+                    "push",
+                    "CR3CKCvFRPCCt5U2X538Pg"
+                ],
+                [
                     "ship",
                     "L3icgE9-QlebaWhBDuTbzQ"
                 ],
                 [
-                    "push",
-                    "CR3CKCvFRPCCt5U2X538Pg"
+                    "push2",
+                    "c5EiS45XRAa3_Kd7k64yFw"
                 ]
             ],
             "human_tasks": [
@@ -48,6 +52,13 @@
                 {
                     "bug": "1371378",
                     "description": "hg bundle issue",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1451531",
+                    "description": "beetmover-cdns didn't push checksums",
                     "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
