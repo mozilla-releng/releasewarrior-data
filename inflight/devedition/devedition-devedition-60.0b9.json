@@ -16,6 +16,10 @@
                 [
                     "ship",
                     "FzjRbO7vR5if3Suz_WDWYA"
+                ],
+                [
+                    "push2",
+                    "Gkw7fgghRo23heUEz89HIA"
                 ]
             ],
             "human_tasks": [
@@ -57,6 +61,13 @@
                     "description": "partials flaky",
                     "future_threat": true,
                     "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1451531",
+                    "description": "missing checksums",
+                    "future_threat": true,
+                    "resolved": false,
                     "who": "asasaki"
                 }
             ]
