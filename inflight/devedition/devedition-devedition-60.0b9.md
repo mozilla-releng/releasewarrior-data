@@ -11,6 +11,7 @@
 * [promote](https://tools.taskcluster.net/push-inspector/#/Uq2I-M9NRueaH59JUWI0og) Uq2I-M9NRueaH59JUWI0og
 * [push](https://tools.taskcluster.net/push-inspector/#/AyKuEmbvRo6ZNknHs_zuzA) AyKuEmbvRo6ZNknHs_zuzA
 * [ship](https://tools.taskcluster.net/push-inspector/#/FzjRbO7vR5if3Suz_WDWYA) FzjRbO7vR5if3Suz_WDWYA
+* [push2](https://tools.taskcluster.net/push-inspector/#/Gkw7fgghRo23heUEz89HIA) Gkw7fgghRo23heUEz89HIA
 
 
 #### Status
@@ -24,4 +25,5 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1304942](https://bugzil.la/1304942)        | hg clone bustage | True | True |
 | asasaki  | 2 | [bug 1450075](https://bugzil.la/1450075)        | partials flaky | True | True |
+| asasaki  | 3 | [bug 1451531](https://bugzil.la/1451531)        | missing checksums | False | True |
 
