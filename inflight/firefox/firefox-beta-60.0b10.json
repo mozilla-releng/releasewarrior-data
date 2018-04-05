@@ -40,7 +40,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1451667",
+                    "description": "release-snap-push-firefox task failed, but pushed the snap anyway",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "sfraser"
+                }
+            ]
         }
     ],
     "preflight": {
