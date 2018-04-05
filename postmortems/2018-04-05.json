@@ -1,0 +1,114 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-03-29",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b8"
+        },
+        {
+            "date": "2018-03-29",
+            "future_threats": [
+                {
+                    "bug": "1450075",
+                    "buildnum": 1,
+                    "description": "partials and repackages continue to be flaky",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b8"
+        },
+        {
+            "date": "2018-04-02",
+            "future_threats": [
+                {
+                    "bug": "1304942",
+                    "buildnum": 1,
+                    "description": "hg clone bustage",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1450075",
+                    "buildnum": 1,
+                    "description": "partials flaky",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1451531",
+                    "buildnum": 1,
+                    "description": "missing checksums",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b9"
+        },
+        {
+            "date": "2018-04-02",
+            "future_threats": [
+                {
+                    "bug": "1371378",
+                    "buildnum": 1,
+                    "description": "hg bundle issue",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1451531",
+                    "buildnum": 1,
+                    "description": "beetmover-cdns didn't push checksums",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b9"
+        },
+        {
+            "date": "2018-04-02",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b9"
+        },
+        {
+            "date": "2018-04-04",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b10"
+        },
+        {
+            "date": "2018-04-04",
+            "future_threats": [
+                {
+                    "bug": "1451667",
+                    "buildnum": 1,
+                    "description": "release-snap-push-firefox task failed, but pushed the snap anyway",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "sfraser"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b10"
+        }
+    ],
+    "date": "2018-04-05"
+}
