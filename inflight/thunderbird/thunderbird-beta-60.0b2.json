@@ -31,7 +31,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "windows build was pending 8.5 hours - retriggered an esr52 windows build to add a new spot instance to the pool",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ]
         }
     ],
     "preflight": {
