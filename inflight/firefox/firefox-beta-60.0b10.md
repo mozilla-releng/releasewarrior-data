@@ -22,5 +22,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| sfraser  | 1 | [bug 1451667](https://bugzil.la/1451667)        | release-snap-push-firefox task failed, but pushed the snap anyway | False | True |
+| sfraser  | 1 | [bug 1451667](https://bugzil.la/1451667)        | release-snap-push-firefox task failed, but pushed the snap anyway | True | True |
 
