@@ -43,7 +43,7 @@
                     "bug": "none",
                     "description": "pending publish task - had to retrigger an esr52 linux build to run",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

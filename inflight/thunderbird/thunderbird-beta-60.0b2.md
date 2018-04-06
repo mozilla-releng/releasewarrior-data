@@ -21,5 +21,5 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | windows build was pending 8.5 hours - retriggered an esr52 windows build to add a new spot instance to the pool | True | True |
-| asasaki  | 2 | [bug none](https://bugzil.la/none)        | pending publish task - had to retrigger an esr52 linux build to run | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | pending publish task - had to retrigger an esr52 linux build to run | True | True |
 
