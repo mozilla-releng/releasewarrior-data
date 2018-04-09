@@ -8,7 +8,7 @@
 ## Build 2  
 
 ### Graphs
-task graph url: unknown
+* [promote](https://tools.taskcluster.net/push-inspector/#/XP_KLzLiSSq8ApFDzZrtFA) XP_KLzLiSSq8ApFDzZrtFA
 
 
 #### Status
