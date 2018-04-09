@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1452759](https://bugzil.la/1452759)        | bad cot signature for >20k char tasks. partner configs slipped in, but we need a docker-worker fix for the underlying issue | False | True |
 
