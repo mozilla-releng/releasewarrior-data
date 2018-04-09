@@ -47,6 +47,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "source task was unscheduled - unknown reason. cancelled & reran",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }

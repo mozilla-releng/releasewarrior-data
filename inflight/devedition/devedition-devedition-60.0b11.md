@@ -22,4 +22,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | reran the wrong task trying to fix a weird cot verify issue!! had to then cancel/rerun downstream tasks that had already run/were running. may have worked; otherwise we need a build2 | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | source task was unscheduled - unknown reason. cancelled & reran | False | True |
 
