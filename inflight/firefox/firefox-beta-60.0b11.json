@@ -39,6 +39,13 @@
                     "id": 1,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "cancelling a -notify task will send email (e.g., \"fx 60.0b11 in candidates dir\" on cancelling the graph)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         },
