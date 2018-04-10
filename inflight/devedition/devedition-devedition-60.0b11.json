@@ -49,7 +49,7 @@
                     "bug": "none",
                     "description": "reran the wrong task trying to fix a weird cot verify issue!! had to then cancel/rerun downstream tasks that had already run/were running. may have worked; otherwise we need a build2",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
