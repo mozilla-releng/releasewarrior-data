@@ -24,7 +24,7 @@
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1452759](https://bugzil.la/1452759)        | bad cot signature for >20k char tasks. partner configs slipped in, but we need a docker-worker fix for the underlying issue | True | True |
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | cancelling a -notify task will send email (e.g., "fx 60.0b11 in candidates dir" on cancelling the graph) | True | True |
-| asasaki  | 3 | [bug none](https://bugzil.la/none)        | 404 for bouncer-check; should we retry more intelligently? | False | True |
+| asasaki  | 3 | [bug none](https://bugzil.la/none)        | 404 for bouncer-check; should we retry more intelligently? | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

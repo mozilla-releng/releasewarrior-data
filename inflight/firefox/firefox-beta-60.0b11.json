@@ -64,7 +64,7 @@
                     "bug": "none",
                     "description": "404 for bouncer-check; should we retry more intelligently?",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
