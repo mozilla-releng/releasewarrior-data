@@ -1,0 +1,101 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-04-04",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "windows build was pending 8.5 hours - retriggered an esr52 windows build to add a new spot instance to the pool",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "pending publish task - had to retrigger an esr52 linux build to run",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b2"
+        },
+        {
+            "date": "2018-04-09",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "reran the wrong task trying to fix a weird cot verify issue!! had to then cancel/rerun downstream tasks that had already run/were running. may have worked; otherwise we need a build2",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "source task was unscheduled - unknown reason. cancelled & reran. had to rerun beetmover-cdns; we should probably block the notify-promote task and the beetmover-cdns on beetmover-source",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b11"
+        },
+        {
+            "date": "2018-04-09",
+            "future_threats": [
+                {
+                    "bug": "1452759",
+                    "buildnum": 2,
+                    "description": "bad cot signature for >20k char tasks. partner configs slipped in, but we need a docker-worker fix for the underlying issue",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "cancelling a -notify task will send email (e.g., \"fx 60.0b11 in candidates dir\" on cancelling the graph)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "404 for bouncer-check; should we retry more intelligently?",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1452759",
+                    "buildnum": 1,
+                    "description": "bad cot signature for >20k char tasks. partner configs slipped in, but we need a docker-worker fix for the underlying issue",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b11"
+        },
+        {
+            "date": "2018-04-09",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b11"
+        }
+    ],
+    "date": "2018-04-12"
+}
