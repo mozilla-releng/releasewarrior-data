@@ -51,6 +51,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "release-bouncer-check-firefox failed (U4D65-moRjCWcknswXAUjg) due to a partial not being available. rerun->fixed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "sfraser"
                 }
             ]
         }

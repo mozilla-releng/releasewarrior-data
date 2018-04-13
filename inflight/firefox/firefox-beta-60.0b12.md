@@ -23,4 +23,5 @@
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1453240](https://bugzil.la/1453240)        | langpack beetmover changes broke beetmover | False | True |
+| sfraser  | 2 | [bug none](https://bugzil.la/none)        | release-bouncer-check-firefox failed (U4D65-moRjCWcknswXAUjg) due to a partial not being available. rerun->fixed | False | True |
 
