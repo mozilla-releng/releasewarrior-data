@@ -49,7 +49,7 @@
                     "bug": "1453240",
                     "description": "langpack beetmover changes broke beetmover",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
