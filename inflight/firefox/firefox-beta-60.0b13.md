@@ -20,5 +20,5 @@
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1438246](https://bugzil.la/1438246)        | addonscript needs to retry harder | False | True |
 
