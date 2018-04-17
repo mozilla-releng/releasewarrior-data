@@ -49,7 +49,7 @@
                     "bug": "1438246",
                     "description": "addonscript needs to retry harder",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

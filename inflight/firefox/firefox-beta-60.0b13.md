@@ -27,5 +27,5 @@ export SHIP_TASK_ID=OUvTM92vSwukvohCs_OQYg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1438246](https://bugzil.la/1438246)        | addonscript needs to retry harder | False | True |
+| asasaki  | 1 | [bug 1438246](https://bugzil.la/1438246)        | addonscript needs to retry harder | True | True |
 
