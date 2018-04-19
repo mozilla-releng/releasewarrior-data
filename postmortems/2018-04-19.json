@@ -1,0 +1,80 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-04-12",
+            "future_threats": [
+                {
+                    "bug": "1453240",
+                    "buildnum": 1,
+                    "description": "langpack beetmover changes broke beetmover",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "release-bouncer-check-firefox failed (U4D65-moRjCWcknswXAUjg) due to a partial not being available. rerun->fixed",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "sfraser"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b12"
+        },
+        {
+            "date": "2018-04-12",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b12"
+        },
+        {
+            "date": "2018-04-12",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b12"
+        },
+        {
+            "date": "2018-04-13",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b3"
+        },
+        {
+            "date": "2018-04-16",
+            "future_threats": [
+                {
+                    "bug": "1438246",
+                    "buildnum": 1,
+                    "description": "addonscript needs to retry harder",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b13"
+        },
+        {
+            "date": "2018-04-16",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b13"
+        },
+        {
+            "date": "2018-04-16",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b13"
+        }
+    ],
+    "date": "2018-04-19"
+}
