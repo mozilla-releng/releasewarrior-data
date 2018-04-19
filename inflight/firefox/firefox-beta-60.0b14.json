@@ -40,8 +40,8 @@
                 {
                     "bug": "1442545",
                     "description": "partner beetmover busted, now fixed",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
