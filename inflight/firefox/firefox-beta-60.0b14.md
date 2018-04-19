@@ -43,5 +43,5 @@ export PROMOTE_TASK_ID=b2jFhrCVSNOdaEolYZbyvg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | partner scopes issue | True | False |
 
