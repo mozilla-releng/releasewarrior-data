@@ -23,7 +23,7 @@ export PROMOTE_TASK_ID=KXC_f9OTRN6DHa_IYiatWQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1442545](https://bugzil.la/1442545)        | partner beetmover busted, now fixed | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
