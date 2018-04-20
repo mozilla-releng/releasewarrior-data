@@ -20,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | windows builds didn't start | False | True |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | windows builds didn't start | True | True |
 
