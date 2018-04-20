@@ -20,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | windows builds didn't start | True | True |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | windows builds didn't start because no instances came up. had to kick some nightly builds to get machines, then cancel those jobs | True | True |
 

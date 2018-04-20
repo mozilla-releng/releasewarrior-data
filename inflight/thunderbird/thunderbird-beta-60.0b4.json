@@ -34,7 +34,7 @@
             "issues": [
                 {
                     "bug": "none",
-                    "description": "windows builds didn't start",
+                    "description": "windows builds didn't start because no instances came up. had to kick some nightly builds to get machines, then cancel those jobs",
                     "future_threat": true,
                     "resolved": true,
                     "who": "bhearsum"
