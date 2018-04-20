@@ -51,8 +51,8 @@
                 {
                     "bug": "none",
                     "description": "release-snap-push-firefox (CDraGnh_TEGGiut9YL6cGg) failed because it's build2 and the sha matched build1. ",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "sfraser"
                 }
             ]
