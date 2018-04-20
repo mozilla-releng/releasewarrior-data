@@ -26,6 +26,7 @@ export PUSH_TASK_ID=ew3RJY_CRZu9PYPU3GFtcA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1442545](https://bugzil.la/1442545)        | partner beetmover busted, now fixed | True | False |
+| sfraser  | 2 | [bug none](https://bugzil.la/none)        | release-snap-push-firefox (CDraGnh_TEGGiut9YL6cGg) failed because it's build2 and the sha matched build1.  | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
