@@ -8,8 +8,6 @@
 ## Build 1  
 
 ### Graphs
-```
-```
 task graph url: unknown
 
 
@@ -22,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| bhearsum  | 1 | [bug none](https://bugzil.la/none)        | windows builds didn't start | False | True |
 
