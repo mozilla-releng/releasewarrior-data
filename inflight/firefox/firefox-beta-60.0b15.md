@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=O607MSw1T46go1vCaaIinA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1450075](https://bugzil.la/1450075)        | repackage tasks flaky - mostly hg? | False | True |
 
