@@ -52,7 +52,7 @@
                     "bug": "none",
                     "description": "sheriffs reran completed tasks again",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
