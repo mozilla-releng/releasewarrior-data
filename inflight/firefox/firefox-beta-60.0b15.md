@@ -26,4 +26,5 @@ export PUSH_TASK_ID=U-wG0qa_S6mE8VhsTRmt_w
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1450075](https://bugzil.la/1450075)        | repackage tasks flaky - mostly hg? | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | sheriffs reran completed tasks again | False | True |
 
