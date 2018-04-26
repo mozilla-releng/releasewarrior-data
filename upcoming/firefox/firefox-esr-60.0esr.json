@@ -40,7 +40,7 @@
                 "bug": "1445666",
                 "deadline": "2018-04-24",
                 "description": "remove esr-latest* aliases from esr52",
-                "resolved": false
+                "resolved": true
             },
             {
                 "bug": "1457090",
