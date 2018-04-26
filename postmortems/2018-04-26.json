@@ -1,0 +1,98 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-04-19",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1442545",
+                    "buildnum": 2,
+                    "description": "partner beetmover busted, now fixed",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "release-snap-push-firefox (CDraGnh_TEGGiut9YL6cGg) failed because it's build2 and the sha matched build1. ",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "sfraser"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "partner scopes issue",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "60.0b14"
+        },
+        {
+            "date": "2018-04-19",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b14"
+        },
+        {
+            "date": "2018-04-20",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "windows builds didn't start because no instances came up. had to kick some nightly builds to get machines, then cancel those jobs",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b4"
+        },
+        {
+            "date": "2018-04-23",
+            "future_threats": [
+                {
+                    "bug": "1450075",
+                    "buildnum": 1,
+                    "description": "repackage tasks flaky - mostly hg?",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "sheriffs reran completed tasks again",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b15"
+        },
+        {
+            "date": "2018-04-23",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b15"
+        },
+        {
+            "date": "2018-04-23",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0b15"
+        }
+    ],
+    "date": "2018-04-26"
+}
