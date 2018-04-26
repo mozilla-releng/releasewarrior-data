@@ -41,6 +41,12 @@
                 "deadline": "2018-04-24",
                 "description": "remove esr-latest* aliases from esr52",
                 "resolved": false
+            },
+            {
+                "bug": "1457090",
+                "deadline": "2018-04-26",
+                "description": "land+graft post-merge patches",
+                "resolved": false
             }
         ]
     },
