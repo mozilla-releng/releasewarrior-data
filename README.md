@@ -11,3 +11,5 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
+* [Firefox 60.0b16](/inflight/firefox/firefox-beta-60.0b16.md)
+
