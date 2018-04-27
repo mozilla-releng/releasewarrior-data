@@ -41,7 +41,7 @@
                     "bug": "none",
                     "description": "submitted a revision that's not on the tip of a push",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
