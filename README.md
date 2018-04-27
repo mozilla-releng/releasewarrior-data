@@ -15,7 +15,7 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 60.0b16](/inflight/devedition/devedition-devedition-60.0b16.md)
 
-* [Firefox 59.0.3](/inflight/firefox/firefox-release-59.0.3.md)
-
 * [Thunderbird 60.0b5](/inflight/thunderbird/thunderbird-beta-60.0b5.md)
+
+* [Firefox 59.0.3](/inflight/firefox/firefox-release-59.0.3.md)
 
