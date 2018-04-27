@@ -45,7 +45,7 @@
                     "bug": "none",
                     "description": "mac mx partials task took 4+hours GcdAQS-vSVe3WVcWIH-8cw",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

@@ -25,5 +25,5 @@ export PUSH_TASK_ID=S2Drh_26Rp6_8SOLGnqMMA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | mac mx partials task took 4+hours GcdAQS-vSVe3WVcWIH-8cw | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | mac mx partials task took 4+hours GcdAQS-vSVe3WVcWIH-8cw | True | True |
 
