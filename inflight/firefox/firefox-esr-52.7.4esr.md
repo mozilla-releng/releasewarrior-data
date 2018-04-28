@@ -24,4 +24,5 @@ export PROMOTE_TASK_ID=ZWkZ7iWbQdufKZzKpGa3wQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | submitted a revision that's not on the tip of a push | True | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | l10n timeouts | False | True |
 
