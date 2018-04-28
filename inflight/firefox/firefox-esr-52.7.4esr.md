@@ -23,6 +23,7 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | l10n timeouts | False | True |
+| asasaki  | 2 | [bug 1446296](https://bugzil.la/1446296)        | pypi bustage for windows | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

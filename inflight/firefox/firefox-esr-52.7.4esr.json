@@ -39,6 +39,13 @@
                     "id": 2,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "1446296",
+                    "description": "pypi bustage for windows",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         },
