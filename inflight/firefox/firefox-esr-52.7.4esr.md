@@ -24,7 +24,7 @@ export PROMOTE_TASK_ID=JW1i08ESQmahTjm9FqHxlA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | l10n timeouts | True | False |
-| asasaki  | 2 | [bug 1446296](https://bugzil.la/1446296)        | pypi bustage for windows | False | True |
+| asasaki  | 2 | [bug 1446296](https://bugzil.la/1446296)        | pypi bustage for windows | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
