@@ -40,9 +40,9 @@
                 {
                     "bug": "none",
                     "description": "l10n timeouts",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
