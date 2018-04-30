@@ -33,7 +33,7 @@
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-signoffs",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
