@@ -27,5 +27,5 @@ export PROMOTE_RC_TASK_ID=aB3RQPVESoyWn86O5BHdpg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1441353](https://bugzil.la/1441353)        | addonscript failure without automatic rerun | False | True |
 
