@@ -53,7 +53,7 @@
                     "alias": "",
                     "description": "Update bouncer locations for Firefox-stub-f135 (Bug 1450463)",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": []
