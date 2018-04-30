@@ -28,8 +28,8 @@
                 {
                     "bug": "none",
                     "description": "corrupt cache: cannot enable sparse profile on existing non-sparse checkout",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

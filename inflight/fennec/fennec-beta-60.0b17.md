@@ -21,5 +21,5 @@ export PROMOTE_TASK_ID=PSzbZgymQDehgeWs11UAwg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | corrupt cache: cannot enable sparse profile on existing non-sparse checkout | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | corrupt cache: cannot enable sparse profile on existing non-sparse checkout | True | False |
 
