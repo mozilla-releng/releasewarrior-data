@@ -65,7 +65,7 @@
                     "bug": "1441353",
                     "description": "addonscript failure without automatic rerun",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {

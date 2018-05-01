@@ -27,6 +27,6 @@ export PROMOTE_RC_TASK_ID=aB3RQPVESoyWn86O5BHdpg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1441353](https://bugzil.la/1441353)        | addonscript failure without automatic rerun | False | True |
+| asasaki  | 1 | [bug 1441353](https://bugzil.la/1441353)        | addonscript failure without automatic rerun | True | True |
 | asasaki  | 2 | [bug 1446160](https://bugzil.la/1446160)        | all secondary update verifies fail due to lack of automated diffing | False | True |
 
