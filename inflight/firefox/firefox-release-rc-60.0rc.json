@@ -63,7 +63,7 @@
             "issues": [
                 {
                     "bug": "1441353",
-                    "description": "addonscript failure without automatic rerun",
+                    "description": "addonscript failure without automatic rerun. from callek: 'need to manually upload the locale `oc` language pack at next rc, the task itself will fail out due to the issue so will be visible'",
                     "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
