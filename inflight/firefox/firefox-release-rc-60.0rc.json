@@ -72,7 +72,7 @@
                     "bug": "1446160",
                     "description": "all secondary update verifies fail due to lack of automated diffing",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
