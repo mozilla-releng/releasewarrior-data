@@ -78,6 +78,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "1458489",
+                    "description": "Balrog secondary task did not update beta/beta-cdntest",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "sfraser"
                 }
             ]
         }
