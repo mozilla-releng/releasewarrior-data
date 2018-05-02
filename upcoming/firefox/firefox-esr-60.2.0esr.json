@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1408868",
+                "deadline": "2018-08-20",
+                "description": "Backout [fcf3e11f9f8b](https://hg.mozilla.org/releases/mozilla-esr60/rev/fcf3e11f9f8b39f42e791b442dbf0d9c7401915f) so that esr-latest aliases point to esr60",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "60.2.0esr"

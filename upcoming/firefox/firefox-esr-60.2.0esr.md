@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-05-02
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-08-20 - [bug 1408868](https://bugzil.la/1408868): Backout [fcf3e11f9f8b](https://hg.mozilla.org/releases/mozilla-esr60/rev/fcf3e11f9f8b39f42e791b442dbf0d9c7401915f) so that esr-latest aliases point to esr60
 
 ## Build 1  
 
