@@ -47,6 +47,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "sfraser"
+                },
+                {
+                    "bug": "1458592",
+                    "description": "release_eta is set for a week in the future, for devedition on beta, when it should be ASAP",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "sfraser"
                 }
             ]
         }
