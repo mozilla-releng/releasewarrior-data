@@ -25,5 +25,5 @@ export PUSH_TASK_ID=LKKnPp1QQOG3KFd89G1IPw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| sfraser  | 1 | [bug 1458555](https://bugzil.la/1458555)        | Beetmover had the wrong S3 bucket configured for devedition | False | True |
+| sfraser  | 1 | [bug 1458555](https://bugzil.la/1458555)        | Beetmover had the wrong S3 bucket configured for devedition | True | False |
 
