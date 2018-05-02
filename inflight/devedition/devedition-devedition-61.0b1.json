@@ -40,7 +40,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1458555",
+                    "description": "Beetmover had the wrong S3 bucket configured for devedition",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "sfraser"
+                }
+            ]
         }
     ],
     "preflight": {
