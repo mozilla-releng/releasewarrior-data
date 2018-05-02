@@ -34,6 +34,12 @@
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-signoffs",
                     "resolved": false
+                },
+                {
+                    "alias": "",
+                    "description": "Manually update bouncer aliases [firefox-esr-latest-ssl](https://bounceradmin.mozilla.com/admin/mirror/productalias/22/) and [firefox-esr-latest](https://bounceradmin.mozilla.com/admin/mirror/productalias/9/) to Firefox-52.78.0esr (bug 1445666)",
+                    "docs": "",
+                    "resolved": false
                 }
             ],
             "issues": []
