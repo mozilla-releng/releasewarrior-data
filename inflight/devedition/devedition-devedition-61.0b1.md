@@ -28,5 +28,5 @@ export SHIP_TASK_ID=TYVWRvw4QqKWi-pqnFYenQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | sfraser  | 1 | [bug 1458555](https://bugzil.la/1458555)        | Beetmover had the wrong S3 bucket configured for devedition | True | False |
-| sfraser  | 2 | [bug 1458592](https://bugzil.la/1458592)        | release_eta is set for a week in the future, for devedition on beta, when it should be ASAP | False | True |
+| sfraser  | 2 | [bug 1458592](https://bugzil.la/1458592)        | release_eta is set for a week in the future, for devedition on beta, when it should be ASAP | True | True |
 
