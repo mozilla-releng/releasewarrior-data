@@ -32,5 +32,5 @@ export SHIP_RC_TASK_ID=Z1-A6RxOSoqm48NCCAprLA
 | asasaki  | 1 | [bug 1441353](https://bugzil.la/1441353)        | addonscript failure without automatic rerun. from callek: 'need to manually upload the locale `oc` language pack at next rc, the task itself will fail out due to the issue so will be visible' | True | True |
 | asasaki  | 2 | [bug 1446160](https://bugzil.la/1446160)        | all secondary update verifies fail due to lack of automated diffing | True | True |
 | sfraser  | 3 | [bug 1458489](https://bugzil.la/1458489)        | Balrog secondary task did not update beta/beta-cdntest | True | False |
-| jlorenzo  | 4 | [bug 1458479](https://bugzil.la/1458479)        | RC bouncer updates only added partials | False | True |
+| jlorenzo  | 4 | [bug 1458479](https://bugzil.la/1458479)        | RC bouncer updates only added partials | True | False |
 

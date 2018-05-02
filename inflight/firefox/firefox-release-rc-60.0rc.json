@@ -89,8 +89,8 @@
                 {
                     "bug": "1458479",
                     "description": "RC bouncer updates only added partials",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
