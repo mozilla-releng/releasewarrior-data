@@ -58,8 +58,8 @@
                 {
                     "bug": "1458809",
                     "description": "release-bouncer-sub has the wrong scopes for esr60",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
