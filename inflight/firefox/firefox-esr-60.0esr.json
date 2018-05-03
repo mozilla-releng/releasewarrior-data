@@ -107,6 +107,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "1458810",
+                    "description": "L10n repackage missing esr60 single_locale config",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
                 }
             ]
         },

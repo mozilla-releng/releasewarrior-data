@@ -47,6 +47,7 @@ task graph url: unknown
 | nthomas  | 2 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes for promote action | True | False |
 | jlorenzo  | 3 | [bug 1458819](https://bugzil.la/1458819)        | platform.ini had no esr60 configuration | True | False |
 | jlorenzo  | 4 | [bug 1458809](https://bugzil.la/1458809)        | release-bouncer-sub has the wrong scopes for esr60 | True | False |
+| jlorenzo  | 5 | [bug 1458810](https://bugzil.la/1458810)        | L10n repackage missing esr60 single_locale config | True | False |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 
@@ -110,4 +111,3 @@ task graph url: unknown
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship | False | True |
 | nthomas  | 2 | [bug 1434889](https://bugzil.la/1434889)        | m-esr60 not included in RELEASE_PROJECTS, so release actions left out by decision task. Resolved by d9e849d8f10f | True | False |
-
