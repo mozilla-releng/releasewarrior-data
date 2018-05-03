@@ -24,8 +24,8 @@ export PROMOTE_TASK_ID=VtwRzO8vQSmsbpFgJXGpqQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship | False | True |
-| nthomas  | 2 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it. | False | True |
+| nthomas  | 2 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes for promote action | False | True |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
@@ -47,7 +47,7 @@ export PROMOTE_TASK_ID=Zu6HtaOuR7-31HeB3EuLoA
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship | False | True |
 | nthomas  | 2 | [bug 1432737](https://bugzil.la/1432737)        | Release runner objects to display version of 60.0esr, backed out 34474b4c614b | True | False |
-| nthomas  | 3 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes | False | True |
+| nthomas  | 3 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes for releaserunner | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
