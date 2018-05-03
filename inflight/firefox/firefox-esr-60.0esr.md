@@ -25,6 +25,7 @@ task graph url: unknown
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it. | False | True |
 | nthomas  | 2 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes for promote action | False | True |
+| jlorenzo  | 3 | [bug 1458819](https://bugzil.la/1458819)        | platform.ini had no esr60 configuration | False | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 
