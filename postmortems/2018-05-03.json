@@ -1,0 +1,143 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-04-26",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "60.0b16"
+        },
+        {
+            "date": "2018-04-26",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "mac mx partials task took 4+hours GcdAQS-vSVe3WVcWIH-8cw",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0b16"
+        },
+        {
+            "date": "2018-04-27",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b5"
+        },
+        {
+            "date": "2018-04-27",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "l10n timeouts",
+                    "future_threat": true,
+                    "id": 2,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1446296",
+                    "buildnum": 2,
+                    "description": "pypi bustage for windows",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "submitted a revision that's not on the tip of a push",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "l10n timeouts",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "l10n timeouts",
+                    "future_threat": false,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1446296",
+                    "buildnum": 3,
+                    "description": "pypi bustage for windows",
+                    "future_threat": false,
+                    "id": 2,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "52.7.4esr"
+        },
+        {
+            "date": "2018-04-27",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "59.0.3"
+        },
+        {
+            "date": "2018-04-28",
+            "future_threats": [
+                {
+                    "bug": "1458592",
+                    "buildnum": 1,
+                    "description": "release_eta is set for a week in the future, for devedition on beta, when it should be ASAP",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "sfraser"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1458555",
+                    "buildnum": 1,
+                    "description": "Beetmover had the wrong S3 bucket configured for devedition",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "sfraser"
+                }
+            ],
+            "version": "61.0b1"
+        },
+        {
+            "date": "2018-04-30",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "corrupt cache: cannot enable sparse profile on existing non-sparse checkout",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "60.0b17"
+        }
+    ],
+    "date": "2018-05-03"
+}
