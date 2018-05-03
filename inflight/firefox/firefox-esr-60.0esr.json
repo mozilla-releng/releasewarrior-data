@@ -46,6 +46,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "1458744",
+                    "description": "Missing scopes",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         },
