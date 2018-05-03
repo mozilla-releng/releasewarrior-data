@@ -23,5 +23,5 @@ export SHIP_TASK_ID=UluPJy4OQ-Ws4B4fT5O0rw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | this should have been an rc. how to protect against this? | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | this should have been an rc. how to protect against this? | True | True |
 
