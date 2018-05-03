@@ -39,6 +39,13 @@
                     "id": 1,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "1432737",
+                    "description": "Release runner objects to display version of 60.0esr, backed out 34474b4c614b",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         },
