@@ -42,8 +42,8 @@
                 {
                     "bug": "1434889",
                     "description": "m-esr60 not included in RELEASE_PROJECTS, so release actions left out by decision task. Resolved by d9e849d8f10f",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
