@@ -25,6 +25,7 @@ export PROMOTE_TASK_ID=HOffha7JS8eISza1qm5sYA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it. | False | True |
+| jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | release-balrog-submit-toplevel-firefox failed (ZB6V2TlUS7CvgyLxw8001Q) because rule "firefox-esr60-cdntest" didn't exist. I renamed existing alias "esr60-cdntest" to what the worker expects | False | True |
 
 ## Build 4  :bomb: _aborted release. starting new build num_ :bomb: 
 
@@ -111,3 +112,4 @@ task graph url: unknown
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship | False | True |
 | nthomas  | 2 | [bug 1434889](https://bugzil.la/1434889)        | m-esr60 not included in RELEASE_PROJECTS, so release actions left out by decision task. Resolved by d9e849d8f10f | True | False |
+
