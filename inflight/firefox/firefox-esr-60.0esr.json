@@ -51,8 +51,8 @@
                 {
                     "bug": "1458819",
                     "description": "platform.ini had no esr60 configuration",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 },
                 {
