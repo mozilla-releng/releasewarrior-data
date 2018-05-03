@@ -24,7 +24,7 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship | False | True |
-| nthomas  | 2 | [bug 1432737](https://bugzil.la/1432737)        | Release runner objects to display version of 60.0esr, backed out 34474b4c614b | False | True |
+| nthomas  | 2 | [bug 1432737](https://bugzil.la/1432737)        | Release runner objects to display version of 60.0esr, backed out 34474b4c614b | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
