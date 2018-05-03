@@ -35,8 +35,8 @@
                 {
                     "bug": "none",
                     "description": "add watershed to prevent esr52 from updating to esr60 before ship",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
