@@ -347,7 +347,7 @@
                 "bug": "1457090",
                 "deadline": "2018-04-26",
                 "description": "land+graft post-merge patches",
-                "resolved": false
+                "resolved": true
             }
         ]
     },
