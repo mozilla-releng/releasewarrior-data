@@ -3,6 +3,47 @@
     "inflight": [
         {
             "aborted": false,
+            "buildnum": 5,
+            "graphids": [],
+            "human_tasks": [
+                {
+                    "alias": "shipit",
+                    "description": "submit to Shipit",
+                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
+                    "resolved": true
+                },
+                {
+                    "alias": "mirrors",
+                    "description": "pushed to mirrors/releases",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-push-to-releases-dir-mirrors",
+                    "resolved": false
+                },
+                {
+                    "alias": "ship",
+                    "description": "schedule the release for shipping",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#4-publish-release",
+                    "resolved": false
+                },
+                {
+                    "alias": "signoff",
+                    "description": "signoff in Balrog",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#3-signoffs",
+                    "resolved": false
+                }
+            ],
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it.",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ]
+        },
+        {
+            "aborted": true,
             "buildnum": 4,
             "graphids": [],
             "human_tasks": [
