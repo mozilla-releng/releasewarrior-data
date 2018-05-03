@@ -43,9 +43,9 @@
                 {
                     "bug": "1458744",
                     "description": "Missing scopes for promote action",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 2,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {

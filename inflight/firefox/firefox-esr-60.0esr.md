@@ -24,7 +24,7 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it. | False | True |
-| nthomas  | 2 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes for promote action | False | True |
+| nthomas  | 2 | [bug 1458744](https://bugzil.la/1458744)        | Missing scopes for promote action | True | False |
 | jlorenzo  | 3 | [bug 1458819](https://bugzil.la/1458819)        | platform.ini had no esr60 configuration | True | False |
 | jlorenzo  | 4 | [bug 1458809](https://bugzil.la/1458809)        | release-bouncer-sub has the wrong scopes for esr60 | True | False |
 
