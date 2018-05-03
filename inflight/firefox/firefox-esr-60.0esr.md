@@ -23,6 +23,6 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship | True | False |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship | False | True |
 | nthomas  | 2 | [bug 1434889](https://bugzil.la/1434889)        | m-esr60 not included in RELEASE_PROJECTS, so release actions left out by decision task. Resolved by d9e849d8f10f | False | True |
 
