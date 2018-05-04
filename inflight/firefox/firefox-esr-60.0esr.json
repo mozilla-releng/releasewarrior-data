@@ -112,6 +112,20 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "1457090",
+                    "description": "add missing esr60 config in release-generate-checksums. Fixed in https://hg.mozilla.org/releases/mozilla-esr60/rev/1185905f50087bae5d1000de0abde4fed8d899eb",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1408868",
+                    "description": "Set bouncer alias in taskgraph and removed duplicated configs",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
                 }
             ]
         },
