@@ -48,9 +48,9 @@
                 {
                     "bug": "none",
                     "description": "release-balrog-submit-toplevel-firefox failed (ZB6V2TlUS7CvgyLxw8001Q) because rule \"firefox-esr60-cdntest\" didn't exist. I renamed existing alias \"esr60-cdntest\" to what the worker expects",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 2,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
