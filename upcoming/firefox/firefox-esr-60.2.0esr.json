@@ -39,7 +39,7 @@
             {
                 "bug": "1408868",
                 "deadline": "2018-08-20",
-                "description": "Backout [fcf3e11f9f8b](https://hg.mozilla.org/releases/mozilla-esr60/rev/fcf3e11f9f8b39f42e791b442dbf0d9c7401915f) so that esr-latest aliases point to esr60",
+                "description": "Change https://hg.mozilla.org/releases/mozilla-esr60/rev/e1c89bf28365823de83262354b17801158d9414f#l1.15 and following lines to let esr-latest aliases point to esr60. Don't backout the changeset because this will bring back dead config files.",
                 "resolved": false
             }
         ]
