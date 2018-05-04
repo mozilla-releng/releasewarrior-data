@@ -36,7 +36,7 @@
                     "bug": "none",
                     "description": "publish required 3 runs - intermittent failures",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

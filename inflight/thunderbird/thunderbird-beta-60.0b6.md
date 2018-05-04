@@ -22,5 +22,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | publish required 3 runs - intermittent failures | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | publish required 3 runs - intermittent failures | True | True |
 
