@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=bpgJFUOIReqo1AFZY2Vc4w
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | beetmover-repackage-linux64-asan-reporter-nightly/opt shouldn't be part of the promote graph | False | True |
 
