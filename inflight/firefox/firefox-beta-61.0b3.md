@@ -26,4 +26,5 @@ export PUSH_TASK_ID=c6uqUd5MSkauX9P_CglMRw
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | beetmover-repackage-linux64-asan-reporter-nightly/opt shouldn't be part of the promote graph | False | True |
+| asasaki  | 2 | [bug 1408868](https://bugzil.la/1408868)        | we removed too many bouncer config files | False | True |
 
