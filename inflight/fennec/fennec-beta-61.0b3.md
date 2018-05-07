@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/GrelU-2_QvavPyVcGssMgQ) GrelU-2_QvavPyVcGssMgQ
 ```
+export PROMOTE_TASK_ID=GrelU-2_QvavPyVcGssMgQ
 ```
-task graph url: unknown
 
 
 #### Status
