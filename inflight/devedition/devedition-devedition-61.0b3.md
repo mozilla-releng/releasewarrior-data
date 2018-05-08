@@ -25,5 +25,5 @@ export PUSH_TASK_ID=Xm1Yg0vJTheXPo1bSFv1Mg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1408868](https://bugzil.la/1408868)        | we removed too many bouncer config files | False | True |
 
