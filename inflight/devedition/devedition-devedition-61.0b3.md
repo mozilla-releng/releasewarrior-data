@@ -27,5 +27,5 @@ export SHIP_TASK_ID=Qf26jrDERGSmocn6oJuZCQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1408868](https://bugzil.la/1408868)        | we removed too many bouncer config files | False | True |
+| asasaki  | 1 | [bug 1408868](https://bugzil.la/1408868)        | we removed too many bouncer config files | True | False |
 
