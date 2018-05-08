@@ -55,8 +55,8 @@
                 {
                     "bug": "1408868",
                     "description": "we removed too many bouncer config files",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
