@@ -31,7 +31,7 @@ export PUSH_TASK_ID=dqhcS8eKS0OIF2udsb292A
 | jlorenzo  | 3 | [bug 1459145](https://bugzil.la/1459145)        | release-notify-promote-firefox didn't send an email to release-signoff. I sent it manually. If we keep build6 running, we must also send emails manually after push and ship | False | True |
 | asasaki  | 4 | [bug none](https://bugzil.la/none)        | missing snap+notify scopes! | True | False |
 | asasaki  | 5 | [bug none](https://bugzil.la/none)        | esr60 snap failed -- kill? | False | True |
-| asasaki  | 6 | [bug none](https://bugzil.la/none)        | bouncer check failed | False | True |
+| asasaki  | 6 | [bug none](https://bugzil.la/none)        | bouncer check failed | True | False |
 
 ## Build 5  :bomb: _aborted release. starting new build num_ :bomb: 
 
