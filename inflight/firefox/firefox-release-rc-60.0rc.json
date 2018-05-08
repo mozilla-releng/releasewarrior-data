@@ -73,7 +73,7 @@
                     "bug": "none",
                     "description": "ran ship instead of push phase",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

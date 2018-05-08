@@ -31,7 +31,7 @@ export PUSH_TASK_ID=QMFdXFzlTYOWa6dutwQ-yg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | ran ship instead of push phase | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | ran ship instead of push phase | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
