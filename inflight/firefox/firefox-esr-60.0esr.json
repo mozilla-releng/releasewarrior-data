@@ -70,6 +70,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "snap failed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         },

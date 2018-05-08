@@ -30,6 +30,7 @@ export PUSH_TASK_ID=dqhcS8eKS0OIF2udsb292A
 | jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | release-balrog-submit-toplevel-firefox failed (ZB6V2TlUS7CvgyLxw8001Q) because rule "firefox-esr60-cdntest" didn't exist. I renamed existing alias "esr60-cdntest" to what the worker expects | True | False |
 | jlorenzo  | 3 | [bug 1459145](https://bugzil.la/1459145)        | release-notify-promote-firefox didn't send an email to release-signoff. I sent it manually. If we keep build6 running, we must also send emails manually after push and ship | False | True |
 | asasaki  | 4 | [bug none](https://bugzil.la/none)        | missing snap+notify scopes! | True | False |
+| asasaki  | 5 | [bug none](https://bugzil.la/none)        | snap failed | False | True |
 
 ## Build 5  :bomb: _aborted release. starting new build num_ :bomb: 
 
