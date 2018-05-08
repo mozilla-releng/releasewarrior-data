@@ -75,6 +75,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "un-marked as shipped. we need to mark as shipped manually or rerun task",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         },
