@@ -66,9 +66,9 @@
                 },
                 {
                     "bug": "none",
-                    "description": "missing scopes!",
-                    "future_threat": true,
-                    "resolved": false,
+                    "description": "missing snap+notify scopes!",
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
