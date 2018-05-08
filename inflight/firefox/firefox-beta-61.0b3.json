@@ -48,8 +48,8 @@
                 {
                     "bug": "none",
                     "description": "beetmover-repackage-linux64-asan-reporter-nightly/opt shouldn't be part of the promote graph",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
