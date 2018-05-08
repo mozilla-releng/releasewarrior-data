@@ -63,6 +63,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "none",
+                    "description": "missing scopes!",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         },
