@@ -64,8 +64,8 @@
                 {
                     "bug": "1459145",
                     "description": "release-notify-promote-firefox didn't send an email to release-signoff. I sent it manually. If we keep build6 running, we must also send emails manually after push and ship",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 },
                 {
