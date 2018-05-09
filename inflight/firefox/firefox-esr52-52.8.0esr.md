@@ -21,7 +21,7 @@ export PUSH_TASK_ID=ffFRix8GQoeAlXm8pEcStg
 - [x] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#1-push-to-releases-dir-mirrors)  - pushed to mirrors/releases
 - [x] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#3-publish-release)  - schedule the release for shipping
 - [x] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-signoffs)  - signoff in Balrog
-- [ ] 5.  - Manually update bouncer aliases [firefox-esr-latest-ssl](https://bounceradmin.mozilla.com/admin/mirror/productalias/22/) and [firefox-esr-latest](https://bounceradmin.mozilla.com/admin/mirror/productalias/9/) to Firefox-52.8.0esr (bug 1445666)
+- [x] 5.  - Manually update bouncer aliases [firefox-esr-latest-ssl](https://bounceradmin.mozilla.com/admin/mirror/productalias/22/) and [firefox-esr-latest](https://bounceradmin.mozilla.com/admin/mirror/productalias/9/) to Firefox-52.8.0esr (bug 1445666)
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |

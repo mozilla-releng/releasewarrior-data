@@ -43,7 +43,7 @@
                     "alias": "",
                     "description": "Manually update bouncer aliases [firefox-esr-latest-ssl](https://bounceradmin.mozilla.com/admin/mirror/productalias/22/) and [firefox-esr-latest](https://bounceradmin.mozilla.com/admin/mirror/productalias/9/) to Firefox-52.8.0esr (bug 1445666)",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": []
