@@ -79,8 +79,8 @@
                 {
                     "bug": "none",
                     "description": "un-marked as shipped. we need to mark as shipped manually or rerun task",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {

@@ -27,5 +27,5 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Upcoming**
 
-* [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr-60.2.0esr.md)
+* [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
 
