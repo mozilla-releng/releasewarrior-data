@@ -33,7 +33,7 @@ export SHIP_TASK_ID=QMFdXFzlTYOWa6dutwQ-yg
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | ran ship instead of push phase | True | True |
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | un-marked as shipped. we need to mark as shipped manually or rerun task | True | False |
-| asasaki  | 3 | [bug none](https://bugzil.la/none)        | un-updated bouncer aliases; need to re-update or rerun task | False | True |
+| asasaki  | 3 | [bug none](https://bugzil.la/none)        | un-updated bouncer aliases; need to re-update or rerun task | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

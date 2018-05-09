@@ -86,8 +86,8 @@
                 {
                     "bug": "none",
                     "description": "un-updated bouncer aliases; need to re-update or rerun task",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
