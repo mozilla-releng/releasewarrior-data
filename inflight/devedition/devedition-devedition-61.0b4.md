@@ -25,5 +25,5 @@ export PUSH_TASK_ID=cunId6g0SqqaITtWsIzewQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | bouncer-check, partials needed reruns | False | True |
 
