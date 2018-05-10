@@ -29,6 +29,12 @@
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-signoffs",
                     "resolved": false
+                },
+                {
+                    "alias": "",
+                    "description": "Update ship-it config for ESR52 deprecation",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1460752",
+                    "resolved": false
                 }
             ],
             "issues": []
