@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-05-10
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-05-09 - [bug 1441353](https://bugzil.la/1441353): from callek: 'need to manually upload the locale oc language pack at next rc, the task itself will fail out due to the issue so will be visible'
 
 ## Build 1  
 
