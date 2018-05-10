@@ -1,0 +1,163 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-04-30",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "52.8.0esr"
+        },
+        {
+            "date": "2018-04-30",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "ran ship instead of push phase",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1441353",
+                    "buildnum": 1,
+                    "description": "addonscript failure without automatic rerun. from callek: 'need to manually upload the locale `oc` language pack at next rc, the task itself will fail out due to the issue so will be visible'",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1446160",
+                    "buildnum": 1,
+                    "description": "all secondary update verifies fail due to lack of automated diffing",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "un-marked as shipped. we need to mark as shipped manually or rerun task",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "un-updated bouncer aliases; need to re-update or rerun task",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1458489",
+                    "buildnum": 1,
+                    "description": "Balrog secondary task did not update beta/beta-cdntest",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "sfraser"
+                },
+                {
+                    "bug": "1458479",
+                    "buildnum": 1,
+                    "description": "RC bouncer updates only added partials",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "60.0rc"
+        },
+        {
+            "date": "2018-05-03",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b2"
+        },
+        {
+            "date": "2018-05-03",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "publish required 3 runs - intermittent failures",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b6"
+        },
+        {
+            "date": "2018-05-03",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "this should have been an rc. how to protect against this?",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0"
+        },
+        {
+            "date": "2018-05-07",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "beetmover-repackage-linux64-asan-reporter-nightly/opt shouldn't be part of the promote graph",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1408868",
+                    "buildnum": 1,
+                    "description": "we removed too many bouncer config files",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "61.0b3"
+        },
+        {
+            "date": "2018-05-07",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1408868",
+                    "buildnum": 1,
+                    "description": "we removed too many bouncer config files",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "61.0b3"
+        },
+        {
+            "date": "2018-05-07",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b3"
+        }
+    ],
+    "date": "2018-05-10"
+}
