@@ -28,7 +28,7 @@ export SHIP_TASK_ID=c0A1G8lTS-inWGwOv6VdIA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it. | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it. | True | False |
 | jlorenzo  | 2 | [bug none](https://bugzil.la/none)        | release-balrog-submit-toplevel-firefox failed (ZB6V2TlUS7CvgyLxw8001Q) because rule "firefox-esr60-cdntest" didn't exist. I renamed existing alias "esr60-cdntest" to what the worker expects | True | False |
 | jlorenzo  | 3 | [bug 1459145](https://bugzil.la/1459145)        | release-notify-promote-firefox didn't send an email to release-signoff. I sent it manually. If we keep build6 running, we must also send emails manually after push and ship | True | False |
 | asasaki  | 4 | [bug none](https://bugzil.la/none)        | missing snap+notify scopes! | True | False |
