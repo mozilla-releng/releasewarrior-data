@@ -27,5 +27,5 @@ export SHIP_TASK_ID=AroZVdVWSx2kubqlwVHQTQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| sfraser  | 1 | [bug 1460906](https://bugzil.la/1460906)        | Incorrect use of config.params made the balrog schedule task fail | False | True |
 
