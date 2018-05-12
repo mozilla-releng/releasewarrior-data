@@ -48,8 +48,8 @@
                 {
                     "bug": "none",
                     "description": "bouncer-check, partials needed reruns",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
