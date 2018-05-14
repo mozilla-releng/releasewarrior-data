@@ -40,7 +40,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1461490",
+                    "description": "UV needs to whitelist certain binary diffs. e.g. ignoring channel-pref when testing rc to a beta.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {

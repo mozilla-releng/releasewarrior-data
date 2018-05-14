@@ -25,5 +25,5 @@ export PUSH_TASK_ID=GqALgXuIQTWfhgJdaC8nVg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1461490](https://bugzil.la/1461490)        | UV needs to whitelist certain binary diffs. e.g. ignoring channel-pref when testing rc to a beta. | False | True |
 
