@@ -9,6 +9,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 61.0b4](/inflight/devedition/devedition-devedition-61.0b4.md)
 
+* [Devedition 61.0b5](/inflight/devedition/devedition-devedition-61.0b5.md)
+
 * [Fennec 61.0b5](/inflight/fennec/fennec-beta-61.0b5.md)
 
 * [Firefox 60.0esr](/inflight/firefox/firefox-esr60-60.0esr.md)
@@ -18,8 +20,6 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 * [Firefox 61.0b5](/inflight/firefox/firefox-beta-61.0b5.md)
 
 **Upcoming**
-
-* [Devedition 61.0b5](/upcoming/devedition/devedition-devedition-61.0b5.md)
 
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
 
