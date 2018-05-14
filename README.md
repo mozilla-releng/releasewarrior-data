@@ -15,6 +15,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Upcoming**
 
+* [Fennec 61.0b5](/upcoming/fennec/fennec-beta-61.0b5.md)
+
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
 
 * [Firefox 61.0rc](/upcoming/firefox/firefox-release-rc-61.0rc.md)
