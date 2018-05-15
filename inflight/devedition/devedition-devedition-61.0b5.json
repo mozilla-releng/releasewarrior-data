@@ -51,6 +51,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "jlund"
+                },
+                {
+                    "bug": "1460906",
+                    "description": "Incorrect use of config.params made the balrog schedule task fail",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
                 }
             ]
         }
