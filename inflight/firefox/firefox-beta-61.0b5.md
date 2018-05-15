@@ -28,4 +28,5 @@ export SHIP_TASK_ID=aM3gJcHXQEu1XOnWy0b_BA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1461490](https://bugzil.la/1461490)        | UV needs to whitelist certain binary diffs. e.g. ignoring channel-pref when testing rc to a beta. | False | True |
+| mtabara  | 2 | [bug 1460906](https://bugzil.la/1460906)        | Incorrect use of config.params made the balrog schedule task fail | False | True |
 
