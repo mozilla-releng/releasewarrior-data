@@ -41,7 +41,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1452807",
+                "deadline": "2018-05-16",
+                "description": "bump bouncer aliases for funnelcake 133, 134, 135 once 60.0.1 ships.",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "60.0.1"

@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-05-15
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-05-16 - [bug 1452807](https://bugzil.la/1452807): bump bouncer aliases for funnelcake 133, 134, 135 once 60.0.1 ships.
 
 ## Build 1  
 
