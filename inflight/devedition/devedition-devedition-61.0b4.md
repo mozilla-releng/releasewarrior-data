@@ -28,5 +28,5 @@ export SHIP_TASK_ID=KFxb6Q9qRaWDqbbG4LcLmA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | bouncer-check, partials needed reruns | True | False |
-| sfraser  | 2 | [bug 1460906](https://bugzil.la/1460906)        | Incorrect use of config.params made the balrog schedule task fail | False | True |
+| sfraser  | 2 | [bug 1460906](https://bugzil.la/1460906)        | Incorrect use of config.params made the balrog schedule task fail | True | True |
 
