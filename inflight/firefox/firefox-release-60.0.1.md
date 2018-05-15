@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-05-15
 
 ## Preflight tasks (pre go-to-build)
-- [ ] 1. due:2018-05-16 - [bug 1452807](https://bugzil.la/1452807): bump bouncer aliases for funnelcake 133, 134, 135 once 60.0.1 ships.
+- none
 
 ## Build 1  
 
@@ -20,6 +20,7 @@ export PROMOTE_TASK_ID=TBNtdEMkRliaYV9KwuD5iA
 - [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
 - [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release)  - schedule the release for shipping
 - [ ] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes)  - signoff in Balrog
+- [ ] 6.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1452807#c25)  - bump bouncer aliases for funnelcake 133, 134, 135 once 60.0.1 ships
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |

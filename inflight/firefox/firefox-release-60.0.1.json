@@ -40,20 +40,19 @@
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
                     "resolved": false
+                },
+                {
+                    "alias": "",
+                    "description": "bump bouncer aliases for funnelcake 133, 134, 135 once 60.0.1 ships",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1452807#c25",
+                    "resolved": false
                 }
             ],
             "issues": []
         }
     ],
     "preflight": {
-        "human_tasks": [
-            {
-                "bug": "1452807",
-                "deadline": "2018-05-16",
-                "description": "bump bouncer aliases for funnelcake 133, 134, 135 once 60.0.1 ships.",
-                "resolved": false
-            }
-        ]
+        "human_tasks": []
     },
     "product": "firefox",
     "version": "60.0.1"
