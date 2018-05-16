@@ -22,5 +22,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1461859](https://bugzil.la/1461859)        | esr 60.0.1 is failing to pass kickoff sanity check | False | True |
 
