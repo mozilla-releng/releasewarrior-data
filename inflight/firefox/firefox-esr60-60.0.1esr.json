@@ -84,7 +84,7 @@
                     "bug": "1462064",
                     "description": "sha1 is esr52 only so release bouncer check on esr60 should stop checking it",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "mtabara"
                 },
                 {
