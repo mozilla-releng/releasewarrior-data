@@ -30,7 +30,7 @@ export SHIP_TASK_ID=XpKksAlIT6eX3r5c6LoIVg
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1461857](https://bugzil.la/1461857)        | langpack signing broken, could be from amo side | True | True |
-| jlund  | 2 | [bug 1461895](https://bugzil.la/1461895)        | l10n repacks intermittently end early | False | True |
+| jlund  | 2 | [bug 1461895](https://bugzil.la/1461895)        | l10n repacks intermittently end early | True | True |
 | mtabara  | 3 | [bug 1461919](https://bugzil.la/1461919)        | reruns are flaky. all over the place. we need to bump its priority and address it sooner | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 

@@ -69,7 +69,7 @@
                     "bug": "1461895",
                     "description": "l10n repacks intermittently end early",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 },
                 {
