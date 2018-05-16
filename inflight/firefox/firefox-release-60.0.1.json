@@ -76,7 +76,7 @@
                     "bug": "1461919",
                     "description": "reruns are flaky. all over the place. we need to bump its priority and address it sooner",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "mtabara"
                 }
             ]
