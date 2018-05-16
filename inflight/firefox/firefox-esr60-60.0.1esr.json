@@ -65,8 +65,8 @@
                 {
                     "bug": "none",
                     "description": "bouncer check failed",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mtabara"
                 },
                 {
