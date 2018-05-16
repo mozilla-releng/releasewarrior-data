@@ -29,7 +29,7 @@ export PROMOTE_TASK_ID=atmH6Cq5TpygtR_ttVdyUw
 | mtabara  | 2 | [bug 1461919](https://bugzil.la/1461919)        | reruns are flaky. all over the place. we need to bump its priority and address it sooner | False | True |
 | mtabara  | 3 | [bug 1461919](https://bugzil.la/1461919)        | Kind of worrying to see jamun tasks referenced in Cot for esr balrogworkers tasks. | False | True |
 | mtabara  | 4 | [bug none](https://bugzil.la/none)        | bouncer check failed | True | False |
-| mtabara  | 5 | [bug none](https://bugzil.la/none)        | esr60 snap failed -- kill? | False | True |
+| mtabara  | 5 | [bug none](https://bugzil.la/none)        | esr60 snap failed -- kill? | True | False |
 | mtabara  | 6 | [bug 1462064](https://bugzil.la/1462064)        | sha1 is esr52 only so release bouncer check on esr60 should stop checking it | False | True |
 | mtabara  | 7 | [bug 1462066](https://bugzil.la/1462066)        | esr60 snap is failing | False | True |
 
