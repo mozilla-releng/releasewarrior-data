@@ -25,5 +25,5 @@ export PROMOTE_TASK_ID=TBNtdEMkRliaYV9KwuD5iA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1461857](https://bugzil.la/1461857)        | langpack signing broken, could be from amo side | False | True |
 
