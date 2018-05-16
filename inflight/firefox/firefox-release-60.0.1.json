@@ -53,7 +53,7 @@
                     "alias": "",
                     "description": "bump bouncer aliases for funnelcake 133, 134, 135 once 60.0.1 ships",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1452807#c25",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
