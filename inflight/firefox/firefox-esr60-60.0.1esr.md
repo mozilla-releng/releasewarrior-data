@@ -28,4 +28,5 @@ export PROMOTE_TASK_ID=atmH6Cq5TpygtR_ttVdyUw
 | jlund  | 1 | [bug 1461859](https://bugzil.la/1461859)        | esr 60.0.1 is failing to pass kickoff sanity check | True | False |
 | mtabara  | 2 | [bug 1461919](https://bugzil.la/1461919)        | reruns are flaky. all over the place. we need to bump its priority and address it sooner | False | True |
 | mtabara  | 3 | [bug 1461919](https://bugzil.la/1461919)        | Kind of worrying to see jamun tasks referenced in Cot for esr balrogworkers tasks. | False | True |
+| mtabara  | 4 | [bug none](https://bugzil.la/none)        | bouncer check failed | False | True |
 
