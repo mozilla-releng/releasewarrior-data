@@ -68,6 +68,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "mtabara"
+                },
+                {
+                    "bug": "none",
+                    "description": "esr60 snap failed -- kill?",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
                 }
             ]
         }
