@@ -63,7 +63,7 @@
                     "bug": "1461919",
                     "description": "Kind of worrying to see jamun tasks referenced in Cot for esr balrogworkers tasks.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "mtabara"
                 },
                 {
