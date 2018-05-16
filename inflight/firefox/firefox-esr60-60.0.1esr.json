@@ -82,6 +82,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "mtabara"
+                },
+                {
+                    "bug": "1462066",
+                    "description": "esr60 snap is failing",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
                 }
             ]
         }
