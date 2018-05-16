@@ -52,7 +52,7 @@
                 {
                     "bug": "1461857",
                     "description": "langpack signing broken, could be from amo side",
-                    "future_threat": false,
+                    "future_threat": true,
                     "id": 1,
                     "resolved": true,
                     "who": "jlund"
