@@ -32,4 +32,5 @@ export PROMOTE_TASK_ID=atmH6Cq5TpygtR_ttVdyUw
 | mtabara  | 5 | [bug none](https://bugzil.la/none)        | esr60 snap failed -- kill? | True | False |
 | mtabara  | 6 | [bug 1462064](https://bugzil.la/1462064)        | sha1 is esr52 only so release bouncer check on esr60 should stop checking it | False | True |
 | mtabara  | 7 | [bug 1462066](https://bugzil.la/1462066)        | esr60 snap is failing | False | True |
+| mtabara  | 8 | [bug 1462120](https://bugzil.la/1462120)        | esr60 final update verification fails | False | True |
 

@@ -89,6 +89,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "mtabara"
+                },
+                {
+                    "bug": "1462120",
+                    "description": "esr60 final update verification fails",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
                 }
             ]
         }
