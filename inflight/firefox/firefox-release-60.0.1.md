@@ -25,7 +25,7 @@ export PROMOTE_TASK_ID=F2dVX6m6QPCsy5EnhFUfSg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1461857](https://bugzil.la/1461857)        | langpack signing broken, could be from amo side | False | True |
+| jlund  | 1 | [bug 1461857](https://bugzil.la/1461857)        | langpack signing broken, could be from amo side | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
