@@ -1,0 +1,415 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-03-19",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 6,
+                    "description": "esr60 snap failed -- kill?",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 5,
+                    "description": "add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it.",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 5,
+                    "description": "release-balrog-submit-toplevel-firefox failed (ZB6V2TlUS7CvgyLxw8001Q) because rule \"firefox-esr60-cdntest\" didn't exist. I renamed existing alias \"esr60-cdntest\" to what the worker expects",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 4,
+                    "description": "add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it.",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it.",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1458744",
+                    "buildnum": 3,
+                    "description": "Missing scopes for promote action",
+                    "future_threat": true,
+                    "id": 3,
+                    "resolved": false,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "add watershed to prevent esr52 from updating to esr60 before ship",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "add watershed to prevent esr52 from updating to esr60 before ship",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 6,
+                    "description": "add watershed to prevent esr52 from updating to esr60 before ship. NB: There's a rule but ESR60 requests will not reach it.",
+                    "future_threat": false,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 6,
+                    "description": "release-balrog-submit-toplevel-firefox failed (ZB6V2TlUS7CvgyLxw8001Q) because rule \"firefox-esr60-cdntest\" didn't exist. I renamed existing alias \"esr60-cdntest\" to what the worker expects",
+                    "future_threat": false,
+                    "id": 2,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1459145",
+                    "buildnum": 6,
+                    "description": "release-notify-promote-firefox didn't send an email to release-signoff. I sent it manually. If we keep build6 running, we must also send emails manually after push and ship",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 6,
+                    "description": "missing snap+notify scopes!",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 6,
+                    "description": "bouncer check failed",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1457090",
+                    "buildnum": 5,
+                    "description": "add missing esr60 config in release-generate-checksums. Fixed in https://hg.mozilla.org/releases/mozilla-esr60/rev/1185905f50087bae5d1000de0abde4fed8d899eb",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1408868",
+                    "buildnum": 5,
+                    "description": "Set bouncer alias in taskgraph and removed duplicated configs",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1458744",
+                    "buildnum": 4,
+                    "description": "Missing scopes for promote action",
+                    "future_threat": false,
+                    "id": 2,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1458819",
+                    "buildnum": 4,
+                    "description": "platform.ini had no esr60 configuration",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1458809",
+                    "buildnum": 4,
+                    "description": "release-bouncer-sub has the wrong scopes for esr60",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1458810",
+                    "buildnum": 4,
+                    "description": "L10n repackage missing esr60 single_locale config",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1432737",
+                    "buildnum": 2,
+                    "description": "Release runner objects to display version of 60.0esr, backed out 34474b4c614b",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1458744",
+                    "buildnum": 2,
+                    "description": "Missing scopes for releaserunner",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1434889",
+                    "buildnum": 1,
+                    "description": "m-esr60 not included in RELEASE_PROJECTS, so release actions left out by decision task. Resolved by d9e849d8f10f",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "60.0esr"
+        },
+        {
+            "date": "2018-05-10",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1460906",
+                    "buildnum": 1,
+                    "description": "Incorrect use of config.params made the balrog schedule task fail",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "sfraser"
+                }
+            ],
+            "version": "61.0b4"
+        },
+        {
+            "date": "2018-05-10",
+            "future_threats": [
+                {
+                    "bug": "1460906",
+                    "buildnum": 1,
+                    "description": "Incorrect use of config.params made the balrog schedule task fail",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "sfraser"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "bouncer-check, partials needed reruns",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "61.0b4"
+        },
+        {
+            "date": "2018-05-14",
+            "future_threats": [
+                {
+                    "bug": "1461490",
+                    "buildnum": 1,
+                    "description": "UV needs to whitelist certain binary diffs. e.g. ignoring channel-pref when testing rc to a beta.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1460906",
+                    "buildnum": 1,
+                    "description": "Incorrect use of config.params made the balrog schedule task fail",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b5"
+        },
+        {
+            "date": "2018-05-14",
+            "future_threats": [
+                {
+                    "bug": "1461490",
+                    "buildnum": 1,
+                    "description": "UV needs to whitelist certain binary diffs. e.g. ignoring channel-pref when testing rc to a beta.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1460906",
+                    "buildnum": 1,
+                    "description": "Incorrect use of config.params made the balrog schedule task fail",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b5"
+        },
+        {
+            "date": "2018-05-14",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b5"
+        },
+        {
+            "date": "2018-05-15",
+            "future_threats": [
+                {
+                    "bug": "1461919",
+                    "buildnum": 1,
+                    "description": "reruns are flaky. all over the place. we need to bump its priority and address it sooner",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1461919",
+                    "buildnum": 1,
+                    "description": "Kind of worrying to see jamun tasks referenced in Cot for esr balrogworkers tasks.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1462064",
+                    "buildnum": 1,
+                    "description": "sha1 is esr52 only so release bouncer check on esr60 should stop checking it",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1462066",
+                    "buildnum": 1,
+                    "description": "esr60 snap is failing",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1462120",
+                    "buildnum": 1,
+                    "description": "esr60 final update verification fails",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1461859",
+                    "buildnum": 1,
+                    "description": "esr 60.0.1 is failing to pass kickoff sanity check",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "bouncer check failed",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "esr60 snap failed -- kill?",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "version": "60.0.1esr"
+        },
+        {
+            "date": "2018-05-15",
+            "future_threats": [
+                {
+                    "bug": "1461857",
+                    "buildnum": 2,
+                    "description": "langpack signing broken, could be from amo side",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1461895",
+                    "buildnum": 2,
+                    "description": "l10n repacks intermittently end early",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1461919",
+                    "buildnum": 2,
+                    "description": "reruns are flaky. all over the place. we need to bump its priority and address it sooner",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1461857",
+                    "buildnum": 1,
+                    "description": "langpack signing broken, could be from amo side",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.0.1"
+        },
+        {
+            "date": "2018-05-15",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0.1"
+        }
+    ],
+    "date": "2018-05-17"
+}
