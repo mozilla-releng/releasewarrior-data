@@ -23,5 +23,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1462429](https://bugzil.la/1462429)        | no notification of steps/progress after manual rerun of repack 4, which finished two hours ago | False | True |
+| jlund  | 1 | [bug 1462429](https://bugzil.la/1462429)        | no notification of steps/progress after manual rerun of repack 4, which finished two hours ago | True | False |
 

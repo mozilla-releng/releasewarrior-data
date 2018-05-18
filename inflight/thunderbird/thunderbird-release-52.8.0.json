@@ -41,8 +41,8 @@
                 {
                     "bug": "1462429",
                     "description": "no notification of steps/progress after manual rerun of repack 4, which finished two hours ago",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
