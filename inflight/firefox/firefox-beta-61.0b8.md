@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/OBmC-5-qRmecFUMlxyOTUQ) OBmC-5-qRmecFUMlxyOTUQ
 ```
+export PROMOTE_TASK_ID=OBmC-5-qRmecFUMlxyOTUQ
 ```
-task graph url: unknown
 
 
 #### Status
