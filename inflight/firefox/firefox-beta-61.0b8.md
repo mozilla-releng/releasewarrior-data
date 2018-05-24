@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=OBmC-5-qRmecFUMlxyOTUQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1462120](https://bugzil.la/1462120)        | Bug 1462120 - Firefox 60.0esr should be in firefox.json | True | False |
+| jlund  | 1 | [bug 1462120](https://bugzil.la/1462120)        | Bug 1462120 - Firefox 60.0esr should be in firefox.json. needs backout caused UVC failures | True | False |
 

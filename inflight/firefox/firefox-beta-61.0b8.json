@@ -39,7 +39,7 @@
             "issues": [
                 {
                     "bug": "1462120",
-                    "description": "Bug 1462120 - Firefox 60.0esr should be in firefox.json",
+                    "description": "Bug 1462120 - Firefox 60.0esr should be in firefox.json. needs backout caused UVC failures",
                     "future_threat": false,
                     "resolved": true,
                     "who": "jlund"
