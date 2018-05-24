@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=BnhX5IHuQ8OrpkcNmFqARg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | flaky network, many failed UV jobs. rerunning. no known cause with taskcluster or moc | False | True |
 
