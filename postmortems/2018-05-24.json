@@ -1,0 +1,56 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-05-17",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b6"
+        },
+        {
+            "date": "2018-05-17",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b6"
+        },
+        {
+            "date": "2018-05-17",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": "1462429",
+                    "buildnum": 1,
+                    "description": "no notification of steps/progress after manual rerun of repack 4, which finished two hours ago",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "version": "52.8.0"
+        },
+        {
+            "date": "2018-05-21",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b7"
+        },
+        {
+            "date": "2018-05-21",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b7"
+        },
+        {
+            "date": "2018-05-21",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b7"
+        }
+    ],
+    "date": "2018-05-24"
+}
