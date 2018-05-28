@@ -4,6 +4,7 @@
 
 ## Preflight tasks (pre go-to-build)
 - [ ] 1. due:2018-08-20 - [bug 1408868](https://bugzil.la/1408868): Change https://hg.mozilla.org/releases/mozilla-esr60/rev/e1c89bf28365823de83262354b17801158d9414f#l1.15 and following lines to let esr-latest aliases point to esr60.
+- [ ] 2. due:2018-08-20 (est) - [bug 1464741](https://bugzil.la/1464741): Update changes for ESR60 at 60.2.0esr
 
 ## Build 1  
 
