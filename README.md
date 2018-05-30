@@ -7,6 +7,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
+* [Devedition 61.0b10](/inflight/devedition/devedition-devedition-61.0b10.md)
+
 * [Devedition 61.0b8](/inflight/devedition/devedition-devedition-61.0b8.md)
 
 * [Devedition 61.0b9](/inflight/devedition/devedition-devedition-61.0b9.md)
