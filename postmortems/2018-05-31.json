@@ -1,0 +1,72 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-05-24",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1462120",
+                    "buildnum": 1,
+                    "description": "Bug 1462120 - Firefox 60.0esr should be in firefox.json. needs backout caused UVC failures",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "version": "61.0b8"
+        },
+        {
+            "date": "2018-05-24",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "flaky network, many failed UV jobs. rerunning. no known cause with taskcluster or moc. many intermittent oranges: https://treeherder.mozilla.org/#/jobs?repo=mozilla-beta&revision=0f95c023462e4de617ebdd77cbe90ec523efad10&filter-searchStr=release-update-verify&filter-resultStatus=testfailed&filter-resultStatus=busted&filter-resultStatus=exception&filter-resultStatus=retry&filter-resultStatus=usercancel&filter-resultStatus=runnable&selectedJob=180114241",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b8"
+        },
+        {
+            "date": "2018-05-28",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b9"
+        },
+        {
+            "date": "2018-05-28",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b9"
+        },
+        {
+            "date": "2018-05-28",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b9"
+        },
+        {
+            "date": "2018-05-30",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b10"
+        },
+        {
+            "date": "2018-05-30",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b10"
+        }
+    ],
+    "date": "2018-05-31"
+}
