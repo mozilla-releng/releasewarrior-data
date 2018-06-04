@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-06-04
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-08-21 - [bug none](https://bugzil.la/none): We need to properly publish en-CA for this release. More information in bug 1465064
 
 ## Build 1  
 

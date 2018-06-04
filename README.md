@@ -21,3 +21,5 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 61.0rc](/upcoming/firefox/firefox-release-rc-61.0rc.md)
 
+* [Firefox 62.0rc](/upcoming/firefox/firefox-release-rc-62.0rc.md)
+

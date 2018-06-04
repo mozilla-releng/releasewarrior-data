@@ -59,7 +59,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "none",
+                "deadline": "2018-08-21",
+                "description": "We need to properly publish en-CA for this release. More information in bug 1465064",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "62.0rc"
