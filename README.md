@@ -11,11 +11,11 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Fennec 61.0b11](/inflight/fennec/fennec-beta-61.0b11.md)
 
+* [Firefox 60.0.2](/inflight/firefox/firefox-release-60.0.2.md)
+
 * [Firefox 61.0b11](/inflight/firefox/firefox-beta-61.0b11.md)
 
 **Upcoming**
-
-* [Firefox 60.0.2](/upcoming/firefox/firefox-release-60.0.2.md)
 
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
 
