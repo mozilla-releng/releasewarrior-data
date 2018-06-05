@@ -23,7 +23,7 @@ export PROMOTE_TASK_ID=U06V9maQTPC6S6fwNjCAUA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| mtabara  | 1 | [bug none](https://bugzil.la/none)        | missing UV patch uplift from esr60 relbranch. canceling build1, uplift, triggering build2 | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
