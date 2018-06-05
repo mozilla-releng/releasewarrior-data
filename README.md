@@ -9,6 +9,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 61.0b11](/inflight/devedition/devedition-devedition-61.0b11.md)
 
+* [Fennec 60.0.2](/inflight/fennec/fennec-release-60.0.2.md)
+
 * [Fennec 61.0b11](/inflight/fennec/fennec-beta-61.0b11.md)
 
 * [Firefox 60.0.2](/inflight/firefox/firefox-release-60.0.2.md)
