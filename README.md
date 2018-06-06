@@ -7,19 +7,9 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
-* [Devedition 61.0b11](/inflight/devedition/devedition-devedition-61.0b11.md)
-
-* [Fennec 60.0.2](/inflight/fennec/fennec-release-60.0.2.md)
-
-* [Fennec 61.0b11](/inflight/fennec/fennec-beta-61.0b11.md)
-
-* [Firefox 52.8.1esr](/inflight/firefox/firefox-esr52-52.8.1esr.md)
-
 * [Firefox 60.0.2](/inflight/firefox/firefox-release-60.0.2.md)
 
 * [Firefox 60.0.2esr](/inflight/firefox/firefox-esr60-60.0.2esr.md)
-
-* [Firefox 61.0b11](/inflight/firefox/firefox-beta-61.0b11.md)
 
 **Upcoming**
 

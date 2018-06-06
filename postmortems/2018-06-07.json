@@ -1,0 +1,82 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-06-04",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b11"
+        },
+        {
+            "date": "2018-06-04",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b11"
+        },
+        {
+            "date": "2018-06-04",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b11"
+        },
+        {
+            "date": "2018-06-05",
+            "future_threats": [
+                {
+                    "bug": "1467002",
+                    "buildnum": 1,
+                    "description": "broken releaserunner virtualenv blocks release start",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "releaserunner evaluating wrong taskid from taskcluster route while trying to find ci builds. graph not submitting. trying to restart releaserunner in hopes it's a caching thing as latest manual request shows correct taskid. see #releaseduty for context",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1461490",
+                    "buildnum": 1,
+                    "description": "windows update verify failed - https://gist.github.com/mozbhearsum/f827a919707445bbb0ced6884f761d7f for helper script",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "bhearsum"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1467067",
+                    "buildnum": 1,
+                    "description": "mar and source signing failures",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1467078",
+                    "buildnum": 1,
+                    "description": "buildbot bridge not transferring buildbot job status to TC",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "52.8.1esr"
+        },
+        {
+            "date": "2018-06-05",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "60.0.2"
+        }
+    ],
+    "date": "2018-06-07"
+}
