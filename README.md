@@ -9,8 +9,6 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 60.0.2](/inflight/firefox/firefox-release-60.0.2.md)
 
-* [Firefox 60.0.2esr](/inflight/firefox/firefox-esr60-60.0.2esr.md)
-
 **Upcoming**
 
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
