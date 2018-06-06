@@ -61,8 +61,8 @@
                 {
                     "bug": "1467078",
                     "description": "buildbot bridge not transferring buildbot job status to TC",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]

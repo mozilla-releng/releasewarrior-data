@@ -26,5 +26,5 @@ export PROMOTE_TASK_ID=Ucpd12G2Qg-1OHRoqpUtuQ
 | nthomas  | 1 | [bug 1467002](https://bugzil.la/1467002)        | broken releaserunner virtualenv blocks release start | True | True |
 | jlund  | 2 | [bug none](https://bugzil.la/none)        | releaserunner evaluating wrong taskid from taskcluster route while trying to find ci builds. graph not submitting. trying to restart releaserunner in hopes it's a caching thing as latest manual request shows correct taskid. see #releaseduty for context | True | True |
 | nthomas  | 3 | [bug 1467067](https://bugzil.la/1467067)        | mar and source signing failures | True | False |
-| nthomas  | 4 | [bug 1467078](https://bugzil.la/1467078)        | buildbot bridge not transferring buildbot job status to TC | False | True |
+| nthomas  | 4 | [bug 1467078](https://bugzil.la/1467078)        | buildbot bridge not transferring buildbot job status to TC | True | False |
 
