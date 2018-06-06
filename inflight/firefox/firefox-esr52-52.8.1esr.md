@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/Ucpd12G2Qg-1OHRoqpUtuQ) Ucpd12G2Qg-1OHRoqpUtuQ
 ```
+export PROMOTE_TASK_ID=Ucpd12G2Qg-1OHRoqpUtuQ
 ```
-task graph url: unknown
 
 
 #### Status
