@@ -22,5 +22,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | urllib3 missing on releaserunner (not 3) after python upgrades. https://github.com/mozilla/build-puppet/pull/52 | False | True |
 
