@@ -53,7 +53,7 @@
                     "alias": "",
                     "description": "as per open snap issue, publishing 60.0.2 to stable snap channel may be manually required",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
