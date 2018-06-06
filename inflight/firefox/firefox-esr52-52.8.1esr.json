@@ -50,6 +50,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "jlund"
+                },
+                {
+                    "bug": "1467067",
+                    "description": "mar and source signing failures",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         }

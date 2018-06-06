@@ -25,4 +25,5 @@ export PROMOTE_TASK_ID=Ucpd12G2Qg-1OHRoqpUtuQ
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug none](https://bugzil.la/none)        | urllib3 missing on releaserunner (not 3) after python upgrades. https://github.com/mozilla/build-puppet/pull/52 | True | True |
 | jlund  | 2 | [bug none](https://bugzil.la/none)        | releaserunner evaluating wrong taskid from taskcluster route while trying to find ci builds. graph not submitting. trying to restart releaserunner in hopes it's a caching thing as latest manual request shows correct taskid. see #releaseduty for context | True | True |
+| nthomas  | 3 | [bug 1467067](https://bugzil.la/1467067)        | mar and source signing failures | False | True |
 
