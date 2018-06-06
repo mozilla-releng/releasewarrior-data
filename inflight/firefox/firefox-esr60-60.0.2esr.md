@@ -25,7 +25,7 @@ export PUSH_TASK_ID=ewjZyCU-TnKpFy_HvCzRzA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| mtabara  | 1 | [bug none](https://bugzil.la/none)        | missing UV patch uplift from esr60 relbranch. canceling build1, uplift, triggering build2 | True | False |
+| mtabara  | 1 | [bug none](https://bugzil.la/none)        | missing UV patch uplift from esr60 relbranch. canceling build1, uplift, triggering build2 | True | True |
 | jlund  | 2 | [bug none](https://bugzil.la/none)        | bouncer check failing as it expects sha1 artifacts to exist even though it shouldn't. We are ignoring the reported sha1 failures. leaving as future threat for 60esr until we file ticket and fix bouncer-check configuration. IJaOKI8vQ8SrsrKqIjWbVg | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 

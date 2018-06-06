@@ -44,7 +44,7 @@
                 {
                     "bug": "none",
                     "description": "missing UV patch uplift from esr60 relbranch. canceling build1, uplift, triggering build2",
-                    "future_threat": false,
+                    "future_threat": true,
                     "resolved": true,
                     "who": "mtabara"
                 },
