@@ -44,6 +44,12 @@
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
                     "resolved": false
+                },
+                {
+                    "alias": "",
+                    "description": "as per open snap issue, publishing 60.0.2 to stable snap channel may be manually required",
+                    "docs": "",
+                    "resolved": false
                 }
             ],
             "issues": [
