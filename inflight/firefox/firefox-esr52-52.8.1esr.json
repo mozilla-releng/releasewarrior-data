@@ -66,8 +66,8 @@
                     "who": "nthomas"
                 },
                 {
-                    "bug": "none",
-                    "description": "windows update verify failed",
+                    "bug": "1461490",
+                    "description": "windows update verify failed - https://gist.github.com/mozbhearsum/f827a919707445bbb0ced6884f761d7f for helper script",
                     "future_threat": true,
                     "resolved": false,
                     "who": "bhearsum"

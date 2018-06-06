@@ -27,5 +27,5 @@ export PROMOTE_TASK_ID=Ucpd12G2Qg-1OHRoqpUtuQ
 | jlund  | 2 | [bug none](https://bugzil.la/none)        | releaserunner evaluating wrong taskid from taskcluster route while trying to find ci builds. graph not submitting. trying to restart releaserunner in hopes it's a caching thing as latest manual request shows correct taskid. see #releaseduty for context | True | True |
 | nthomas  | 3 | [bug 1467067](https://bugzil.la/1467067)        | mar and source signing failures | True | False |
 | nthomas  | 4 | [bug 1467078](https://bugzil.la/1467078)        | buildbot bridge not transferring buildbot job status to TC | True | False |
-| bhearsum  | 5 | [bug none](https://bugzil.la/none)        | windows update verify failed | False | True |
+| bhearsum  | 5 | [bug 1461490](https://bugzil.la/1461490)        | windows update verify failed - https://gist.github.com/mozbhearsum/f827a919707445bbb0ced6884f761d7f for helper script | False | True |
 
