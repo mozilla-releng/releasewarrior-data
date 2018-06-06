@@ -54,8 +54,8 @@
                 {
                     "bug": "1467067",
                     "description": "mar and source signing failures",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
