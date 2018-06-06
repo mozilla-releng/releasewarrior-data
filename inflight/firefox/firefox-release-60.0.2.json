@@ -54,7 +54,7 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
+                    "bug": "1467261",
                     "description": "snaps are not being published on the stable channel for 60.0.1 and current 60.0.2. catlee manually updated on snapcraft. Ask jlorenzo about current automation state and whether we need to add more human tasks in mean time",
                     "future_threat": true,
                     "resolved": false,

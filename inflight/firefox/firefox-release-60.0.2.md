@@ -27,5 +27,5 @@ export PUSH_TASK_ID=Wvh36N0bSYGNiHm2nEJ-Rw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | snaps are not being published on the stable channel for 60.0.1 and current 60.0.2. catlee manually updated on snapcraft. Ask jlorenzo about current automation state and whether we need to add more human tasks in mean time | False | True |
+| jlund  | 1 | [bug 1467261](https://bugzil.la/1467261)        | snaps are not being published on the stable channel for 60.0.1 and current 60.0.2. catlee manually updated on snapcraft. Ask jlorenzo about current automation state and whether we need to add more human tasks in mean time | False | True |
 
