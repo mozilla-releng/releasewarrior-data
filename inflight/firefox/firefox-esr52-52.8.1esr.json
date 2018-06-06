@@ -38,8 +38,8 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
-                    "description": "urllib3 missing on releaserunner (not 3) after python upgrades. https://github.com/mozilla/build-puppet/pull/52",
+                    "bug": "1467002",
+                    "description": "broken releaserunner virtualenv blocks release start",
                     "future_threat": true,
                     "resolved": true,
                     "who": "nthomas"
