@@ -9,6 +9,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Fennec 61.0b12](/inflight/fennec/fennec-beta-61.0b12.md)
 
+* [Firefox 61.0b12](/inflight/firefox/firefox-beta-61.0b12.md)
+
 **Upcoming**
 
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
