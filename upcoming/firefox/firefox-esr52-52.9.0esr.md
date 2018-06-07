@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-06-07
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-06-06 - [bug 1467029](https://bugzil.la/1467029): release notifications for esr52 may be broken including the release milestones such as candidates availability. We should manually email release-signoff to inform when availability/pushed/publish tasks happen
 
 ## Build 1  
 

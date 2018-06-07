@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1467029",
+                "deadline": "2018-06-06",
+                "description": "release notifications for esr52 may be broken including the release milestones such as candidates availability. We should manually email release-signoff to inform when availability/pushed/publish tasks happen",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "52.9.0esr"
