@@ -31,7 +31,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Official branding not enabled in L10n config; caused macOS L10n builds to fail",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "tomprince"
+                }
+            ]
         },
         {
             "aborted": true,
