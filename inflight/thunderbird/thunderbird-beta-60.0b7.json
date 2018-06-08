@@ -35,8 +35,8 @@
                 {
                     "bug": "none",
                     "description": "Sanity check failed as version wasn't updated on relbranch",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]

@@ -22,5 +22,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug none](https://bugzil.la/none)        | Sanity check failed as version wasn't updated on relbranch | False | True |
+| tomprince  | 1 | [bug none](https://bugzil.la/none)        | Sanity check failed as version wasn't updated on relbranch | True | False |
 
