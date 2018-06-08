@@ -38,6 +38,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "tomprince"
+                },
+                {
+                    "bug": "none",
+                    "description": "mozharness config for L10n on config-beta hadn't been created",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "tomprince"
                 }
             ]
         }

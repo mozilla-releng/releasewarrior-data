@@ -23,4 +23,5 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | tomprince  | 1 | [bug none](https://bugzil.la/none)        | Sanity check failed as version wasn't updated on relbranch | True | False |
+| tomprince  | 2 | [bug none](https://bugzil.la/none)        | mozharness config for L10n on config-beta hadn't been created | False | True |
 
