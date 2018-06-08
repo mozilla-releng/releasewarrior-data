@@ -23,6 +23,7 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | tomprince  | 1 | [bug none](https://bugzil.la/none)        | Official branding not enabled in L10n config; caused macOS L10n builds to fail | True | False |
+| tomprince  | 2 | [bug none](https://bugzil.la/none)        | Balrog submission was missing file path configuration for localtest channel, due to misspelling of project name in taskgraph config | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
