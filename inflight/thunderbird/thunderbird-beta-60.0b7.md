@@ -22,7 +22,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug none](https://bugzil.la/none)        | Official branding not enabled in L10n config; caused macOS L10n builds to fail | False | True |
+| tomprince  | 1 | [bug none](https://bugzil.la/none)        | Official branding not enabled in L10n config; caused macOS L10n builds to fail | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
