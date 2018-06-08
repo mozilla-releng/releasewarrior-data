@@ -42,8 +42,8 @@
                 {
                     "bug": "none",
                     "description": "Balrog submission was missing file path configuration for localtest channel, due to misspelling of project name in taskgraph config",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]
