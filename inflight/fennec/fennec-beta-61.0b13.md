@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/NgErr3aUTViB6-UW8DUVxA) NgErr3aUTViB6-UW8DUVxA
 ```
+export PROMOTE_TASK_ID=NgErr3aUTViB6-UW8DUVxA
 ```
-task graph url: unknown
 
 
 #### Status
