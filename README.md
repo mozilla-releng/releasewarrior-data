@@ -25,6 +25,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
 
+* [Firefox 61.0b14](/upcoming/firefox/firefox-beta-61.0b14.md)
+
 * [Firefox 61.0rc](/upcoming/firefox/firefox-release-rc-61.0rc.md)
 
 * [Firefox 62.0rc](/upcoming/firefox/firefox-release-rc-62.0rc.md)
