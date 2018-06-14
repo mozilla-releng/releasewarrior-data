@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/XAmflJsxRtmYKx_fjmgdqg) XAmflJsxRtmYKx_fjmgdqg
 ```
+export PROMOTE_TASK_ID=XAmflJsxRtmYKx_fjmgdqg
 ```
-task graph url: unknown
 
 
 #### Status
