@@ -1,0 +1,101 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-06-07",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b12"
+        },
+        {
+            "date": "2018-06-07",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b12"
+        },
+        {
+            "date": "2018-06-07",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b12"
+        },
+        {
+            "date": "2018-06-07",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "Official branding not enabled in L10n config; caused macOS L10n builds to fail",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "Balrog submission was missing file path configuration for localtest channel, due to misspelling of project name in taskgraph config",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Sanity check failed as version wasn't updated on relbranch",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "mozharness config for L10n on config-beta hadn't been created",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                }
+            ],
+            "version": "60.0b7"
+        },
+        {
+            "date": "2018-06-11",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b13"
+        },
+        {
+            "date": "2018-06-11",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b13"
+        },
+        {
+            "date": "2018-06-11",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b13"
+        },
+        {
+            "date": "2018-06-14",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0b14"
+        },
+        {
+            "date": "2018-06-14",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "61.0b14"
+        }
+    ],
+    "date": "2018-06-21"
+}
