@@ -69,7 +69,7 @@
                 "bug": "1441353",
                 "deadline": "2018-05-09",
                 "description": "from callek: 'need to manually upload the locale oc language pack at next rc, the task itself will fail out due to the issue so will be visible'",
-                "resolved": false
+                "resolved": true
             }
         ]
     },
