@@ -22,4 +22,4 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| tomprince  | 1 | [bug none](https://bugzil.la/none)        | treescript doesn't bump the version on a relbranch, if one is being used | False | True |

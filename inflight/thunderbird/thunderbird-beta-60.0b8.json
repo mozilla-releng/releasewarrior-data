@@ -31,7 +31,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "treescript doesn't bump the version on a relbranch, if one is being used",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "tomprince"
+                }
+            ]
         }
     ],
     "preflight": {
