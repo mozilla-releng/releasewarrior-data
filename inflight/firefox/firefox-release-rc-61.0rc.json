@@ -63,16 +63,16 @@
             "issues": [
                 {
                     "bug": "1469450",
-                    "description": "release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w",
+                    "description": "release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w nthomas fixed outside offical graph so we didn't need a build2. we can ignore all failed and unscheduled UV tasks. those can be sound here: https://tools.taskcluster.net/groups/HolVnqBSST-lzsRazKn_Ow",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 },
                 {
                     "bug": "1469456",
                     "description": "macos signing servers cause exceptions when overloaded",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]

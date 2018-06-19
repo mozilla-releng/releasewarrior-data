@@ -27,6 +27,6 @@ export PROMOTE_RC_TASK_ID=fyTjQfaPQKaHGJPtTs8o2w
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1469450](https://bugzil.la/1469450)        | release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w | False | True |
-| jlund  | 2 | [bug 1469456](https://bugzil.la/1469456)        | macos signing servers cause exceptions when overloaded | False | True |
+| jlund  | 1 | [bug 1469450](https://bugzil.la/1469450)        | release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w nthomas fixed outside offical graph so we didn't need a build2. we can ignore all failed and unscheduled UV tasks. those can be sound here: https://tools.taskcluster.net/groups/HolVnqBSST-lzsRazKn_Ow | True | True |
+| jlund  | 2 | [bug 1469456](https://bugzil.la/1469456)        | macos signing servers cause exceptions when overloaded | True | True |
 
