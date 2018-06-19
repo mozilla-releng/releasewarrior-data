@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-06-19
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-06-18 - [bug none](https://bugzil.la/none): Please give whoever is CIduty in #ci a heads-up when this ESR release is started so that they can monitor the BB pool availability
 
 ## Build 1  
 
