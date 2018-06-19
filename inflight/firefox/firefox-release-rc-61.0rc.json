@@ -60,7 +60,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1469450",
+                    "description": "release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {

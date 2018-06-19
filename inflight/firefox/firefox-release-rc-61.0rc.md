@@ -27,5 +27,5 @@ export PROMOTE_RC_TASK_ID=fyTjQfaPQKaHGJPtTs8o2w
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1469450](https://bugzil.la/1469450)        | release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w | False | True |
 
