@@ -28,4 +28,5 @@ export PROMOTE_RC_TASK_ID=fyTjQfaPQKaHGJPtTs8o2w
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1469450](https://bugzil.la/1469450)        | release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w | False | True |
+| jlund  | 2 | [bug 1469456](https://bugzil.la/1469456)        | macos signing servers cause exceptions when overloaded | False | True |
 
