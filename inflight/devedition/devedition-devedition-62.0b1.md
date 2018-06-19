@@ -27,5 +27,5 @@ export SHIP_TASK_ID=L1Bussj9Re2C8dbEiHDcqw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | had to patch rr3 to get graph to start -- we probably want to switch to action hooks sooner | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | had to patch rr3 to get graph to start -- we probably want to switch to action hooks sooner | True | False |
 
