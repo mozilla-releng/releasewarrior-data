@@ -7,6 +7,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
+* [Devedition 62.0b1](/inflight/devedition/devedition-devedition-62.0b1.md)
+
 * [Fennec 61.0b15](/inflight/fennec/fennec-beta-61.0b15.md)
 
 * [Firefox 61.0rc](/inflight/firefox/firefox-release-rc-61.0rc.md)
