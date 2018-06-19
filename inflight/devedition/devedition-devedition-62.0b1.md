@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=LFS0mhasQsG3cmg4WwLqPQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | had to patch rr3 to get graph to start -- we probably want to switch to action hooks sooner | False | True |
 
