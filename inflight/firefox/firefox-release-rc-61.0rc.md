@@ -31,4 +31,5 @@ export SHIP_RC_TASK_ID=e8zM6iu6QlGP08rWTQWyxw
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1469450](https://bugzil.la/1469450)        | release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w nthomas fixed outside offical graph so we didn't need a build2. we can ignore all failed and unscheduled UV tasks. those can be sound here: https://tools.taskcluster.net/groups/HolVnqBSST-lzsRazKn_Ow | True | True |
 | jlund  | 2 | [bug 1469456](https://bugzil.la/1469456)        | macos signing servers cause exceptions when overloaded | True | True |
+| mtabara  | 3 | [bug 1469607](https://bugzil.la/1469607)        | Partner repacks run into fail / exception for various reason. Are these tasks supposed to exist in this graph altogether? | False | True |
 

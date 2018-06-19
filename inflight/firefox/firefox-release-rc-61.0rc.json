@@ -78,6 +78,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "jlund"
+                },
+                {
+                    "bug": "1469607",
+                    "description": "Partner repacks run into fail / exception for various reason. Are these tasks supposed to exist in this graph altogether?",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
                 }
             ]
         }
