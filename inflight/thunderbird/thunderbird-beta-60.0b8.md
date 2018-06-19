@@ -5,12 +5,13 @@
 ## Preflight tasks (pre go-to-build)
 - none
 
-## Build 1
+## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/cQrInTw0QH-C9i9PmROdzg) cQrInTw0QH-C9i9PmROdzg
 ```
+export PROMOTE_TASK_ID=cQrInTw0QH-C9i9PmROdzg
 ```
-task graph url: unknown
 
 
 #### Status
