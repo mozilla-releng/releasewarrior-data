@@ -35,7 +35,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "none",
+                "deadline": "2018-06-18",
+                "description": "Please give whoever is CIduty in #ci a heads-up when this ESR release is started so that they can monitor the BB pool availability.",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "52.9.0esr"
