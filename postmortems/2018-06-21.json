@@ -95,6 +95,29 @@
             "product": "devedition",
             "resolved": [],
             "version": "61.0b14"
+        },
+        {
+            "date": "2018-06-18",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "had to patch rr3 to get graph to start -- we probably want to switch to action hooks sooner",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "62.0b1"
+        },
+        {
+            "date": "2018-06-18",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0b15"
         }
     ],
     "date": "2018-06-21"
