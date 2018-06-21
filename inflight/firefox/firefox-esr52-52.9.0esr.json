@@ -24,6 +24,12 @@
                     "resolved": false
                 },
                 {
+                    "alias": "",
+                    "description": "setup wnp blob",
+                    "docs": "https://public.etherpad-mozilla.org/p/wnp-coordination",
+                    "resolved": false
+                },
+                {
                     "alias": "ship",
                     "description": "schedule the release for shipping",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#3-publish-release",
