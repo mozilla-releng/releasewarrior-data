@@ -27,7 +27,7 @@
                     "alias": "",
                     "description": "setup wnp blob",
                     "docs": "https://public.etherpad-mozilla.org/p/wnp-coordination",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "ship",
