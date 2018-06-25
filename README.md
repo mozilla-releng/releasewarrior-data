@@ -21,13 +21,13 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 61.0rc](/inflight/firefox/firefox-release-rc-61.0rc.md)
 
+* [Firefox 62.0b3](/inflight/firefox/firefox-beta-62.0b3.md)
+
 * [Thunderbird 60.0b8](/inflight/thunderbird/thunderbird-beta-60.0b8.md)
 
 **Upcoming**
 
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
-
-* [Firefox 62.0b3](/upcoming/firefox/firefox-beta-62.0b3.md)
 
 * [Firefox 62.0rc](/upcoming/firefox/firefox-release-rc-62.0rc.md)
 
