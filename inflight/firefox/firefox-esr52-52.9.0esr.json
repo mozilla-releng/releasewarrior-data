@@ -51,7 +51,7 @@
                     "bug": "1471223",
                     "description": "firefox-sha1-ssl is not getting updated by automation",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "mtabara"
                 }
             ]

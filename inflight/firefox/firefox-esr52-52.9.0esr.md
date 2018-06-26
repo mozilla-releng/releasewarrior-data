@@ -26,7 +26,7 @@ export SHIP_TASK_ID=I1V1iAj5RLO8cpjpj6ANAw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| mtabara  | 1 | [bug 1471223](https://bugzil.la/1471223)        | firefox-sha1-ssl is not getting updated by automation | False | True |
+| mtabara  | 1 | [bug 1471223](https://bugzil.la/1471223)        | firefox-sha1-ssl is not getting updated by automation | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
