@@ -58,6 +58,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "mtabara"
+                },
+                {
+                    "bug": "1471228",
+                    "description": "downloads.m.o page potentially (still) uses version releases instead of the latest bouncer aliases for esr60",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
                 }
             ]
         },
