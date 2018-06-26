@@ -27,7 +27,7 @@ export SHIP_TASK_ID=eb0G-2YkQAKmkbmTDlJosg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| mtabara  | 1 | [bug 1362480](https://bugzil.la/1362480)        | Verison bump failed. Could be related to version bumping failing off on relbranches in bug 1362480. | False | True |
+| mtabara  | 1 | [bug 1362480](https://bugzil.la/1362480)        | Verison bump failed. Could be related to version bumping failing off on relbranches in bug 1362480. | True | False |
 | mtabara  | 2 | [bug 1471208](https://bugzil.la/1471208)        | version bump failed in esr60 complaining about 60.1.0esr as being invalid | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 

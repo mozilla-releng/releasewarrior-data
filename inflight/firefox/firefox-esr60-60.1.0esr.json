@@ -48,8 +48,8 @@
                 {
                     "bug": "1362480",
                     "description": "Verison bump failed. Could be related to version bumping failing off on relbranches in bug 1362480.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "mtabara"
                 },
                 {
