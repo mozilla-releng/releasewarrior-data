@@ -27,7 +27,7 @@ export SHIP_TASK_ID=eb0G-2YkQAKmkbmTDlJosg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| mtabara  | 1 | [bug 1362480](https://bugzil.la/1362480)        | Verison bump failed. Could be related to version bumping failing off on relbranches in bug 1362480. | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
