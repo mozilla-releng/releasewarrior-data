@@ -20,7 +20,7 @@ export SHIP_TASK_ID=I1V1iAj5RLO8cpjpj6ANAw
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
 - [x] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#1-push-to-releases-dir-mirrors)  - pushed to mirrors/releases
 - [x] 3.  [how-to](https://public.etherpad-mozilla.org/p/wnp-coordination)  - setup wnp blob
-- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#3-publish-release)  - schedule the release for shipping
+- [x] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#3-publish-release)  - schedule the release for shipping
 - [ ] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-signoffs)  - signoff in Balrog
 
 ### Issues
