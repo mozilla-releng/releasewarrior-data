@@ -8,10 +8,10 @@
 ## Build 1  
 
 ### Graphs
-* [promote](https://tools.taskcluster.net/push-inspector/#/d8HWURLSQtCwvgKW210w6w) d8HWURLSQtCwvgKW210w6w
+* [promote](https://tools.taskcluster.net/push-inspector/#/Gm9iJyEYQ96T8p624B3XWA) Gm9iJyEYQ96T8p624B3XWA
 * [push](https://tools.taskcluster.net/push-inspector/#/C1xeFO66RsS7YgnOkZ00gg) C1xeFO66RsS7YgnOkZ00gg
 ```
-export PROMOTE_TASK_ID=d8HWURLSQtCwvgKW210w6w
+export PROMOTE_TASK_ID=Gm9iJyEYQ96T8p624B3XWA
 export PUSH_TASK_ID=C1xeFO66RsS7YgnOkZ00gg
 ```
 
