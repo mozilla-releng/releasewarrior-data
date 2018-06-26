@@ -28,7 +28,7 @@ export SHIP_TASK_ID=eb0G-2YkQAKmkbmTDlJosg
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | mtabara  | 1 | [bug 1362480](https://bugzil.la/1362480)        | Verison bump failed. Could be related to version bumping failing off on relbranches in bug 1362480. | True | False |
-| mtabara  | 2 | [bug 1471208](https://bugzil.la/1471208)        | version bump failed in esr60 complaining about 60.1.0esr as being invalid | False | True |
+| mtabara  | 2 | [bug 1471208](https://bugzil.la/1471208)        | version bump failed in esr60 complaining about 60.1.0esr as being invalid | True | True |
 | mtabara  | 3 | [bug 1471228](https://bugzil.la/1471228)        | downloads.m.o page potentially (still) uses version releases instead of the latest bouncer aliases for esr60 | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
