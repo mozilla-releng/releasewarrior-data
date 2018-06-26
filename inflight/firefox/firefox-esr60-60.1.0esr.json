@@ -51,6 +51,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "mtabara"
+                },
+                {
+                    "bug": "1471208",
+                    "description": "version bump failed in esr60 complaining about 60.1.0esr as being invalid",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
                 }
             ]
         },
