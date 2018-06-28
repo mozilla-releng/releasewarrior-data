@@ -1,0 +1,144 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-05-10",
+            "future_threats": [
+                {
+                    "bug": "1469450",
+                    "buildnum": 1,
+                    "description": "release-update-verify-config tasks failing for 61.0rc. e.g. NvDsOfpFSuOR2fy4Ggfw1w nthomas fixed outside offical graph so we didn't need a build2. we can ignore all failed and unscheduled UV tasks. those can be sound here: https://tools.taskcluster.net/groups/HolVnqBSST-lzsRazKn_Ow",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1469456",
+                    "buildnum": 1,
+                    "description": "macos signing servers cause exceptions when overloaded",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1469607",
+                    "buildnum": 1,
+                    "description": "Partner repacks run into fail / exception for various reason. Are these tasks supposed to exist in this graph altogether?",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "61.0rc"
+        },
+        {
+            "date": "2018-06-19",
+            "future_threats": [
+                {
+                    "bug": "1471208",
+                    "buildnum": 2,
+                    "description": "version bump failed in esr60 complaining about 60.1.0esr as being invalid",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                },
+                {
+                    "bug": "1471228",
+                    "buildnum": 2,
+                    "description": "downloads.m.o page potentially (still) uses version releases instead of the latest bouncer aliases for esr60",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1362480",
+                    "buildnum": 2,
+                    "description": "Verison bump failed. Could be related to version bumping failing off on relbranches in bug 1362480.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "version": "60.1.0esr"
+        },
+        {
+            "date": "2018-06-19",
+            "future_threats": [
+                {
+                    "bug": "1471223",
+                    "buildnum": 2,
+                    "description": "firefox-sha1-ssl is not getting updated by automation",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "52.9.0esr"
+        },
+        {
+            "date": "2018-06-19",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "treescript doesn't bump the version on a relbranch, if one is being used",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "tomprince"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b8"
+        },
+        {
+            "date": "2018-06-20",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "61.0rc"
+        },
+        {
+            "date": "2018-06-21",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b2"
+        },
+        {
+            "date": "2018-06-25",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b3"
+        },
+        {
+            "date": "2018-06-25",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b3"
+        },
+        {
+            "date": "2018-06-25",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b3"
+        },
+        {
+            "date": "2018-06-26",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b9"
+        }
+    ],
+    "date": "2018-06-28"
+}
