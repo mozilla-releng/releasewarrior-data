@@ -27,5 +27,5 @@ export SHIP_TASK_ID=JKLW8GTvSz6TFI6nhxLlpQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1466627](https://bugzil.la/1466627)        | https://hg.mozilla.org/releases/mozilla-beta/rev/5ba0247433fe didn't make the beta builds. Mark as ship will fail. We just need to use the ship-it web UI (the old one) to mark the release as shipped. Kudos to Mihai for warning us. | False | True |
+| jlorenzo  | 1 | [bug 1466627](https://bugzil.la/1466627)        | https://hg.mozilla.org/releases/mozilla-beta/rev/5ba0247433fe didn't make the beta builds. Mark as ship will fail. We just need to use the ship-it web UI (the old one) to mark the release as shipped. Kudos to Mihai for warning us. | True | False |
 
