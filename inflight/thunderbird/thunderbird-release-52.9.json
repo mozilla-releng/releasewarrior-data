@@ -41,8 +41,8 @@
                 {
                     "bug": null,
                     "description": "Python updates include incompatible fabric update. ([PR](https://github.com/mozilla-releng/build-puppet/pull/93))",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]

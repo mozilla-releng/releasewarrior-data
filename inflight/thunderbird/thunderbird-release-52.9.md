@@ -23,5 +23,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug None](https://bugzil.la/None)        | Python updates include incompatible fabric update. ([PR](https://github.com/mozilla-releng/build-puppet/pull/93)) | False | True |
+| tomprince  | 1 | [bug None](https://bugzil.la/None)        | Python updates include incompatible fabric update. ([PR](https://github.com/mozilla-releng/build-puppet/pull/93)) | True | False |
 
