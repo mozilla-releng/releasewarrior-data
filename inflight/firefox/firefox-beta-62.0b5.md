@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=fOyFWZPXQP6E2hktOPH-RA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | repackage-l10n-mai-win32-nightly bUByc-Y_TiCsGG7HYf6M6w - failed to checkout. rerunning | False | True |
 
