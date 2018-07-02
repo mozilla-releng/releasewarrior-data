@@ -1,0 +1,37 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-06-28",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1466627",
+                    "buildnum": 1,
+                    "description": "https://hg.mozilla.org/releases/mozilla-beta/rev/5ba0247433fe didn't make the beta builds. Mark as ship will fail. We just need to use the ship-it web UI (the old one) to mark the release as shipped. Kudos to Mihai for warning us.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "62.0b4"
+        },
+        {
+            "date": "2018-06-28",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1466627",
+                    "buildnum": 1,
+                    "description": "https://hg.mozilla.org/releases/mozilla-beta/rev/5ba0247433fe didn't make the beta builds. Mark as ship will fail. We just need to use the ship-it web UI (the old one) to mark the release as shipped. Kudos to Mihai for warning us.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "62.0b4"
+        }
+    ],
+    "date": "2018-07-05"
+}
