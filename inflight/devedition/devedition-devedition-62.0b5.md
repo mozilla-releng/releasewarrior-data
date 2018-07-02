@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=IO1RufPdQVCe7YN5QbgFaA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | partials-as-linux64-devedition-nightly/opt | False | True |
 
