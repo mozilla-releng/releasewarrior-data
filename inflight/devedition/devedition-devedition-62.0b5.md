@@ -25,5 +25,4 @@ export PUSH_TASK_ID=Z8skbrxORMaRhwSmuKyrFg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | partials-as-linux64-devedition-nightly/opt - WMSMEMfQQKCU2IuTa3JDzQ failed.  `construct.core.ConstError: parsing expected b'MAR1' but parsed b'<?xm'` rerunning | False | True |
-
+| jlund  | 1 | [bug 1472926](https://bugzil.la/1472926)        | partials-as-linux64-devedition-nightly/opt - WMSMEMfQQKCU2IuTa3JDzQ failed.  `construct.core.ConstError: parsing expected b'MAR1' but parsed b'<?xm'` rerunning | False | True |
