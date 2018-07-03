@@ -59,7 +59,7 @@
                     "bug": "1472930",
                     "description": "Update verify, Task timeout after 7200 seconds. Force killing container.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
