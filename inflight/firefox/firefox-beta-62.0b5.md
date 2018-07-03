@@ -27,4 +27,5 @@ export PUSH_TASK_ID=b2bFGIoKSDONa0XohSVqRw
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug none](https://bugzil.la/none)        | repackage-l10n-mai-win32-nightly bUByc-Y_TiCsGG7HYf6M6w - failed to checkout. rerunning | False | True |
 | jlorenzo  | 2 | [bug 1472929](https://bugzil.la/1472929)        | Intermittent: Update verify, cannot download mar: Error 500 from cloudfront | False | True |
+| jlorenzo  | 3 | [bug 1472930](https://bugzil.la/1472930)        | Update verify, Task timeout after 7200 seconds. Force killing container. | False | True |
 
