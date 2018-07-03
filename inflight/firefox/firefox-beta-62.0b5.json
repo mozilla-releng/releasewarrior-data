@@ -47,6 +47,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlund"
+                },
+                {
+                    "bug": "1472929",
+                    "description": "Intermittent: Update verify, cannot download mar: Error 500 from cloudfront",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
                 }
             ]
         }
