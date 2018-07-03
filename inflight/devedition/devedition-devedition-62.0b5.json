@@ -45,7 +45,7 @@
                     "bug": "1472926",
                     "description": "partials-as-linux64-devedition-nightly/opt - WMSMEMfQQKCU2IuTa3JDzQ failed.  `construct.core.ConstError: parsing expected b'MAR1' but parsed b'<?xm'` rerunning",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
