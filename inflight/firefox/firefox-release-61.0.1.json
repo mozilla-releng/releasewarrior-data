@@ -41,8 +41,8 @@
                 {
                     "bug": "1473286",
                     "description": "Action task couldn't start: git@github.com:mozilla-partners/playanext doesn't exist",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 },
                 {
