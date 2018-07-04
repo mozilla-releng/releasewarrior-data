@@ -23,5 +23,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug 1473286](https://bugzil.la/1473286)        | Action task couldn't start: git@github.com:mozilla-partners/playanext doesn't exist | False | True |
 
