@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/DgylP9ewT_2-SLCclTex0A) DgylP9ewT_2-SLCclTex0A
 ```
+export PROMOTE_TASK_ID=DgylP9ewT_2-SLCclTex0A
 ```
-task graph url: unknown
 
 
 #### Status
