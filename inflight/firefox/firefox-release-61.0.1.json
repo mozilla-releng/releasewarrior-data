@@ -49,7 +49,7 @@
                     "bug": "1473288",
                     "description": "release-runner3 couldn't kick release off: Can't download actions.json",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]

@@ -24,5 +24,5 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlorenzo  | 1 | [bug 1473286](https://bugzil.la/1473286)        | Action task couldn't start: git@github.com:mozilla-partners/playanext doesn't exist | True | False |
-| jlorenzo  | 2 | [bug 1473288](https://bugzil.la/1473288)        | release-runner3 couldn't kick release off: Can't download actions.json | False | True |
+| jlorenzo  | 2 | [bug 1473288](https://bugzil.la/1473288)        | release-runner3 couldn't kick release off: Can't download actions.json | True | True |
 
