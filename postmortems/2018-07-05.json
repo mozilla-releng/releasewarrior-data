@@ -31,6 +31,77 @@
                 }
             ],
             "version": "62.0b4"
+        },
+        {
+            "date": "2018-06-29",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": null,
+                    "buildnum": 1,
+                    "description": "Python updates include incompatible fabric update. ([PR](https://github.com/mozilla-releng/build-puppet/pull/93))",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                }
+            ],
+            "version": "52.9"
+        },
+        {
+            "date": "2018-07-02",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "repackage-l10n-mai-win32-nightly bUByc-Y_TiCsGG7HYf6M6w - failed to checkout. rerunning",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1472929",
+                    "buildnum": 1,
+                    "description": "Intermittent: Update verify, cannot download mar: Error 500 from cloudfront",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1472930",
+                    "buildnum": 1,
+                    "description": "Update verify, Task timeout after 7200 seconds. Force killing container.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b5"
+        },
+        {
+            "date": "2018-07-02",
+            "future_threats": [
+                {
+                    "bug": "1472926",
+                    "buildnum": 1,
+                    "description": "partials-as-linux64-devedition-nightly/opt - WMSMEMfQQKCU2IuTa3JDzQ failed.  `construct.core.ConstError: parsing expected b'MAR1' but parsed b'<?xm'` rerunning",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b5"
+        },
+        {
+            "date": "2018-07-02",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b5"
         }
     ],
     "date": "2018-07-05"
