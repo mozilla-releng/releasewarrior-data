@@ -25,5 +25,5 @@ export PUSH_TASK_ID=fPsYpU6tRq2hpU8CSlEIZA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1472930](https://bugzil.la/1472930)        | https://tools.taskcluster.net/groups/epjv71NBS5-1HekFjXKskw/tasks/TTv8CAEbSiylqRxZsnCC5g/runs/0/logs/public%2Flogs%2Flive_backing.log#L11153 timed out after 2 hours | False | True |
+| jlorenzo  | 1 | [bug 1472930](https://bugzil.la/1472930)        | https://tools.taskcluster.net/groups/epjv71NBS5-1HekFjXKskw/tasks/TTv8CAEbSiylqRxZsnCC5g/runs/0/logs/public%2Flogs%2Flive_backing.log#L11153 timed out after 2 hours | True | True |
 

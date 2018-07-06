@@ -45,7 +45,7 @@
                     "bug": "1472930",
                     "description": "https://tools.taskcluster.net/groups/epjv71NBS5-1HekFjXKskw/tasks/TTv8CAEbSiylqRxZsnCC5g/runs/0/logs/public%2Flogs%2Flive_backing.log#L11153 timed out after 2 hours",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
