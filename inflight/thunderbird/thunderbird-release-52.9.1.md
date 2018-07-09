@@ -23,5 +23,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug none](https://bugzil.la/none)        | Buildbot reconfig lock was stuck - Adrian Pop from ciduty unwedged it and a new build was started | False | True |
+| tomprince  | 1 | [bug none](https://bugzil.la/none)        | Buildbot reconfig lock was stuck - Adrian Pop from ciduty unwedged it and a new build was started | True | False |
 

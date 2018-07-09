@@ -41,8 +41,8 @@
                 {
                     "bug": "none",
                     "description": "Buildbot reconfig lock was stuck - Adrian Pop from ciduty unwedged it and a new build was started",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]
