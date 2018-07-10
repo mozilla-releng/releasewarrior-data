@@ -48,8 +48,8 @@
                 {
                     "bug": "1474630",
                     "description": "ship-it migration to mdc1 broke connection used by shipit_scriptworker. I manually marked the release as shipped and forced the email task to run. This unblocks QE from testing updates.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]

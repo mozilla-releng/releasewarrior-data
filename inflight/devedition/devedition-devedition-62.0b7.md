@@ -27,5 +27,5 @@ export SHIP_TASK_ID=DGvzEbkVQVGz2U_BA8o2hg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1474630](https://bugzil.la/1474630)        | ship-it migration to mdc1 broke connection used by shipit_scriptworker. I manually marked the release as shipped and forced the email task to run. This unblocks QE from testing updates. | False | True |
+| jlorenzo  | 1 | [bug 1474630](https://bugzil.la/1474630)        | ship-it migration to mdc1 broke connection used by shipit_scriptworker. I manually marked the release as shipped and forced the email task to run. This unblocks QE from testing updates. | True | False |
 
