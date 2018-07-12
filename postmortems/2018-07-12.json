@@ -1,0 +1,115 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-07-04",
+            "future_threats": [
+                {
+                    "bug": "1473288",
+                    "buildnum": 1,
+                    "description": "release-runner3 couldn't kick release off: Can't download actions.json",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1473286",
+                    "buildnum": 1,
+                    "description": "Action task couldn't start: git@github.com:mozilla-partners/playanext doesn't exist",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "61.0.1"
+        },
+        {
+            "date": "2018-07-05",
+            "future_threats": [
+                {
+                    "bug": "1472930",
+                    "buildnum": 1,
+                    "description": "https://tools.taskcluster.net/groups/epjv71NBS5-1HekFjXKskw/tasks/TTv8CAEbSiylqRxZsnCC5g/runs/0/logs/public%2Flogs%2Flive_backing.log#L11153 timed out after 2 hours",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b6"
+        },
+        {
+            "date": "2018-07-05",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b6"
+        },
+        {
+            "date": "2018-07-09",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1474630",
+                    "buildnum": 1,
+                    "description": "ship-it migration to mdc1 broke connection used by shipit_scriptworker. I manually marked the release as shipped and forced the email task to run. This unblocks QE from testing updates.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "62.0b7"
+        },
+        {
+            "date": "2018-07-09",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1474630",
+                    "buildnum": 1,
+                    "description": "ship-it migration to mdc1 broke connection used by shipit_scriptworker. I manually marked the release as shipped and forced the email task to run. This unblocks QE from testing updates.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "62.0b7"
+        },
+        {
+            "date": "2018-07-09",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b7"
+        },
+        {
+            "date": "2018-07-09",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "Buildbot reconfig lock was stuck - Adrian Pop from ciduty unwedged it and a new build was started",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                }
+            ],
+            "version": "52.9.1"
+        },
+        {
+            "date": "2018-07-09",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.0b10"
+        }
+    ],
+    "date": "2018-07-12"
+}
