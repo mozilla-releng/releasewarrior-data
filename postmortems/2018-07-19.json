@@ -1,0 +1,40 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-07-12",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b8"
+        },
+        {
+            "date": "2018-07-12",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b8"
+        },
+        {
+            "date": "2018-07-16",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b9"
+        },
+        {
+            "date": "2018-07-16",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b9"
+        },
+        {
+            "date": "2018-07-16",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b9"
+        }
+    ],
+    "date": "2018-07-19"
+}
