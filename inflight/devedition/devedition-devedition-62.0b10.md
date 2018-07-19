@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=JZ3EEfOLQ2KlDPO2a3RqJw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1477097](https://bugzil.la/1477097)        | task stuck as unscheduled even with all deps resolved, possible issue with queue dependency resolver ZWRKPgonRayyySrhHfnp7w | False | True |
 
