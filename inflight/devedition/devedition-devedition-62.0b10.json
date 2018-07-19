@@ -41,7 +41,7 @@
                     "bug": "1477097",
                     "description": "task stuck as unscheduled even with all deps resolved, possible issue with queue dependency resolver ZWRKPgonRayyySrhHfnp7w",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
