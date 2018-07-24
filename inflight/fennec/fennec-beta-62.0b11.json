@@ -24,7 +24,15 @@
                     "resolved": true
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1478044",
+                    "description": "Cannot upload APK via pushapk: rollout of previous one is not finished yet.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                }
+            ]
         }
     ],
     "preflight": {
