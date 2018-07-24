@@ -21,5 +21,5 @@ export PROMOTE_TASK_ID=TITlwqRURM-i2jOZ8dhSBA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1478044](https://bugzil.la/1478044)        | Cannot upload APK via pushapk: rollout of previous one is not finished yet. | False | True |
+| jlorenzo  | 1 | [bug 1478044](https://bugzil.la/1478044)        | Cannot upload APK via pushapk: rollout of previous one is not finished yet. | True | False |
 

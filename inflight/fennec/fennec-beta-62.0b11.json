@@ -28,8 +28,8 @@
                 {
                     "bug": "1478044",
                     "description": "Cannot upload APK via pushapk: rollout of previous one is not finished yet.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
