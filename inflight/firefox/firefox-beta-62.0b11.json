@@ -48,8 +48,8 @@
                 {
                     "bug": "none",
                     "description": "Reran f6IEjuorS4ChyL70ucNHEw (release-partner-repack-repackage-win64-nightly-ironsource-ironsource-google-aura-pa-IN) because it timed out after 2h.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]

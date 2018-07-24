@@ -27,5 +27,5 @@ export SHIP_TASK_ID=OZirztWqRGSa7EGRwRCaYA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | Reran f6IEjuorS4ChyL70ucNHEw (release-partner-repack-repackage-win64-nightly-ironsource-ironsource-google-aura-pa-IN) because it timed out after 2h. | False | True |
+| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | Reran f6IEjuorS4ChyL70ucNHEw (release-partner-repack-repackage-win64-nightly-ironsource-ironsource-google-aura-pa-IN) because it timed out after 2h. | True | False |
 
