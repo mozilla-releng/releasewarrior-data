@@ -25,5 +25,5 @@ export PUSH_TASK_ID=Vq0sIF0uQVCSFfm99JbN9g
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | Reran f6IEjuorS4ChyL70ucNHEw (release-partner-repack-repackage-win64-nightly-ironsource-ironsource-google-aura-pa-IN) because it timed out after 2h. | False | True |
 
