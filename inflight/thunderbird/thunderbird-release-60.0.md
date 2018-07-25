@@ -24,5 +24,5 @@ export PROMOTE_TASK_ID=HpgK00tcSJyzqk4H7pGvRw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug ?](https://bugzil.la/?)        | update verify config gen: FATAL - Didn't find any update paths, cannot continue | False | True |
 
