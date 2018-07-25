@@ -25,7 +25,7 @@ export PROMOTE_TASK_ID=HktsjY2jSJuOnmZdryoEQw
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug ?](https://bugzil.la/?)        | update verify config gen: FATAL - Didn't find any update paths, cannot continue | False | True |
-| nthomas  | 2 | [bug 1472860](https://bugzil.la/1472860)        | Signing issues with newly enabled mdc1 servers. Aki disabled them. | False | True |
+| nthomas  | 2 | [bug 1472860](https://bugzil.la/1472860)        | Signing issues with newly enabled mdc1 servers. Aki disabled them. | True | False |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
