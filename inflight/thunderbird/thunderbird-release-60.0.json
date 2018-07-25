@@ -50,6 +50,13 @@
                     "id": 1,
                     "resolved": false,
                     "who": "nthomas"
+                },
+                {
+                    "bug": "1472860",
+                    "description": "Signing issues with newly enabled mdc1 servers. Aki disabled them.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         },
