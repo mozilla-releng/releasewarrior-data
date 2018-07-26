@@ -1,0 +1,67 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-07-19",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b10"
+        },
+        {
+            "date": "2018-07-19",
+            "future_threats": [
+                {
+                    "bug": "1477097",
+                    "buildnum": 1,
+                    "description": "task stuck as unscheduled even with all deps resolved, possible issue with queue dependency resolver ZWRKPgonRayyySrhHfnp7w",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b10"
+        },
+        {
+            "date": "2018-07-23",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Reran f6IEjuorS4ChyL70ucNHEw (release-partner-repack-repackage-win64-nightly-ironsource-ironsource-google-aura-pa-IN) because it timed out after 2h.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "62.0b11"
+        },
+        {
+            "date": "2018-07-23",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b11"
+        },
+        {
+            "date": "2018-07-23",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "1478044",
+                    "buildnum": 1,
+                    "description": "Cannot upload APK via pushapk: rollout of previous one is not finished yet.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "62.0b11"
+        }
+    ],
+    "date": "2018-07-26"
+}
