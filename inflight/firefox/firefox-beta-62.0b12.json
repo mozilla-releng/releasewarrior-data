@@ -44,7 +44,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1478997",
+                    "description": "treescript.exceptions.ChangesetMismatchError: Expected 2 changesets to push, found 1",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                }
+            ]
         }
     ],
     "preflight": {

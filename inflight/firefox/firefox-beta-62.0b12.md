@@ -27,5 +27,5 @@ export SHIP_TASK_ID=UW3tcdmvS8ajOfxjRCemZg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug 1478997](https://bugzil.la/1478997)        | treescript.exceptions.ChangesetMismatchError: Expected 2 changesets to push, found 1 | False | True |
 
