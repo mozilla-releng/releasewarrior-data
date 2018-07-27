@@ -49,7 +49,7 @@
                     "bug": "1478997",
                     "description": "treescript.exceptions.ChangesetMismatchError: Expected 2 changesets to push, found 1",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
