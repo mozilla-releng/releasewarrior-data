@@ -25,5 +25,5 @@ export PUSH_TASK_ID=UteHAL46RJKKjkGZk5VxiA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug 1478935](https://bugzil.la/1478935)        | Instead of kicking off the push graph for devedition 62.0b12, the ship one was started https://treeherder.mozilla.org/#/jobs?repo=mozilla-beta&revision=23bc64507f53b0cba44c72f72539716adcf02d68&selectedJob=190452585. This leaves devedition in a state where we let new users install b12, but updates are still on hold for existing users - until QE greenlights the build. :jcristau from relman was okay to let devedition in this state and just sign off balrog when the build is done | False | True |
 
