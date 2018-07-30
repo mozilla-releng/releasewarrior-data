@@ -40,8 +40,8 @@
                 {
                     "bug": "1341116",
                     "description": "Rotated beetmover credenetials didn't have devedition permissions",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]

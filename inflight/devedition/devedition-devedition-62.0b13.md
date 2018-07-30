@@ -23,7 +23,7 @@ export PROMOTE_TASK_ID=Kd064_lNTcqZFlZCwO4l5A
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug 1341116](https://bugzil.la/1341116)        | Rotated beetmover credenetials didn't have devedition permissions | False | True |
+| tomprince  | 1 | [bug 1341116](https://bugzil.la/1341116)        | Rotated beetmover credenetials didn't have devedition permissions | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
