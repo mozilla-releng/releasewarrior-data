@@ -49,7 +49,7 @@
                     "bug": "1470232",
                     "description": "Firefox failed to tag release, due to verification and devedition already having bumped version.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]

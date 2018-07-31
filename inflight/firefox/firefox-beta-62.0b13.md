@@ -27,5 +27,5 @@ export SHIP_TASK_ID=LAuuaRwERmKkDfT374xiyg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug 1470232](https://bugzil.la/1470232)        | Firefox failed to tag release, due to verification and devedition already having bumped version. | False | True |
+| tomprince  | 1 | [bug 1470232](https://bugzil.la/1470232)        | Firefox failed to tag release, due to verification and devedition already having bumped version. | True | True |
 
