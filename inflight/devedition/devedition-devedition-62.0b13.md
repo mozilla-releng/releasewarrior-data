@@ -5,14 +5,16 @@
 ## Preflight tasks (pre go-to-build)
 - none
 
-## Build 1
+## Build 1  
 
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/Kd064_lNTcqZFlZCwO4l5A) Kd064_lNTcqZFlZCwO4l5A
 * [push](https://tools.taskcluster.net/push-inspector/#/FQYFwGvESvmvfLmRk9Wjaw) FQYFwGvESvmvfLmRk9Wjaw
+* [ship](https://tools.taskcluster.net/push-inspector/#/ZzPRQZmzRAeZqdXwDekjWw) ZzPRQZmzRAeZqdXwDekjWw
 ```
 export PROMOTE_TASK_ID=Kd064_lNTcqZFlZCwO4l5A
 export PUSH_TASK_ID=FQYFwGvESvmvfLmRk9Wjaw
+export SHIP_TASK_ID=ZzPRQZmzRAeZqdXwDekjWw
 ```
 
 
