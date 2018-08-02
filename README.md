@@ -7,21 +7,13 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
-* [Devedition 62.0b12](/inflight/devedition/devedition-devedition-62.0b12.md)
-
-* [Devedition 62.0b13](/inflight/devedition/devedition-devedition-62.0b13.md)
-
-* [Fennec 62.0b13](/inflight/fennec/fennec-beta-62.0b13.md)
-
-* [Firefox 62.0b12](/inflight/firefox/firefox-beta-62.0b12.md)
-
-* [Firefox 62.0b13](/inflight/firefox/firefox-beta-62.0b13.md)
-
 * [Thunderbird 60.0](/inflight/thunderbird/thunderbird-release-60.0.md)
 
 **Upcoming**
 
 * [Firefox 60.2.0esr](/upcoming/firefox/firefox-esr60-60.2.0esr.md)
+
+* [Firefox 61.0.2](/upcoming/firefox/firefox-release-61.0.2.md)
 
 * [Firefox 62.0rc](/upcoming/firefox/firefox-release-rc-62.0rc.md)
 

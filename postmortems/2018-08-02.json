@@ -1,0 +1,76 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-07-26",
+            "future_threats": [
+                {
+                    "bug": "1478997",
+                    "buildnum": 1,
+                    "description": "treescript.exceptions.ChangesetMismatchError: Expected 2 changesets to push, found 1",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b12"
+        },
+        {
+            "date": "2018-07-26",
+            "future_threats": [
+                {
+                    "bug": "1478935",
+                    "buildnum": 1,
+                    "description": "Instead of kicking off the push graph for devedition 62.0b12, the ship one was started https://treeherder.mozilla.org/#/jobs?repo=mozilla-beta&revision=23bc64507f53b0cba44c72f72539716adcf02d68&selectedJob=190452585. This leaves devedition in a state where we let new users install b12, but updates are still on hold for existing users - until QE greenlights the build. :jcristau from relman was okay to let devedition in this state and just sign off balrog when the build is done",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b12"
+        },
+        {
+            "date": "2018-07-30",
+            "future_threats": [
+                {
+                    "bug": "1470232",
+                    "buildnum": 1,
+                    "description": "Firefox failed to tag release, due to verification and devedition already having bumped version.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "tomprince"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b13"
+        },
+        {
+            "date": "2018-07-30",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1341116",
+                    "buildnum": 1,
+                    "description": "Rotated beetmover credenetials didn't have devedition permissions",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                }
+            ],
+            "version": "62.0b13"
+        },
+        {
+            "date": "2018-07-30",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b13"
+        }
+    ],
+    "date": "2018-08-02"
+}
