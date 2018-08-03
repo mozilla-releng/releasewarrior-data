@@ -8,9 +8,9 @@
 ## Build 1  
 
 ### Graphs
-* [promote](https://tools.taskcluster.net/push-inspector/#/N0_f-g8gR9GQKALW8sanpw) N0_f-g8gR9GQKALW8sanpw
+* [promote](https://tools.taskcluster.net/push-inspector/#/NNd5YIYoRMW3OFr__-hE1w) NNd5YIYoRMW3OFr__-hE1w
 ```
-export PROMOTE_TASK_ID=N0_f-g8gR9GQKALW8sanpw
+export PROMOTE_TASK_ID=NNd5YIYoRMW3OFr__-hE1w
 ```
 
 
