@@ -16,15 +16,14 @@ export PROMOTE_TASK_ID=RCniTnXJSnuBMHzqwx5DzA
 
 #### Status
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates#Push_to_mirrors)  - pushed to mirrors/releases
-- [ ] 3.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Publish_in_Balrog)  - publish release tasks
-- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes)  - signoff in Balrog
-- [ ] 5.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks)  - run postrelease tasks
+- [ ] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory)  - pushed to mirrors/releases
+- [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release)  - schedule the release for shipping
+- [ ] 4.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes)  - remove signoff in Balrog
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug ?](https://bugzil.la/?)        | update verify config gen: FATAL - Didn't find any update paths, cannot continue | False | True |
+| nthomas  | 1 | [bug 1481095](https://bugzil.la/1481095)        | update verify config gen: FATAL - Didn't find any update paths, cannot continue. Expected with no updates configured for older than 60.0 | False | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 

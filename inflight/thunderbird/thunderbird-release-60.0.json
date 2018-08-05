@@ -20,32 +20,26 @@
                 {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates#Push_to_mirrors",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory",
                     "resolved": false
                 },
                 {
                     "alias": "publish",
-                    "description": "publish release tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Publish_in_Balrog",
+                    "description": "schedule the release for shipping",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
                     "resolved": false
                 },
                 {
                     "alias": "signoff",
-                    "description": "signoff in Balrog",
+                    "description": "remove signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
-                    "resolved": false
-                },
-                {
-                    "alias": "postrelease",
-                    "description": "run postrelease tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
                     "resolved": false
                 }
             ],
             "issues": [
                 {
-                    "bug": "?",
-                    "description": "update verify config gen: FATAL - Didn't find any update paths, cannot continue",
+                    "bug": "1481095",
+                    "description": "update verify config gen: FATAL - Didn't find any update paths, cannot continue. Expected with no updates configured for older than 60.0",
                     "future_threat": true,
                     "id": 1,
                     "resolved": false,
