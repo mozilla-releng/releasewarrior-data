@@ -59,6 +59,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "1481203",
+                    "description": "Cannot mark Thunderbird 60.0 as shipped: No valid scope found. I manually marked it as shipped on ship-it and cancelled+rerun the next task (B8nQn2dOQkONPDXep7hUpg) ",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
                 }
             ]
         },
