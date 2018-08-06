@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=Vopv3qRQQTuhL1INPnfAKA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug 1476065](https://bugzil.la/1476065)        | Github API outage caused decision task lookup of partner data to fail | False | True |
 
