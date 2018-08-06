@@ -57,7 +57,7 @@
                     "bug": "1481198",
                     "description": "Wrong bouncer entries are updated by automation. I manually changed the bouncer alias and cancelled+rerun the next task (a16X_sdwSxKSnErZgCb6oQ)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 },
                 {
