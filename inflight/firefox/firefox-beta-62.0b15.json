@@ -41,7 +41,7 @@
                     "bug": "1476065",
                     "description": "Github API outage caused decision task lookup of partner data to fail",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
