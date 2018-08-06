@@ -28,6 +28,7 @@ export SHIP_TASK_ID=B5SChkanQf2ahu0Kr1POgQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | nthomas  | 1 | [bug 1481095](https://bugzil.la/1481095)        | update verify config gen: FATAL - Didn't find any update paths, cannot continue. Expected with no updates configured for older than 60.0 | False | True |
+| jlorenzo  | 2 | [bug 1481198](https://bugzil.la/1481198)        | Wrong bouncer entries are updated by automation. I manually changed the bouncer alias and cancelled+rerun the next task (a16X_sdwSxKSnErZgCb6oQ) | False | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 
