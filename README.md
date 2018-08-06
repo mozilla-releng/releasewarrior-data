@@ -11,6 +11,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 62.0b15](/inflight/devedition/devedition-devedition-62.0b15.md)
 
+* [Fennec 62.0b15](/inflight/fennec/fennec-beta-62.0b15.md)
+
 * [Firefox 62.0b14](/inflight/firefox/firefox-beta-62.0b14.md)
 
 * [Thunderbird 60.0](/inflight/thunderbird/thunderbird-release-60.0.md)
