@@ -24,14 +24,14 @@
                     "resolved": false
                 },
                 {
-                    "alias": "publish",
+                    "alias": "ship",
                     "description": "schedule the release for shipping",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
                     "resolved": false
                 },
                 {
                     "alias": "signoff",
-                    "description": "remove signoff in Balrog",
+                    "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
                     "resolved": false
                 }
@@ -66,25 +66,19 @@
                 {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates#Push_to_mirrors",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory",
                     "resolved": false
                 },
                 {
-                    "alias": "publish",
-                    "description": "publish release tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Publish_in_Balrog",
+                    "alias": "ship",
+                    "description": "schedule the release for shipping",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
                     "resolved": false
                 },
                 {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
-                    "resolved": false
-                },
-                {
-                    "alias": "postrelease",
-                    "description": "run postrelease tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
                     "resolved": false
                 }
             ],
@@ -125,25 +119,19 @@
                 {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates#Push_to_mirrors",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory",
                     "resolved": false
                 },
                 {
-                    "alias": "publish",
-                    "description": "publish release tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Publish_in_Balrog",
+                    "alias": "ship",
+                    "description": "schedule the release for shipping",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
                     "resolved": false
                 },
                 {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
-                    "resolved": false
-                },
-                {
-                    "alias": "postrelease",
-                    "description": "run postrelease tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
                     "resolved": false
                 }
             ],
@@ -177,25 +165,19 @@
                 {
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates#Push_to_mirrors",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory",
                     "resolved": false
                 },
                 {
-                    "alias": "publish",
-                    "description": "publish release tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Publish_in_Balrog",
+                    "alias": "ship",
+                    "description": "schedule the release for shipping",
+                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
                     "resolved": false
                 },
                 {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
-                    "resolved": false
-                },
-                {
-                    "alias": "postrelease",
-                    "description": "run postrelease tasks",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates_through_Shipping#Post-release_tasks",
                     "resolved": false
                 }
             ],
