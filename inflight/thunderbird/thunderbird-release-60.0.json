@@ -50,7 +50,7 @@
                     "description": "update verify config gen: FATAL - Didn't find any update paths, cannot continue. Expected with no updates configured for older than 60.0",
                     "future_threat": true,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
