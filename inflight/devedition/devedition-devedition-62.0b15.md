@@ -25,5 +25,5 @@ export PUSH_TASK_ID=XB4X39E0QZKte3FBEy25Og
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](https://bugzil.la/none)        | [bouncer check](https://tools.taskcluster.net/groups/XB4X39E0QZKte3FBEy25Og/tasks/J_Xahf0xT9mffTlNmNGQPw/runs/0) 404's from CDN for 5 update urls, gone after a rerun | False | True |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | [bouncer check](https://tools.taskcluster.net/groups/XB4X39E0QZKte3FBEy25Og/tasks/J_Xahf0xT9mffTlNmNGQPw/runs/0) 404's from CDN for 5 update urls, gone after a rerun | True | True |
 
