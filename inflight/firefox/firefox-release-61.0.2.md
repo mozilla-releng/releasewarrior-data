@@ -26,5 +26,5 @@ export PUSH_TASK_ID=faHC2a7tRU23Z09Fpy35Iw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the candidate channel | False | True |
 
