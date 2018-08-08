@@ -50,8 +50,8 @@
                 {
                     "bug": "none",
                     "description": "snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the candidate channel",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
