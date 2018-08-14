@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=PJrZEHImSmOhZAznyA3dZQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | shipit release email never went through. graphs started. shipit frontend looked good. nthomas is investigating with nli | False | True |
 
