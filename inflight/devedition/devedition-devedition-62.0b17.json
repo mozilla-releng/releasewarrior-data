@@ -45,7 +45,7 @@
                     "bug": "1461919",
                     "description": "repack failed to clone. intermittent. rerunning Fth_diB1TX6PEXliBm5s2A",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
