@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=K4zHPkxhQK-an0xftlF06w
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1461919](https://bugzil.la/1461919)        | repack failed to clone. intermittent. rerunning Fth_diB1TX6PEXliBm5s2A | False | True |
 
