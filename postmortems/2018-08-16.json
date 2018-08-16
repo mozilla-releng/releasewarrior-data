@@ -1,0 +1,42 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-08-09",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b16"
+        },
+        {
+            "date": "2018-08-09",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b16"
+        },
+        {
+            "date": "2018-08-13",
+            "future_threats": [
+                {
+                    "bug": "1461919",
+                    "buildnum": 1,
+                    "description": "repack failed to clone. intermittent. rerunning Fth_diB1TX6PEXliBm5s2A",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b17"
+        },
+        {
+            "date": "2018-08-13",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b17"
+        }
+    ],
+    "date": "2018-08-16"
+}
