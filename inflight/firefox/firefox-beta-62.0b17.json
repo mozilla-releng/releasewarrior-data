@@ -46,10 +46,10 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
+                    "bug": "1482014",
                     "description": "shipit release email never went through. graphs started. shipit frontend looked good. nthomas is investigating with nli",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
