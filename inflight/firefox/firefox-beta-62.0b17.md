@@ -27,5 +27,5 @@ export SHIP_TASK_ID=Eh5PL3AgRZGwKDf9Z5hiAA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | shipit release email never went through. graphs started. shipit frontend looked good. nthomas is investigating with nli | False | True |
+| jlund  | 1 | [bug 1482014](https://bugzil.la/1482014)        | shipit release email never went through. graphs started. shipit frontend looked good. nthomas is investigating with nli | True | False |
 
