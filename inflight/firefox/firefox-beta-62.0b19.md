@@ -26,5 +26,5 @@ export PUSH_TASK_ID=BCJdwikxReyXt06A3O7rBw
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | Signing failed because signing_scriptworker timed out fetching signed build https://tools.taskcluster.net/groups/A0nXB_grTCqOfv6_z5gBcA/tasks/AUpCwWOmQjyfdgdmSKX-Sg/runs/0/logs/public%2Flogs%2Flive_backing.log#L57. I reran it | True | True |
-| jlorenzo  | 2 | [bug 1484924](https://bugzil.la/1484924)        | Intermittent: Could not start taskcluster proxy: fork/exec C:\generic-worker\taskcluster-proxy.exe: Access is denied. => "invalid memory address or nil pointer dereference" | False | True |
+| jlorenzo  | 2 | [bug 1484924](https://bugzil.la/1484924)        | Intermittent: Could not start taskcluster proxy: fork/exec C:\generic-worker\taskcluster-proxy.exe: Access is denied. => "invalid memory address or nil pointer dereference" | True | True |
 

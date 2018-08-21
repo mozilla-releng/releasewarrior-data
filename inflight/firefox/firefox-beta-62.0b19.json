@@ -52,7 +52,7 @@
                     "bug": "1484924",
                     "description": "Intermittent: Could not start taskcluster proxy: fork/exec C:\\generic-worker\\taskcluster-proxy.exe: Access is denied. => \"invalid memory address or nil pointer dereference\"",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
