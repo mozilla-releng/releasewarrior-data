@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=A0nXB_grTCqOfv6_z5gBcA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug none](https://bugzil.la/none)        | Signing failed because signing_scriptworker timed out fetching signed build https://tools.taskcluster.net/groups/A0nXB_grTCqOfv6_z5gBcA/tasks/AUpCwWOmQjyfdgdmSKX-Sg/runs/0/logs/public%2Flogs%2Flive_backing.log#L57. I reran it | False | True |
 
