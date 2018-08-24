@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/XSe_872TTNCMyzPtXsL-ig) XSe_872TTNCMyzPtXsL-ig
 ```
+export PROMOTE_TASK_ID=XSe_872TTNCMyzPtXsL-ig
 ```
-task graph url: unknown
 
 
 #### Status
