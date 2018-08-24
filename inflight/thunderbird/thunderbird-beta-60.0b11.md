@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=XSe_872TTNCMyzPtXsL-ig
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug 1466222](https://bugzil.la/1466222)        | Misisng backports | False | True |
+| tomprince  | 1 | [bug 1466222](https://bugzil.la/1466222)        | Misisng backports | True | False |
 
