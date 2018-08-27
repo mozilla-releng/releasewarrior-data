@@ -23,7 +23,7 @@ export PROMOTE_TASK_ID=FsmUIQLmSaGO1J6IRxS5Tg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| tomprince  | 1 | [bug none](https://bugzil.la/none)        | releaserunner failed to mark build as started in shipit-v1, causing a second promote action to be created. This led to duplicate complete.mar entries in the balrog blob (as per Bug 1389312). | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
