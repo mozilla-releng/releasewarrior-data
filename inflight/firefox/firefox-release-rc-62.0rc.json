@@ -79,7 +79,7 @@
                     "bug": "1486747",
                     "description": "\"Firefox-62.0build1-Complete\" in bouncer didn't have any location set. Bouncerscript should add them even when the product already exists.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
