@@ -69,8 +69,8 @@
                     "who": "jlorenzo"
                 },
                 {
-                    "bug": "1486582",
-                    "description": "release-secondary-final-verify-firefox failed to download some TC artifacts. It often returns a 500, which comes from the Queue not being able to resolve some DNS. The taskcluster team is on it. On our end, we could probably retry on the downloads. I don't see any retry on the logs. For instance: https://taskcluster-artifacts.net/Gaayh57cTlqURXqDvUwQRw/26/public/logs/live_backing.log ",
+                    "bug": "1486745",
+                    "description": "release-secondary-final-verify-firefox failed to download some TC artifacts. The root cause is bug 1486582: it often returns a 500, which comes from the Queue not being able to resolve some DNS. The taskcluster team is on it. On our end, we could probably retry on the downloads. I don't see any retry on the logs. For instance: https://taskcluster-artifacts.net/Gaayh57cTlqURXqDvUwQRw/26/public/logs/live_backing.log ",
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
