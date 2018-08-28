@@ -27,5 +27,5 @@ export PROMOTE_RC_TASK_ID=clacPCDwRYWZJHdZzRP0cA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug https://github.com/mozilla-releng/bouncerscript/pull/39](https://bugzil.la/https://github.com/mozilla-releng/bouncerscript/pull/39)        | scriptworker.exceptions.ScriptWorkerTaskException: Corrupt submission entry for product Firefox-62.0build1-Partial-61.0build3 platform linux path /firefox/candidates/62.0-candidates/build1/update/linux-i686/:lang/firefox-61.0-62.0.partial.mar | False | True |
 
