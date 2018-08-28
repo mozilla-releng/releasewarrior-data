@@ -19,6 +19,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Fennec 62.0b21](/inflight/fennec/fennec-beta-62.0b21.md)
 
+* [Fennec 62.0rc](/inflight/fennec/fennec-release-rc-62.0rc.md)
+
 * [Firefox 62.0b17](/inflight/firefox/firefox-beta-62.0b17.md)
 
 * [Firefox 62.0b18](/inflight/firefox/firefox-beta-62.0b18.md)
