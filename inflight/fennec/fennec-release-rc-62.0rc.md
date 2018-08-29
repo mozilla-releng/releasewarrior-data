@@ -24,5 +24,5 @@ export SHIP_RC_TASK_ID=FxZuebE9SYasNRyuGvvfvg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1487114](https://bugzil.la/1487114)        | Fennec RC: Ship-rc email should be more nuanced than "fennec 62.0 build1 [...] has shipped!". Fixed by manually sending a follow up email | False | True |
+| jlorenzo  | 1 | [bug 1487114](https://bugzil.la/1487114)        | Fennec RC: Ship-rc email should be more nuanced than "fennec 62.0 build1 [...] has shipped!". Fixed by manually sending a follow up email | True | True |
 

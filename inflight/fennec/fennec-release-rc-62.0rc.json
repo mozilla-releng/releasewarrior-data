@@ -39,7 +39,7 @@
                     "bug": "1487114",
                     "description": "Fennec RC: Ship-rc email should be more nuanced than \"fennec 62.0 build1 [...] has shipped!\". Fixed by manually sending a follow up email",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]
