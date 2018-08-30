@@ -1,0 +1,94 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-08-13",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1482014",
+                    "buildnum": 1,
+                    "description": "shipit release email never went through. graphs started. shipit frontend looked good. nthomas is investigating with nli",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "version": "62.0b17"
+        },
+        {
+            "date": "2018-08-16",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b18"
+        },
+        {
+            "date": "2018-08-16",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b18"
+        },
+        {
+            "date": "2018-08-20",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Signing failed because signing_scriptworker timed out fetching signed build https://tools.taskcluster.net/groups/A0nXB_grTCqOfv6_z5gBcA/tasks/AUpCwWOmQjyfdgdmSKX-Sg/runs/0/logs/public%2Flogs%2Flive_backing.log#L57. I reran it",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1484924",
+                    "buildnum": 1,
+                    "description": "Intermittent: Could not start taskcluster proxy: fork/exec C:\\generic-worker\\taskcluster-proxy.exe: Access is denied. => \"invalid memory address or nil pointer dereference\"",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b19"
+        },
+        {
+            "date": "2018-08-20",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b19"
+        },
+        {
+            "date": "2018-08-20",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b19"
+        },
+        {
+            "date": "2018-08-23",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0b20"
+        },
+        {
+            "date": "2018-08-23",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "62.0b20"
+        },
+        {
+            "date": "2018-08-27",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0b21"
+        }
+    ],
+    "date": "2018-08-30"
+}
