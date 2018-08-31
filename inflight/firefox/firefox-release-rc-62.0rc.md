@@ -8,9 +8,10 @@
 ## Build 2  
 
 ### Graphs
+* [promote_rc](https://tools.taskcluster.net/push-inspector/#/An7X0OORTaC-NUrp-7AG6g) An7X0OORTaC-NUrp-7AG6g
 ```
+export PROMOTE_RC_TASK_ID=An7X0OORTaC-NUrp-7AG6g
 ```
-task graph url: unknown
 
 
 #### Status
