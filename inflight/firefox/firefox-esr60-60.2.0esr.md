@@ -9,9 +9,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/CIDC-h0YQEm7jiV3ShA0Yw) CIDC-h0YQEm7jiV3ShA0Yw
 ```
+export PROMOTE_TASK_ID=CIDC-h0YQEm7jiV3ShA0Yw
 ```
-task graph url: unknown
 
 
 #### Status
