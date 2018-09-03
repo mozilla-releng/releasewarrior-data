@@ -48,8 +48,8 @@
                 {
                     "bug": "1439860",
                     "description": "update verify failures on Windows due to malformed complete mar files, bug 1439860 needs backout on esr60 verbranch",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
