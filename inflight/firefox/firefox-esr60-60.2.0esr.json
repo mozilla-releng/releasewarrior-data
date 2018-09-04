@@ -64,7 +64,7 @@
                     "bug": "1488518",
                     "description": "Bouncer entries for completes point at bz2 paths.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]

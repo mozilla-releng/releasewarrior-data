@@ -29,7 +29,7 @@ export PUSH_TASK_ID=SkDMIM1HQMiDIPfzsl7qvA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | tomprince  | 1 | [bug 1488511](https://bugzil.la/1488511)        | Final verify failed  due to matching HTTP headers case-sensitively | True | False |
-| tomprince  | 2 | [bug 1488518](https://bugzil.la/1488518)        | Bouncer entries for completes point at bz2 paths. | False | True |
+| tomprince  | 2 | [bug 1488518](https://bugzil.la/1488518)        | Bouncer entries for completes point at bz2 paths. | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
