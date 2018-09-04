@@ -69,7 +69,7 @@
                     "bug": "1488396",
                     "description": "Snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the candidate channel",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]

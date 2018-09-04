@@ -29,7 +29,7 @@ export SHIP_RC_TASK_ID=JB3ZYdXXRMW_DC6u02HQpQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1488396](https://bugzil.la/1488396)        | Snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the candidate channel | False | True |
+| jlorenzo  | 1 | [bug 1488396](https://bugzil.la/1488396)        | Snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the candidate channel | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
