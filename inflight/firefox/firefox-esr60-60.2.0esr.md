@@ -28,7 +28,7 @@ export PUSH_TASK_ID=SkDMIM1HQMiDIPfzsl7qvA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug 1488511](https://bugzil.la/1488511)        | Final verify failed  due to matching HTTP headers case-sensitively | False | True |
+| tomprince  | 1 | [bug 1488511](https://bugzil.la/1488511)        | Final verify failed  due to matching HTTP headers case-sensitively | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

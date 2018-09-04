@@ -56,8 +56,8 @@
                 {
                     "bug": "1488511",
                     "description": "Final verify failed  due to matching HTTP headers case-sensitively",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]
