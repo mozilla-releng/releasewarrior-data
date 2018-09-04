@@ -52,7 +52,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1488511",
+                    "description": "Final verify failed  due to matching HTTP headers case-sensitively",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "tomprince"
+                }
+            ]
         },
         {
             "aborted": true,
