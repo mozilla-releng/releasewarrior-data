@@ -19,7 +19,7 @@ export PUSH_TASK_ID=SkDMIM1HQMiDIPfzsl7qvA
 
 #### Status
 - [x] 1.  [how-to](https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It)  - submit to Shipit
-- [ ] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#1-push-to-releases-dir-mirrors)  - pushed to mirrors/releases
+- [x] 2.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#1-push-to-releases-dir-mirrors)  - pushed to mirrors/releases
 - [ ] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#3-publish-release)  - schedule the release for shipping
 - [ ] 4.  - Update bouncer entries firefox-esr-latest-ssl and firefox-esr-latest to point to ESR60. This has to be done manually if we ship 60.2.0esr-build2. Otherwise this is done automatically thanks to https://hg.mozilla.org/releases/mozilla-esr60/rev/8b9c2d5d09bf
 - [ ] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-signoffs)  - signoff in Balrog
