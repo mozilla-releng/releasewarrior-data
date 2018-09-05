@@ -28,7 +28,7 @@ export PUSH_TASK_ID=SkDMIM1HQMiDIPfzsl7qvA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| tomprince  | 1 | [bug 1488511](https://bugzil.la/1488511)        | Final verify failed  due to matching HTTP headers case-sensitively | True | False |
+| tomprince  | 1 | [bug 1488511](https://bugzil.la/1488511)        | Final verify failed  due to matching HTTP headers case-sensitively | True | True |
 | tomprince  | 2 | [bug 1488518](https://bugzil.la/1488518)        | Bouncer entries for completes point at bz2 paths. | True | True |
 | jlorenzo  | 3 | [bug 1488686](https://bugzil.la/1488686)        | 52.9.0esr -> 60.2.0esr: wrong bouncer entries found by final-verify => "firefox-60.2.0esr-complete-bz2" doesn't exist. Fixed manually. | False | True |
 
