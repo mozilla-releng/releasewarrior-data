@@ -11,12 +11,12 @@
 * [promote_rc](https://tools.taskcluster.net/push-inspector/#/An7X0OORTaC-NUrp-7AG6g) An7X0OORTaC-NUrp-7AG6g
 * [ship_rc](https://tools.taskcluster.net/push-inspector/#/JB3ZYdXXRMW_DC6u02HQpQ) JB3ZYdXXRMW_DC6u02HQpQ
 * [push](https://tools.taskcluster.net/push-inspector/#/UQd6GS1uRxqTZDpbG8e43Q) UQd6GS1uRxqTZDpbG8e43Q
-* [ship](https://tools.taskcluster.net/push-inspector/#/PSoa6nqqS9uG4qr5gpiszQ) PSoa6nqqS9uG4qr5gpiszQ
+* [ship](https://tools.taskcluster.net/push-inspector/#/BdgTRHu1SxeOfQhbD2ZLXg) BdgTRHu1SxeOfQhbD2ZLXg
 ```
 export PROMOTE_RC_TASK_ID=An7X0OORTaC-NUrp-7AG6g
 export SHIP_RC_TASK_ID=JB3ZYdXXRMW_DC6u02HQpQ
 export PUSH_TASK_ID=UQd6GS1uRxqTZDpbG8e43Q
-export SHIP_TASK_ID=PSoa6nqqS9uG4qr5gpiszQ
+export SHIP_TASK_ID=BdgTRHu1SxeOfQhbD2ZLXg
 ```
 
 
