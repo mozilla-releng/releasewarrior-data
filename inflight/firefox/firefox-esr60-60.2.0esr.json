@@ -41,7 +41,7 @@
                     "alias": "",
                     "description": "Update bouncer entries firefox-esr-latest-ssl and firefox-esr-latest to point to ESR60. This has to be done manually if we ship 60.2.0esr-build2. Otherwise this is done automatically thanks to https://hg.mozilla.org/releases/mozilla-esr60/rev/8b9c2d5d09bf",
                     "docs": "",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "signoff",
