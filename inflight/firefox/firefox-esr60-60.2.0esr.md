@@ -25,7 +25,7 @@ export SHIP_TASK_ID=PevpN8F9RE607B6KLjw0oA
 - [x] 3.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#3-publish-release)  - schedule the release for shipping
 - [x] 4.  - Update bouncer entries firefox-esr-latest-ssl and firefox-esr-latest to point to ESR60. This has to be done manually if we ship 60.2.0esr-build2. Otherwise this is done automatically thanks to https://hg.mozilla.org/releases/mozilla-esr60/rev/8b9c2d5d09bf
 - [x] 5.  [how-to](https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/historic_relpro.md#2-signoffs)  - signoff in Balrog
-- [ ] 6.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1460752)  - Update ship-it config for ESR52 deprecation
+- [x] 6.  [how-to](https://bugzilla.mozilla.org/show_bug.cgi?id=1460752)  - Update ship-it config for ESR52 deprecation
 
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |

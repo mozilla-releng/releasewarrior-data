@@ -53,7 +53,7 @@
                     "alias": "",
                     "description": "Update ship-it config for ESR52 deprecation",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1460752",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
