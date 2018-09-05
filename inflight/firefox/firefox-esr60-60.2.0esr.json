@@ -66,6 +66,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "tomprince"
+                },
+                {
+                    "bug": "1488686",
+                    "description": "52.9.0esr -> 60.2.0esr: wrong bouncer entries found by final-verify => \"firefox-60.2.0esr-complete-bz2\" doesn't exist. Fixed manually.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
                 }
             ]
         },
