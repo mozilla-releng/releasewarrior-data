@@ -40,7 +40,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1488396",
+                    "description": "Snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the beta channel ",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
+                }
+            ]
         }
     ],
     "preflight": {
