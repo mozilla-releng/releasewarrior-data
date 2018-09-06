@@ -21,5 +21,5 @@ export PROMOTE_TASK_ID=VTZ3dnoqT56a5j--_uTmpQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug 1489132](https://bugzil.la/1489132)        | Cannot upload geckoview beta: version number doesn't match 63.0bX | False | True |
 
