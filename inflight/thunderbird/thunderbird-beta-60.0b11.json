@@ -50,7 +50,7 @@
                     "description": "releaserunner failed to mark build as started in shipit-v1, causing a second promote action to be created. This led to duplicate complete.mar entries in the balrog blob (as per Bug 1389312).",
                     "future_threat": true,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "tomprince"
                 }
             ]
