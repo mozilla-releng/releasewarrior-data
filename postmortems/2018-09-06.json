@@ -1,0 +1,207 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-05-02",
+            "future_threats": [
+                {
+                    "bug": "1488511",
+                    "buildnum": 2,
+                    "description": "Final verify failed  due to matching HTTP headers case-sensitively",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "1488518",
+                    "buildnum": 2,
+                    "description": "Bouncer entries for completes point at bz2 paths.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "1488686",
+                    "buildnum": 2,
+                    "description": "52.9.0esr -> 60.2.0esr: wrong bouncer entries found by final-verify => \"firefox-60.2.0esr-complete-bz2\" doesn't exist. Fixed manually.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.2.0esr"
+        },
+        {
+            "date": "2018-06-04",
+            "future_threats": [
+                {
+                    "bug": "1488396",
+                    "buildnum": 2,
+                    "description": "Snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the candidate channel",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1486745",
+                    "buildnum": 1,
+                    "description": "release-secondary-final-verify-firefox failed to download some TC artifacts. The root cause is bug 1486582: it often returns a 500, which comes from the Queue not being able to resolve some DNS. The taskcluster team is on it. On our end, we could probably retry on the downloads. I don't see any retry on the logs. For instance: https://taskcluster-artifacts.net/Gaayh57cTlqURXqDvUwQRw/26/public/logs/live_backing.log ",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "1486747",
+                    "buildnum": 1,
+                    "description": "\"Firefox-62.0build1-Complete\" in bouncer didn't have any location set. Bouncerscript should add them even when the product already exists.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "https://github.com/mozilla-releng/bouncerscript/pull/39",
+                    "buildnum": 1,
+                    "description": "scriptworker.exceptions.ScriptWorkerTaskException: Corrupt submission entry for product Firefox-62.0build1-Partial-61.0build3 platform linux path /firefox/candidates/62.0-candidates/build1/update/linux-i686/:lang/firefox-61.0-62.0.partial.mar",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "version": "62.0rc"
+        },
+        {
+            "date": "2018-08-24",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b1"
+        },
+        {
+            "date": "2018-08-24",
+            "future_threats": [
+                {
+                    "bug": "1486475",
+                    "buildnum": 5,
+                    "description": "releaserunner failed to mark build as started in shipit-v1, causing a second promote action to be created. This led to duplicate complete.mar entries in the balrog blob (as per Bug 1389312).",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "1486475",
+                    "buildnum": 4,
+                    "description": "releaserunner failed to mark build as started in shipit-v1, causing a second promote action to be created. This led to duplicate complete.mar entries in the balrog blob (as per Bug 1389312).",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "1486475",
+                    "buildnum": 3,
+                    "description": "releaserunner failed to mark build as started in shipit-v1, causing a second promote action to be created. This led to duplicate complete.mar entries in the balrog blob (as per Bug 1389312).",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "tomprince"
+                },
+                {
+                    "bug": "1486475",
+                    "buildnum": 2,
+                    "description": "releaserunner failed to mark build as started in shipit-v1, causing a second promote action to be created. This led to duplicate complete.mar entries in the balrog blob (as per Bug 1389312).",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "tomprince"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": "1439860",
+                    "buildnum": 4,
+                    "description": "update verify failures on Windows due to malformed complete mar files, bug 1439860 needs backout on esr60 verbranch",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1466222",
+                    "buildnum": 1,
+                    "description": "Misisng backports",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "tomprince"
+                }
+            ],
+            "version": "60.0b11"
+        },
+        {
+            "date": "2018-08-28",
+            "future_threats": [
+                {
+                    "bug": "1487114",
+                    "buildnum": 1,
+                    "description": "Fennec RC: Ship-rc email should be more nuanced than \"fennec 62.0 build1 [...] has shipped!\". Fixed by manually sending a follow up email",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0rc"
+        },
+        {
+            "date": "2018-08-30",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b2"
+        },
+        {
+            "date": "2018-09-04",
+            "future_threats": [
+                {
+                    "bug": "1488396",
+                    "buildnum": 1,
+                    "description": "Snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the beta channel ",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "63.0b3"
+        },
+        {
+            "date": "2018-09-04",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b3"
+        },
+        {
+            "date": "2018-09-04",
+            "future_threats": [
+                {
+                    "bug": "1489132",
+                    "buildnum": 1,
+                    "description": "Cannot upload geckoview beta: version number doesn't match 63.0bX",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "63.0b3"
+        }
+    ],
+    "date": "2018-09-06"
+}
