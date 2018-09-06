@@ -23,5 +23,5 @@ export SHIP_TASK_ID=KxUUhrkjTP2SdymRS_Si9w
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1489132](https://bugzil.la/1489132)        | Cannot upload geckoview beta: version number doesn't match 63.0bX | False | True |
+| jlorenzo  | 1 | [bug 1489132](https://bugzil.la/1489132)        | Cannot upload geckoview beta: version number doesn't match 63.0bX | True | True |
 
