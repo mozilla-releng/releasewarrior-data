@@ -15,11 +15,11 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 63.0b4](/inflight/firefox/firefox-beta-63.0b4.md)
 
+* [Firefox 63.0b5](/inflight/firefox/firefox-beta-63.0b5.md)
+
 **Upcoming**
 
 * [Fennec 63.0b5](/upcoming/fennec/fennec-beta-63.0b5.md)
 
 * [Firefox 60.2.1esr](/upcoming/firefox/firefox-esr60-60.2.1esr.md)
-
-* [Firefox 63.0b5](/upcoming/firefox/firefox-beta-63.0b5.md)
 
