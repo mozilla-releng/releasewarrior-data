@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/DQt-RcMwTFOXUcl9buNZtA) DQt-RcMwTFOXUcl9buNZtA
 ```
+export PROMOTE_TASK_ID=DQt-RcMwTFOXUcl9buNZtA
 ```
-task graph url: unknown
 
 
 #### Status
