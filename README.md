@@ -13,13 +13,13 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Fennec 62.0.1](/inflight/fennec/fennec-release-62.0.1.md)
 
+* [Fennec 63.0b5](/inflight/fennec/fennec-beta-63.0b5.md)
+
 * [Firefox 63.0b4](/inflight/firefox/firefox-beta-63.0b4.md)
 
 * [Firefox 63.0b5](/inflight/firefox/firefox-beta-63.0b5.md)
 
 **Upcoming**
-
-* [Fennec 63.0b5](/upcoming/fennec/fennec-beta-63.0b5.md)
 
 * [Firefox 60.2.1esr](/upcoming/firefox/firefox-esr60-60.2.1esr.md)
 
