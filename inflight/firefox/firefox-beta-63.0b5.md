@@ -25,5 +25,5 @@ export PUSH_TASK_ID=f36SGmzCQGG5Y9VLg5vYuA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlorenzo  | 1 | [bug 1488396](https://bugzil.la/1488396)        | Snap push failed. It timed out after uploading the snap. Resolved by manually promoting this snap to the beta channel | False | True |
 
