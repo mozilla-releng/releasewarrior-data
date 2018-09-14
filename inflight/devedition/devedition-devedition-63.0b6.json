@@ -44,7 +44,15 @@
                     "resolved": true
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Pushing to aurora failed, because b5 was never published and balrog rejected to accept a conflicting change. Had to delete the pending change and rerun the task.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "rail"
+                }
+            ]
         }
     ],
     "preflight": {
