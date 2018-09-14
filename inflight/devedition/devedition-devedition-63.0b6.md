@@ -27,5 +27,5 @@ export SHIP_TASK_ID=HfQILiUtQomwoUzDiIdniA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| rail  | 1 | [bug none](https://bugzil.la/none)        | Pushing to aurora failed, because b5 was never published and balrog rejected to accept a conflicting change. Had to delete the pending change and rerun the task. | False | True |
+| rail  | 1 | [bug none](https://bugzil.la/none)        | Pushing to aurora failed, because b5 was never published and balrog rejected to accept a conflicting change. Had to delete the pending change and rerun the task. | True | True |
 
