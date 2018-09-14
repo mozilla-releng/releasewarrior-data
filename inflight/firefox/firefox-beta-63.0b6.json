@@ -40,7 +40,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1491262",
+                    "description": " Make snap store push idempotent",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "rail"
+                }
+            ]
         }
     ],
     "preflight": {

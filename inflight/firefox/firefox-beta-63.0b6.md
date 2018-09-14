@@ -25,5 +25,5 @@ export PUSH_TASK_ID=U2ZUXzf2Rsyx95EJpLGvzQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| rail  | 1 | [bug 1491262](https://bugzil.la/1491262)        |  Make snap store push idempotent | False | True |
 
