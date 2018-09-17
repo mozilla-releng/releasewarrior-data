@@ -23,11 +23,13 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 63.0b6](/inflight/firefox/firefox-beta-63.0b6.md)
 
+* [Firefox 63.0b7](/inflight/firefox/firefox-beta-63.0b7.md)
+
 **Upcoming**
 
 * [Devedition 63.0b7](/upcoming/devedition/devedition-devedition-63.0b7.md)
 
-* [Firefox 60.2.1esr](/upcoming/firefox/firefox-esr60-60.2.1esr.md)
+* [Fennec 63.0b7](/upcoming/fennec/fennec-beta-63.0b7.md)
 
-* [Firefox 63.0b7](/upcoming/firefox/firefox-beta-63.0b7.md)
+* [Firefox 60.2.1esr](/upcoming/firefox/firefox-esr60-60.2.1esr.md)
 
