@@ -9,5 +9,7 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Upcoming**
 
+* [Fennec 62.0.2](/upcoming/fennec/fennec-release-62.0.2.md)
+
 * [Firefox 60.2.1esr](/upcoming/firefox/firefox-esr60-60.2.1esr.md)
 
