@@ -13,3 +13,5 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 60.2.1esr](/upcoming/firefox/firefox-esr60-60.2.1esr.md)
 
+* [Firefox 62.0.2](/upcoming/firefox/firefox-release-62.0.2.md)
+
