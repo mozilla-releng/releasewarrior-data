@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Signing backlog, and 'low' priority for esr60, means graph is not progressing",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
+                }
+            ]
         }
     ],
     "preflight": {
