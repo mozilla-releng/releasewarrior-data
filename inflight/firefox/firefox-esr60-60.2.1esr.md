@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/D-fWrJ75Rxy61bEHnVyajA) D-fWrJ75Rxy61bEHnVyajA
 ```
+export PROMOTE_TASK_ID=D-fWrJ75Rxy61bEHnVyajA
 ```
-task graph url: unknown
 
 
 #### Status
