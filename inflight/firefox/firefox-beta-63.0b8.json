@@ -70,7 +70,7 @@
                     "bug": "1493071",
                     "description": "bouncer check mistakenly runs as part of the push graph(s)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "mtabara"
                 }
             ]
