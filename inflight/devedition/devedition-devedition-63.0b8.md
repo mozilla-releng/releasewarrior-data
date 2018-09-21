@@ -25,5 +25,5 @@ export PUSH_TASK_ID=ZbedeifrQim2SbiVy1ynnw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| mtabara  | 1 | [bug 1493071](https://bugzil.la/1493071)        | bouncer check mistakenly runs as part of the push graph(s) | False | True |
 
