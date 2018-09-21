@@ -39,9 +39,9 @@
             "issues": [
                 {
                     "bug": "1493028",
-                    "description": "Signing backlog, and 'low' priority for esr60, means graph is not progressing",
+                    "description": "Signing backlog, and 'low' priority for esr60, means graph is not progressing. Priority fix landed for future builds, and email disucssion about mac signing capacity opened.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
