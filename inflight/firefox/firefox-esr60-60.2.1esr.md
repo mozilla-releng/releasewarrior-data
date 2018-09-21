@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=D-fWrJ75Rxy61bEHnVyajA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug 1493028](https://bugzil.la/1493028)        | Signing backlog, and 'low' priority for esr60, means graph is not progressing | False | True |
+| nthomas  | 1 | [bug 1493028](https://bugzil.la/1493028)        | Signing backlog, and 'low' priority for esr60, means graph is not progressing. Priority fix landed for future builds, and email disucssion about mac signing capacity opened. | True | True |
 
