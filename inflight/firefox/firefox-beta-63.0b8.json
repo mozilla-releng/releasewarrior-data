@@ -62,8 +62,8 @@
                 {
                     "bug": "1493053",
                     "description": "release-snap-push-firefox needs xdelta3 tool",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 },
                 {
