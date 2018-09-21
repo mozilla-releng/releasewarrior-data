@@ -47,6 +47,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "1493056",
+                    "description": "Partner repackage jobs fail to download upstream artifact",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "nthomas"
                 }
             ]
         }

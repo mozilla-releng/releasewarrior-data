@@ -26,4 +26,5 @@ export PUSH_TASK_ID=ZbedeifrQim2SbiVy1ynnw
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | prematurely shipped fx 63.0b8. cancelled ship graph; need to run `tc-filter.py --graph-id GT-f8ebSRomsoC9k2ZQHUA --state exception --action rerun` to ship | False | True |
+| nthomas  | 2 | [bug 1493056](https://bugzil.la/1493056)        | Partner repackage jobs fail to download upstream artifact | False | True |
 
