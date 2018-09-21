@@ -9,7 +9,7 @@
 
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/EjriZedLRoeG55XhMZ_enA) EjriZedLRoeG55XhMZ_enA
-* [push](https://tools.taskcluster.net/push-inspector/#/ZbedeifrQim2SbiVy1ynnw) CTU6CA-PTGyDBu4IExIgoA
+* [push](https://tools.taskcluster.net/push-inspector/#/CTU6CA-PTGyDBu4IExIgoA) CTU6CA-PTGyDBu4IExIgoA
 ```
 export PROMOTE_TASK_ID=EjriZedLRoeG55XhMZ_enA
 export PUSH_TASK_ID=CTU6CA-PTGyDBu4IExIgoA
@@ -26,5 +26,5 @@ export PUSH_TASK_ID=CTU6CA-PTGyDBu4IExIgoA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | prematurely shipped fx 63.0b8. cancelled ship graph; need to run `tc-filter.py --graph-id GT-f8ebSRomsoC9k2ZQHUA --state exception --action rerun` to ship | False | True |
-| nthomas  | 2 | [bug 1493056](https://bugzil.la/1493056)        | Partner repackage jobs fail to download upstream artifact | False | True |
+| nthomas  | 2 | [bug 1493056](https://bugzil.la/1493056)        | Partner repackage jobs fail to download upstream artifact, and try to chmod a mar util we don't need. We re-enable partner & EME-free at b8 and determined with RyanVM we wouldn't block shipping on this. To force promote to continue we used 'taskluster task rerun' on release-generate-checksums (ZUNzA7VNQMyGIfb6ujoCgA) | False | True |
 
