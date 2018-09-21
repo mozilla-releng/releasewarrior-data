@@ -38,7 +38,7 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
+                    "bug": "1493028",
                     "description": "Signing backlog, and 'low' priority for esr60, means graph is not progressing",
                     "future_threat": true,
                     "resolved": false,
