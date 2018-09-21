@@ -27,5 +27,5 @@ export SHIP_TASK_ID=EI2zrQJ7T1OyrCoOn870Vg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| mtabara  | 1 | [bug 1493071](https://bugzil.la/1493071)        | bouncer check mistakenly runs as part of the push graph(s) | False | True |
+| mtabara  | 1 | [bug 1493071](https://bugzil.la/1493071)        | bouncer check mistakenly runs as part of the push graph(s) | True | True |
 
