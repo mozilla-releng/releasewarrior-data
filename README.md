@@ -21,7 +21,7 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 63.0b8](/inflight/firefox/firefox-beta-63.0b8.md)
 
-**Upcoming**
+* [Firefox 63.0b9](/inflight/firefox/firefox-beta-63.0b9.md)
 
-* [Firefox 63.0b9](/upcoming/firefox/firefox-beta-63.0b9.md)
+**Upcoming**
 
