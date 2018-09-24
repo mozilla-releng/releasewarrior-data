@@ -19,3 +19,5 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Upcoming**
 
+* [Firefox 63.0b9](/upcoming/firefox/firefox-beta-63.0b9.md)
+
