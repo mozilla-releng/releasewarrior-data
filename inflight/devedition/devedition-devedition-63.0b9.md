@@ -25,5 +25,5 @@ export PUSH_TASK_ID=Rawi4CqbRKyfSbhfRmV2fA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| nthomas  | 1 | [bug none](https://bugzil.la/none)        | Update verify bustage from [tools cleanup]()https://hg.mozilla.org/build/tools/rev/d5289f1ceaaa); fixed by readding retry.py and unix_util.py. | True | False |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | Update verify bustage from [tools cleanup](https://hg.mozilla.org/build/tools/rev/d5289f1ceaaa); fixed by re-adding retry.py and unix_util.py. | True | False |
 
