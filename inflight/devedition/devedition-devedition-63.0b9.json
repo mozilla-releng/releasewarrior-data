@@ -44,8 +44,8 @@
                 {
                     "bug": "none",
                     "description": "Update verify bustage from [tools cleanup]()https://hg.mozilla.org/build/tools/rev/d5289f1ceaaa); fixed by readding retry.py and unix_util.py.",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
