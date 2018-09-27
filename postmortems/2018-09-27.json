@@ -1,0 +1,122 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-09-04",
+            "future_threats": [
+                {
+                    "bug": "1493028",
+                    "buildnum": 1,
+                    "description": "Signing backlog, and 'low' priority for esr60, means graph is not progressing. Priority fix landed for future builds, and email disucssion about mac signing capacity opened.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.2.1esr"
+        },
+        {
+            "date": "2018-09-20",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0.2"
+        },
+        {
+            "date": "2018-09-20",
+            "future_threats": [
+                {
+                    "bug": "1493071",
+                    "buildnum": 1,
+                    "description": "bouncer check mistakenly runs as part of the push graph(s)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "prematurely shipped fx 63.0b8. cancelled ship graph; need to run `tc-filter.py --graph-id GT-f8ebSRomsoC9k2ZQHUA --state exception --action rerun` to ship",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1493056",
+                    "buildnum": 1,
+                    "description": "Partner repackage jobs fail to download upstream artifact, and try to chmod a mar util we don't need. We re-enable partner & EME-free at b8 and determined with RyanVM we wouldn't block shipping on this. To force promote to continue we used 'taskluster task rerun' on release-generate-checksums (ZUNzA7VNQMyGIfb6ujoCgA)",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1493053",
+                    "buildnum": 1,
+                    "description": "release-snap-push-firefox needs xdelta3 tool",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "63.0b8"
+        },
+        {
+            "date": "2018-09-20",
+            "future_threats": [
+                {
+                    "bug": "1493071",
+                    "buildnum": 1,
+                    "description": "bouncer check mistakenly runs as part of the push graph(s)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b8"
+        },
+        {
+            "date": "2018-09-20",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0.2"
+        },
+        {
+            "date": "2018-09-24",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "63.0b9"
+        },
+        {
+            "date": "2018-09-24",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Update verify bustage from [tools cleanup](https://hg.mozilla.org/build/tools/rev/d5289f1ceaaa); fixed by re-adding retry.py and unix_util.py.",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "version": "63.0b9"
+        },
+        {
+            "date": "2018-09-24",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "63.0b9"
+        }
+    ],
+    "date": "2018-09-27"
+}
