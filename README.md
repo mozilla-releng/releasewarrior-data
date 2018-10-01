@@ -9,6 +9,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 63.0b10](/inflight/devedition/devedition-devedition-63.0b10.md)
 
+* [Devedition 63.0b11](/inflight/devedition/devedition-devedition-63.0b11.md)
+
 * [Firefox 63.0b10](/inflight/firefox/firefox-beta-63.0b10.md)
 
 **Upcoming**
