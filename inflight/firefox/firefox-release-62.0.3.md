@@ -24,5 +24,5 @@ export PROMOTE_TASK_ID=Iel3zFH9Sc64pTH2zqgEog
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | mac partner repack failed on downloading a toolchain | False | True |
 
