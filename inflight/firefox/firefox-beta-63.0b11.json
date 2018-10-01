@@ -42,7 +42,7 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
+                    "bug": "1491262",
                     "description": "snap push failed",
                     "future_threat": true,
                     "resolved": false,
