@@ -25,5 +25,5 @@ export PUSH_TASK_ID=JqmGEDGESKaN67BG1FauTA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | snap push failed | False | True |
+| asasaki  | 1 | [bug 1491262](https://bugzil.la/1491262)        | snap push failed | False | True |
 
