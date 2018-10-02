@@ -46,7 +46,7 @@
                 {
                     "bug": "none",
                     "description": "mac partner repack failed on downloading a toolchain",
-                    "future_threat": false,
+                    "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
                 },
