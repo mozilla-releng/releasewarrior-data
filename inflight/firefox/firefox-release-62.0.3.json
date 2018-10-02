@@ -49,6 +49,13 @@
                     "future_threat": false,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "1495714",
+                    "description": "502 error, corrupted release blob: \"Caught non-fatal exception finding fileUrl for partial update\"",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlorenzo"
                 }
             ]
         }
