@@ -65,7 +65,7 @@
                     "bug": "none",
                     "description": "new partner repacks failed signing -- expected",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

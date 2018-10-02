@@ -28,5 +28,5 @@ export PUSH_TASK_ID=fXjUYLkoTkKZb_Uv4N2mKQ
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | mac partner repack failed on downloading a toolchain | True | True |
 | jlorenzo  | 2 | [bug 1495714](https://bugzil.la/1495714)        | 502 error, corrupted release blob: "Caught non-fatal exception finding fileUrl for partial update" | False | True |
-| asasaki  | 3 | [bug none](https://bugzil.la/none)        | new partner repacks failed signing -- expected | False | True |
+| asasaki  | 3 | [bug none](https://bugzil.la/none)        | new partner repacks failed signing -- expected | True | True |
 
