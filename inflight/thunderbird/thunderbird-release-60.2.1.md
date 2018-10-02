@@ -26,5 +26,5 @@ export PUSH_TASK_ID=VDHRBAB6RpOc-zz7hn7SOg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | thunderbird rw docs point at esr52 docs | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | thunderbird rw docs point at esr52 docs | True | False |
 

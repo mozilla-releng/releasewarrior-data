@@ -50,8 +50,8 @@
                 {
                     "bug": "none",
                     "description": "thunderbird rw docs point at esr52 docs",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
