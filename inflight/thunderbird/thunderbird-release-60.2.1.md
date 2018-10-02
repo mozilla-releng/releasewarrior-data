@@ -24,5 +24,5 @@ export PROMOTE_TASK_ID=BSAMEmNqSfyrdSwtyEkAmA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | thunderbird rw docs point at esr52 docs | False | True |
 
