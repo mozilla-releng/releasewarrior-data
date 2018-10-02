@@ -60,6 +60,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlorenzo"
+                },
+                {
+                    "bug": "none",
+                    "description": "new partner repacks failed signing -- expected",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }
