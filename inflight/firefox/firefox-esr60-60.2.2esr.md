@@ -27,5 +27,5 @@ export SHIP_TASK_ID=DXtCRrpTQACkCm1Br7gPjg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | snap failed to push | False | True |
 

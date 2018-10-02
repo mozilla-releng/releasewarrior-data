@@ -44,7 +44,15 @@
                     "resolved": true
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "snap failed to push",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ]
         }
     ],
     "preflight": {
