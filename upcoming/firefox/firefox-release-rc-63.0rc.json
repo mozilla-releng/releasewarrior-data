@@ -59,7 +59,14 @@
         }
     ],
     "preflight": {
-        "human_tasks": []
+        "human_tasks": [
+            {
+                "bug": "1495844",
+                "deadline": "2018-10-23",
+                "description": "We will need to update the firefox-election-edition bouncer URLs manually after shipping.",
+                "resolved": false
+            }
+        ]
     },
     "product": "firefox",
     "version": "63.0rc"
