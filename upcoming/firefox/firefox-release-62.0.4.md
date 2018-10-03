@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-10-03
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-10-23 - [bug 1495844](https://bugzil.la/1495844): We will need to update the firefox-election-edition bouncer URLs manually after shipping.
 
 ## Build 1  
 
