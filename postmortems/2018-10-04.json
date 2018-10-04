@@ -1,0 +1,72 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-09-27",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "63.0b10"
+        },
+        {
+            "date": "2018-09-27",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b10"
+        },
+        {
+            "date": "2018-10-01",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1491262",
+                    "buildnum": 1,
+                    "description": "snap push failed",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "63.0b11"
+        },
+        {
+            "date": "2018-10-01",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b11"
+        },
+        {
+            "date": "2018-10-01",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "62.0.3"
+        },
+        {
+            "date": "2018-10-01",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "63.0b11"
+        },
+        {
+            "date": "2018-10-02",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "thunderbird rw docs point at esr52 docs",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "60.2.1"
+        }
+    ],
+    "date": "2018-10-04"
+}
