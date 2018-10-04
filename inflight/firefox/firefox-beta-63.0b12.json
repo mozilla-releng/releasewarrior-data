@@ -35,9 +35,9 @@
                 {
                     "bug": "1496480",
                     "description": "thunderbird fix broke firefox update verify config",
-                    "future_threat": true,
+                    "future_threat": false,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

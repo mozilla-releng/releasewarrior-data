@@ -22,7 +22,7 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1496480](https://bugzil.la/1496480)        | thunderbird fix broke firefox update verify config | False | True |
+| asasaki  | 1 | [bug 1496480](https://bugzil.la/1496480)        | thunderbird fix broke firefox update verify config | True | False |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
