@@ -27,5 +27,5 @@ export SHIP_TASK_ID=XTs7pJYCTHOUMT0UWLdLHA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1491262](https://bugzil.la/1491262)        | snap push failed | False | True |
+| asasaki  | 1 | [bug 1491262](https://bugzil.la/1491262)        | snap push failed | True | False |
 
