@@ -8,9 +8,10 @@
 ## Build 2  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/X4r-IGwTSAucognWGrRwHw) X4r-IGwTSAucognWGrRwHw
 ```
+export PROMOTE_TASK_ID=X4r-IGwTSAucognWGrRwHw
 ```
-task graph url: unknown
 
 
 #### Status
