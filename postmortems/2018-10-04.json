@@ -52,6 +52,54 @@
             "version": "63.0b11"
         },
         {
+            "date": "2018-10-01",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "mac partner repack failed on downloading a toolchain",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1495714",
+                    "buildnum": 1,
+                    "description": "502 error, corrupted release blob: \"Caught non-fatal exception finding fileUrl for partial update\"",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlorenzo"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "new partner repacks failed signing -- expected",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "62.0.3"
+        },
+        {
+            "date": "2018-10-01",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "snap failed to push",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.2.2esr"
+        },
+        {
             "date": "2018-10-02",
             "future_threats": [],
             "product": "thunderbird",
