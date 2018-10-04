@@ -29,6 +29,6 @@ export SHIP_TASK_ID=QaL2b6JPTta4oPCIQBnBNQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | mac partner repack failed on downloading a toolchain | True | True |
-| jlorenzo  | 2 | [bug 1495714](https://bugzil.la/1495714)        | 502 error, corrupted release blob: "Caught non-fatal exception finding fileUrl for partial update" | False | True |
+| jlorenzo  | 2 | [bug 1495714](https://bugzil.la/1495714)        | 502 error, corrupted release blob: "Caught non-fatal exception finding fileUrl for partial update" | True | True |
 | asasaki  | 3 | [bug none](https://bugzil.la/none)        | new partner repacks failed signing -- expected | True | True |
 
