@@ -25,5 +25,5 @@ export PUSH_TASK_ID=O96Ai7RuTdqHD7Gwn4r5fA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1491907](https://bugzil.la/1491907)        | thunderbird fix broke firefox update verify config | False | True |
 
