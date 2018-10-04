@@ -42,7 +42,7 @@
             ],
             "issues": [
                 {
-                    "bug": "1491907",
+                    "bug": "1496480",
                     "description": "thunderbird fix broke firefox update verify config",
                     "future_threat": true,
                     "resolved": false,
