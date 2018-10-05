@@ -48,6 +48,13 @@
                     "id": 1,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "snap push failed",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         },

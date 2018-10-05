@@ -26,6 +26,7 @@ export PUSH_TASK_ID=YOF9mLY1Tq2ecHuiJovB0Q
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1496480](https://bugzil.la/1496480)        | thunderbird fix broke firefox update verify config | True | False |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | snap push failed | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
