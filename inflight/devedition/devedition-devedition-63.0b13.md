@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=HbAIAmQXQaSQsngxfbV7Tw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1371378](https://bugzil.la/1371378)        | hg clone failed grabbing bundle for l10n e8T1mdOkQQm45DJ3pSNQyw | False | True |
+| asasaki  | 1 | [bug 1371378](https://bugzil.la/1371378)        | hg clone failed grabbing bundle for l10n e8T1mdOkQQm45DJ3pSNQyw | True | True |
 

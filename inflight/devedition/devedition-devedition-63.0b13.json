@@ -41,7 +41,7 @@
                     "bug": "1371378",
                     "description": "hg clone failed grabbing bundle for l10n e8T1mdOkQQm45DJ3pSNQyw",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
