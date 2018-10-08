@@ -25,5 +25,5 @@ export PUSH_TASK_ID=BojoOLA9TF6N9TiCH7vHuQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug 1318173](https://bugzil.la/1318173)        | eme-free win32 pl repackage, repackage-l10n win64 pt-PT failed hg clone | False | True |
 
