@@ -59,7 +59,7 @@
                     "bug": "none",
                     "description": "UV timeouts (force kill container after 3600 seconds)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
