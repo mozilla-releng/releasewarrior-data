@@ -26,5 +26,5 @@ export PUSH_TASK_ID=Fh19ooV4RRS58YG0_8orJQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1371378](https://bugzil.la/1371378)        | hg clone failed grabbing bundle for l10n e8T1mdOkQQm45DJ3pSNQyw | True | True |
-| asasaki  | 2 | [bug none](https://bugzil.la/none)        | UV timeouts (force kill container after 3600 seconds) | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | UV timeouts (force kill container after 3600 seconds) | True | True |
 
