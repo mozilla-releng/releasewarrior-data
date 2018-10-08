@@ -27,4 +27,5 @@ export PUSH_TASK_ID=BojoOLA9TF6N9TiCH7vHuQ
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1318173](https://bugzil.la/1318173)        | eme-free win32 pl repackage, repackage-l10n win64 pt-PT failed hg clone | True | True |
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | partials es-MX win64 timed out during clamav update | True | True |
+| asasaki  | 3 | [bug none](https://bugzil.la/none)        | UV timeouts (force kill container after 3600 seconds) | False | True |
 
