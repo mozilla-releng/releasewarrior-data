@@ -47,6 +47,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "description": "partials es-MX win64 timed out during clamav update",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }
