@@ -26,5 +26,5 @@ export PUSH_TASK_ID=BojoOLA9TF6N9TiCH7vHuQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1318173](https://bugzil.la/1318173)        | eme-free win32 pl repackage, repackage-l10n win64 pt-PT failed hg clone | True | True |
-| asasaki  | 2 | [bug none](https://bugzil.la/none)        | partials es-MX win64 timed out during clamav update | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | partials es-MX win64 timed out during clamav update | True | True |
 
