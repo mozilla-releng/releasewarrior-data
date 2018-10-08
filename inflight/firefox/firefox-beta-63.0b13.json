@@ -45,7 +45,7 @@
                     "bug": "1318173",
                     "description": "eme-free win32 pl repackage, repackage-l10n win64 pt-PT failed hg clone",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
