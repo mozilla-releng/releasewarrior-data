@@ -1,0 +1,109 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-10-04",
+            "future_threats": [
+                {
+                    "bug": "1496480",
+                    "buildnum": 1,
+                    "description": "thunderbird fix broke firefox update verify config",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "1496480",
+                    "buildnum": 2,
+                    "description": "thunderbird fix broke firefox update verify config",
+                    "future_threat": false,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "snap push failed",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "63.0b12"
+        },
+        {
+            "date": "2018-10-04",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b12"
+        },
+        {
+            "date": "2018-10-08",
+            "future_threats": [
+                {
+                    "bug": "1318173",
+                    "buildnum": 1,
+                    "description": "eme-free win32 pl repackage, repackage-l10n win64 pt-PT failed hg clone",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "partials es-MX win64 timed out during clamav update",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "UV timeouts (force kill container after 3600 seconds)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "63.0b13"
+        },
+        {
+            "date": "2018-10-08",
+            "future_threats": [
+                {
+                    "bug": "1371378",
+                    "buildnum": 1,
+                    "description": "hg clone failed grabbing bundle for l10n e8T1mdOkQQm45DJ3pSNQyw",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "UV timeouts (force kill container after 3600 seconds)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b13"
+        },
+        {
+            "date": "2018-10-08",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "63.0b13"
+        }
+    ],
+    "date": "2018-10-11"
+}
