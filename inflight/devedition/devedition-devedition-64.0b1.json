@@ -38,6 +38,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "1499204",
+                    "description": "hg push to beta timed out",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }
