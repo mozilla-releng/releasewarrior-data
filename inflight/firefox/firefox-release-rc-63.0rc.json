@@ -72,7 +72,7 @@
                     "bug": "none",
                     "description": "missing shipit-dev scope; the mark-as-started task should point at production for esr and release",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
