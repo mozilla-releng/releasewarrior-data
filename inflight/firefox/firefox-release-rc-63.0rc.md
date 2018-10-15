@@ -27,4 +27,5 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | rr3 not running | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | missing shipit-dev scope; the mark-as-started task should point at production for esr and release | False | True |
 
