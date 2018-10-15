@@ -22,5 +22,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug 1499217](https://bugzil.la/1499217)        | no ssh key on bm01; had to push l10n bump manually | False | True |
+| asasaki  | 1 | [bug 1499217](https://bugzil.la/1499217)        | no ssh key on bm01; had to push l10n bump manually | True | True |
 

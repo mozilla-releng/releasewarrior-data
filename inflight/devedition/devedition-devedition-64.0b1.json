@@ -36,7 +36,7 @@
                     "bug": "1499217",
                     "description": "no ssh key on bm01; had to push l10n bump manually",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
