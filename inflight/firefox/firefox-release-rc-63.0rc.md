@@ -31,4 +31,5 @@ export PROMOTE_RC_TASK_ID=Xei1zndyT_Ov6arEk1doTw
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | missing shipit-dev scope; the mark-as-started task should point at production for esr and release | True | True |
 | asasaki  | 3 | [bug none](https://bugzil.la/none)        | cron-check-bouncer is running in the release graph, including devedition | True | True |
 | asasaki  | 4 | [bug none](https://bugzil.la/none)        | linux64 l10n lij upload issue? script exited fine, task failed, missing a tarball | True | True |
+| asasaki  | 5 | [bug none](https://bugzil.la/none)        | hg clone issue again | False | True |
 
