@@ -24,5 +24,5 @@ task graph url: unknown
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1499217](https://bugzil.la/1499217)        | no ssh key on bm01; had to push l10n bump manually | True | True |
 | asasaki  | 2 | [bug 1499204](https://bugzil.la/1499204)        | hg push to beta timed out | True | True |
-| asasaki  | 3 | [bug none](https://bugzil.la/none)        | shipit v2 doesn't have user friendly docs for relman | False | True |
+| asasaki  | 3 | [bug none](https://bugzil.la/none)        | shipit v2 doesn't have user friendly docs for relman | True | True |
 

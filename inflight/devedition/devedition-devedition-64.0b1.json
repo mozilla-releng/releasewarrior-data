@@ -50,7 +50,7 @@
                     "bug": "none",
                     "description": "shipit v2 doesn't have user friendly docs for relman",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
