@@ -79,7 +79,7 @@
                     "bug": "none",
                     "description": "cron-check-bouncer is running in the release graph, including devedition",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
