@@ -93,7 +93,7 @@
                     "bug": "none",
                     "description": "hg clone issue again",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
