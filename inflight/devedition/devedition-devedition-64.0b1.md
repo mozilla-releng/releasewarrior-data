@@ -23,5 +23,5 @@ task graph url: unknown
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug 1499217](https://bugzil.la/1499217)        | no ssh key on bm01; had to push l10n bump manually | True | True |
-| asasaki  | 2 | [bug 1499204](https://bugzil.la/1499204)        | hg push to beta timed out | False | True |
+| asasaki  | 2 | [bug 1499204](https://bugzil.la/1499204)        | hg push to beta timed out | True | True |
 
