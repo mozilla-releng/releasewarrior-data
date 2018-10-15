@@ -22,5 +22,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | mergeday config has ssh issue with esr; works for beta | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | mergeday config has ssh issue with esr; works for beta | True | True |
 
