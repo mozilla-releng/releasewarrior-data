@@ -64,8 +64,8 @@
                 {
                     "bug": "none",
                     "description": "rr3 not running",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {

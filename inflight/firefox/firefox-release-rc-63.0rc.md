@@ -27,7 +27,7 @@ export PROMOTE_RC_TASK_ID=Xei1zndyT_Ov6arEk1doTw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | rr3 not running | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | rr3 not running | True | False |
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | missing shipit-dev scope; the mark-as-started task should point at production for esr and release | False | True |
 | asasaki  | 3 | [bug none](https://bugzil.la/none)        | cron-check-bouncer is running in the release graph, including devedition | False | True |
 
