@@ -10,7 +10,7 @@
                     "alias": "shipit",
                     "description": "submit to Shipit",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "ship-rc",
