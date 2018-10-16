@@ -31,4 +31,5 @@ export SHIP_TASK_ID=GjMZ3aWVT6qaaVRs3WZ8ug
 | asasaki  | 2 | [bug 1499204](https://bugzil.la/1499204)        | hg push to beta timed out | True | True |
 | asasaki  | 3 | [bug none](https://bugzil.la/none)        | shipit v2 doesn't have user friendly docs for relman | True | True |
 | nthomas  | 4 | [bug none](https://bugzil.la/none)        | UV timeouts (force kill container after 3600 seconds) | True | True |
+| garbas  | 5 | [bug 1499440](https://bugzil.la/1499440)        | no mark-as-started task in promote_devedition | False | True |
 
