@@ -26,5 +26,5 @@ export PROMOTE_TASK_ID=H6yyeskzSGGB4z-X-ixneQ
 | asasaki  | 1 | [bug 1499217](https://bugzil.la/1499217)        | no ssh key on bm01; had to push l10n bump manually | True | False |
 | asasaki  | 2 | [bug 1499204](https://bugzil.la/1499204)        | hg push to beta timed out | True | True |
 | asasaki  | 3 | [bug none](https://bugzil.la/none)        | shipit v2 doesn't have user friendly docs for relman | True | True |
-| nthomas  | 4 | [bug none](https://bugzil.la/none)        | UV timeouts (force kill container after 3600 seconds) | False | True |
+| nthomas  | 4 | [bug none](https://bugzil.la/none)        | UV timeouts (force kill container after 3600 seconds) | True | True |
 
