@@ -77,7 +77,7 @@
                     "bug": "1499440",
                     "description": "no mark-as-started task in promote_devedition",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "garbas"
                 }
             ]
