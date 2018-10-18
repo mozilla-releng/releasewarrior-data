@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=QSXPcjUcTHugp6nLq0-1WQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | ryanvm got auth failures on shipit v2 but was successful creating the release/graph | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | ryanvm got auth failures on shipit v2 but was successful creating the release/graph | True | True |
 
