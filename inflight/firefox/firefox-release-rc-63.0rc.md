@@ -28,7 +28,7 @@ export PROMOTE_RC_TASK_ID=SObDu5XHQTGgFHTOz4IuXQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | release-mark-as-started bustage; known; fix landing | True | False |
-| asasaki  | 2 | [bug none](https://bugzil.la/none)        | hg issue for UpSVfWizQsCldgTfs_w-jQ | False | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | hg issue for UpSVfWizQsCldgTfs_w-jQ | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 

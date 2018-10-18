@@ -72,7 +72,7 @@
                     "bug": "none",
                     "description": "hg issue for UpSVfWizQsCldgTfs_w-jQ",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
