@@ -1,0 +1,82 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-10-11",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "63.0b14"
+        },
+        {
+            "date": "2018-10-11",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "63.0b14"
+        },
+        {
+            "date": "2018-10-11",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "63.0b1"
+        },
+        {
+            "date": "2018-10-15",
+            "future_threats": [
+                {
+                    "bug": "1499204",
+                    "buildnum": 1,
+                    "description": "hg push to beta timed out",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "shipit v2 doesn't have user friendly docs for relman",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "UV timeouts (force kill container after 3600 seconds)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "1499440",
+                    "buildnum": 1,
+                    "description": "no mark-as-started task in promote_devedition",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "garbas"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1499217",
+                    "buildnum": 1,
+                    "description": "no ssh key on bm01; had to push l10n bump manually",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "64.0b1"
+        },
+        {
+            "date": "2018-10-15",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "63.0b15"
+        }
+    ],
+    "date": "2018-10-18"
+}
