@@ -3,7 +3,7 @@
 ### Date of go-to-build: 2018-10-18
 
 ## Preflight tasks (pre go-to-build)
-- none
+- [ ] 1. due:2018-12-03 - [bug 1499440](https://bugzil.la/1499440): Check Ship-it v2 rollout to release branches for the sanity of mark-as-started task. Read bug 1499440 comment 11
 
 ## Build 1  
 
