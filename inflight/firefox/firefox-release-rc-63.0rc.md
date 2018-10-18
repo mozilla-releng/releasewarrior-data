@@ -27,7 +27,7 @@ export PROMOTE_RC_TASK_ID=SObDu5XHQTGgFHTOz4IuXQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | release-mark-as-started bustage; known; fix landing | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
