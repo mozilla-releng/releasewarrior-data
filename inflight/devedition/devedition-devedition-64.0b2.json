@@ -50,6 +50,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "asasaki"
+                },
+                {
+                    "bug": "1486554",
+                    "description": "static analysis on windows builds caused windows build timeouts; probably need a build 2",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
                 }
             ]
         }
