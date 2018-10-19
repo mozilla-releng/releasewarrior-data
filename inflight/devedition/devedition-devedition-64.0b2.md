@@ -24,4 +24,5 @@ export PROMOTE_TASK_ID=QSXPcjUcTHugp6nLq0-1WQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | ryanvm got auth failures on shipit v2 but was successful creating the release/graph | True | True |
+| asasaki  | 2 | [bug none](https://bugzil.la/none)        | linux UV timeouts EeMZ1uCwQ8WWK_yP2gbrJw NAuNEH3ERSW0kA_ShsbW9Q DeHS-aDITYq2MIHEZ_VLOw | False | True |
 
