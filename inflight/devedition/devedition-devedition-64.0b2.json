@@ -66,7 +66,7 @@
                     "bug": "none",
                     "description": "release-bouncer-check-devedition hit 404s from CDN immediately after push",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
