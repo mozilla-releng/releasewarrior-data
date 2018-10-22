@@ -49,7 +49,7 @@
                     "who": "asasaki"
                 },
                 {
-                    "bug": "none",
+                    "bug": "1501113",
                     "description": "concurrent partial generation has race conditions due to shared cache",
                     "future_threat": true,
                     "resolved": false,
