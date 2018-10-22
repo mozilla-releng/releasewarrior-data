@@ -63,7 +63,7 @@
                     "bug": "1486554",
                     "description": "static analysis on windows builds caused windows build timeouts; had to bump ec2 instance types to c5",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 },
                 {
