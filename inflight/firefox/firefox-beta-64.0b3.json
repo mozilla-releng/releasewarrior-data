@@ -40,7 +40,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "rerun EtMs1b3vT1i7hhZ6kbtsgA",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "asasaki"
+                }
+            ]
         }
     ],
     "preflight": {
