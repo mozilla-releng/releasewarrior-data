@@ -33,7 +33,7 @@
                     "bug": "none",
                     "description": "accidental ship; we may need ship to be a different color or multi signoff or ?",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]

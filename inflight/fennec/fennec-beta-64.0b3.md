@@ -23,5 +23,5 @@ export SHIP_TASK_ID=JA_ewbTaQk-r5fG7uFXS5g
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | accidental ship; we may need ship to be a different color or multi signoff or ? | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | accidental ship; we may need ship to be a different color or multi signoff or ? | True | True |
 
