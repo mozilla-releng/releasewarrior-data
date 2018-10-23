@@ -43,7 +43,7 @@
                     "bug": "1500897",
                     "description": "I cancelled beetmover-geckoview tasks because they must only be released off a dedicated RELBRANCH",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlorenzo"
                 }
             ]

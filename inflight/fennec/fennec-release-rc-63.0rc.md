@@ -26,7 +26,7 @@ export SHIP_TASK_ID=aUFuHBj0QZeHB8jFxwSymA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlorenzo  | 1 | [bug 1500897](https://bugzil.la/1500897)        | I cancelled beetmover-geckoview tasks because they must only be released off a dedicated RELBRANCH | False | True |
+| jlorenzo  | 1 | [bug 1500897](https://bugzil.la/1500897)        | I cancelled beetmover-geckoview tasks because they must only be released off a dedicated RELBRANCH | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
