@@ -25,6 +25,6 @@ export PUSH_TASK_ID=LHajgRahR5mDVuAoRtg10A
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| asasaki  | 1 | [bug none](https://bugzil.la/none)        | rerun EtMs1b3vT1i7hhZ6kbtsgA, YETuIdBuQpuvb1lXUCbHxg x2, also https://bugzilla.mozilla.org/attachment.cgi?id=9019197 | False | True |
+| asasaki  | 1 | [bug none](https://bugzil.la/none)        | rerun EtMs1b3vT1i7hhZ6kbtsgA, YETuIdBuQpuvb1lXUCbHxg x2, also https://bugzilla.mozilla.org/attachment.cgi?id=9019197 | True | True |
 | asasaki  | 2 | [bug 1501113](https://bugzil.la/1501113)        | concurrent partial generation has race conditions due to shared cache. had to purge caches in bug 1501131 | False | True |
 
