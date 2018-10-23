@@ -58,8 +58,8 @@
                 {
                     "bug": "1501141",
                     "description": "final verify not actually testing anything, then just testing mac",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
