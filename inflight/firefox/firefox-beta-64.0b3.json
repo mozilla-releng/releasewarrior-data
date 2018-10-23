@@ -43,14 +43,14 @@
             "issues": [
                 {
                     "bug": "none",
-                    "description": "rerun EtMs1b3vT1i7hhZ6kbtsgA, YETuIdBuQpuvb1lXUCbHxg x2,",
+                    "description": "rerun EtMs1b3vT1i7hhZ6kbtsgA, YETuIdBuQpuvb1lXUCbHxg x2, also https://bugzilla.mozilla.org/attachment.cgi?id=9019197",
                     "future_threat": true,
                     "resolved": false,
                     "who": "asasaki"
                 },
                 {
                     "bug": "1501113",
-                    "description": "concurrent partial generation has race conditions due to shared cache",
+                    "description": "concurrent partial generation has race conditions due to shared cache. had to purge caches in bug 1501131",
                     "future_threat": true,
                     "resolved": false,
                     "who": "asasaki"
