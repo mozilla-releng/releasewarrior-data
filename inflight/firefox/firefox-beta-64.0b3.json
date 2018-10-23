@@ -52,7 +52,7 @@
                     "bug": "1501113",
                     "description": "concurrent partial generation has race conditions due to shared cache. had to purge caches in bug 1501131",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "asasaki"
                 }
             ]
