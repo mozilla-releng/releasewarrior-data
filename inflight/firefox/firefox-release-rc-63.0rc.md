@@ -33,6 +33,7 @@ export PUSH_TASK_ID=bgHpPUB2QZ2BcLZd7W5Zlw
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | asasaki  | 1 | [bug none](https://bugzil.la/none)        | release-mark-as-started bustage; known; fix landing | True | False |
 | asasaki  | 2 | [bug none](https://bugzil.la/none)        | hg issue for UpSVfWizQsCldgTfs_w-jQ | True | True |
+| nthomas  | 3 | [bug 1501141](https://bugzil.la/1501141)        | final verify not actually testing anything, then just testing mac | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
