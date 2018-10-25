@@ -1,6 +1,79 @@
 {
     "complete_releases": [
         {
+            "date": "2018-10-03",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "hg issue for UpSVfWizQsCldgTfs_w-jQ",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "missing shipit-dev scope; the mark-as-started task should point at production for esr and release",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "cron-check-bouncer is running in the release graph, including devedition",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "linux64 l10n lij upload issue? script exited fine, task failed, missing a tarball",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "hg clone issue again",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "release-mark-as-started bustage; known; fix landing",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                },
+                {
+                    "bug": "1501141",
+                    "buildnum": 2,
+                    "description": "final verify not actually testing anything, then just testing mac",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "nthomas"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "rr3 not running",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "asasaki"
+                }
+            ],
+            "version": "63.0rc"
+        },
+        {
             "date": "2018-10-15",
             "future_threats": [
                 {
