@@ -205,10 +205,6 @@
         }
     ],
     "preflight": {
-        "human_tasks": [
-            {
-            }
-        ]
     },
     "product": "firefox",
     "version": "63.0rc"
