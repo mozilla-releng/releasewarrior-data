@@ -75,7 +75,7 @@
                     "alias": "bouncer-election",
                     "description": "update firefox-election-edition bouncer urls on Friday Oct 24 after shipping",
                     "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1495844#c7",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
