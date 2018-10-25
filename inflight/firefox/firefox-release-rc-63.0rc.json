@@ -70,6 +70,12 @@
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#obtain-sign-offs-for-changes",
                     "resolved": true
+                },
+                {
+                    "alias": "bouncer-election",
+                    "description": "update firefox-election-edition bouncer urls on Friday Oct 24 after shipping",
+                    "docs": "https://bugzilla.mozilla.org/show_bug.cgi?id=1495844#c7",
+                    "resolved": false
                 }
             ],
             "issues": [
@@ -201,10 +207,6 @@
     "preflight": {
         "human_tasks": [
             {
-                "bug": "1495844",
-                "deadline": "2018-10-23",
-                "description": "We will need to update the firefox-election-edition bouncer URLs manually after shipping.",
-                "resolved": false
             }
         ]
     },
