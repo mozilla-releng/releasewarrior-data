@@ -25,5 +25,3 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 65.0b1](/upcoming/devedition/devedition-devedition-65.0b1.md)
 
-* [Firefox 62.0.4](/upcoming/firefox/firefox-release-62.0.4.md)
-
