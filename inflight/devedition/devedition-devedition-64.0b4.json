@@ -65,7 +65,7 @@
                     "bug": "none",
                     "description": "getting auth failure in shipit v2 for every write action",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
