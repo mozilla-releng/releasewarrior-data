@@ -50,6 +50,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "Partials failed due to worker not finding some artifacts [ar6QtOrGSn-X0RSDh7rHiw](https://tools.taskcluster.net/groups/R7VfTN0PTUSEPMuVzsM5LQ/tasks/ar6QtOrGSn-X0RSDh7rHiw/runs/0)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         }
