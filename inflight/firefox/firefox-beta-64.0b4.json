@@ -3,59 +3,6 @@
     "inflight": [
         {
             "aborted": false,
-            "buildnum": 3,
-            "graphids": [
-                [
-                    "promote",
-                    "Qk6NbeZST-WjcoW6Umc3mQ"
-                ]
-            ],
-            "human_tasks": [
-                {
-                    "alias": "shipit",
-                    "description": "submit to Shipit",
-                    "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Starting_a_Release#Submit_to_Ship_It",
-                    "resolved": true
-                },
-                {
-                    "alias": "mirrors",
-                    "description": "pushed to mirrors/releases",
-                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#push-artifacts-to-releases-directory",
-                    "resolved": false
-                },
-                {
-                    "alias": "ship",
-                    "description": "schedule the release for shipping",
-                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
-                    "resolved": false
-                },
-                {
-                    "alias": "signoff",
-                    "description": "signoff in Balrog",
-                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
-                    "resolved": false
-                }
-            ],
-            "issues": [
-                {
-                    "bug": "1502234",
-                    "description": "beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context in bug",
-                    "future_threat": true,
-                    "id": 1,
-                    "resolved": false,
-                    "who": "jlund"
-                },
-                {
-                    "bug": "none",
-                    "description": "intermittent beetmover failure (cot?) [LCnvgFdJQUSIfyvyblXqCw](https://tools.taskcluster.net/groups/LCnvgFdJQUSIfyvyblXqCw/tasks/etDTWz_dQ4OfDvxUKipSQA/runs/0)",
-                    "future_threat": true,
-                    "resolved": false,
-                    "who": "callek"
-                }
-            ]
-        },
-        {
-            "aborted": true,
             "buildnum": 2,
             "graphids": [
                 [
