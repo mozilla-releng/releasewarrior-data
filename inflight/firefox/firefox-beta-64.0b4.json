@@ -49,7 +49,7 @@
                     "bug": "none",
                     "description": "intermittent beetmover failure (cot?) [LCnvgFdJQUSIfyvyblXqCw](https://tools.taskcluster.net/groups/LCnvgFdJQUSIfyvyblXqCw/tasks/etDTWz_dQ4OfDvxUKipSQA/runs/0)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 },
                 {
