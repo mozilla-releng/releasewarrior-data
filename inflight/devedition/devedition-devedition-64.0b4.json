@@ -42,7 +42,7 @@
                     "description": "beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context",
                     "future_threat": true,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 },
                 {
