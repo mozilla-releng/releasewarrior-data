@@ -24,4 +24,5 @@ export PROMOTE_TASK_ID=R7VfTN0PTUSEPMuVzsM5LQ
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1502234](https://bugzil.la/1502234)        | beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context | False | True |
+| jlund  | 2 | [bug 1502245](https://bugzil.la/1502245)        | release-early-tagging tasks between devedition and beta may race pushing to m-b | False | True |
 

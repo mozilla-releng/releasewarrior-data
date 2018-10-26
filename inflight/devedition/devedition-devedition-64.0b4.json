@@ -43,6 +43,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "jlund"
+                },
+                {
+                    "bug": "1502245",
+                    "description": "release-early-tagging tasks between devedition and beta may race pushing to m-b",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         }
