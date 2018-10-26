@@ -60,6 +60,13 @@
                     "id": 3,
                     "resolved": true,
                     "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "description": "getting auth failure in shipit v2 for every write action",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         },
