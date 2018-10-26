@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=LCnvgFdJQUSIfyvyblXqCw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1502234](https://bugzil.la/1502234)        | beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context in bug | False | True |
 
