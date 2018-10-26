@@ -51,6 +51,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "callek"
+                },
+                {
+                    "bug": "1502269",
+                    "description": "Update Verify task still running even after it exceeded maxruntime",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
                 }
             ]
         },

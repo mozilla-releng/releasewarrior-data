@@ -25,6 +25,7 @@ export PROMOTE_TASK_ID=SjVFa0xFSqe78-GZj-becQ
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1502234](https://bugzil.la/1502234)        | beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context in bug | False | True |
 | callek  | 2 | [bug none](https://bugzil.la/none)        | intermittent beetmover failure (cot?) [LCnvgFdJQUSIfyvyblXqCw](https://tools.taskcluster.net/groups/LCnvgFdJQUSIfyvyblXqCw/tasks/etDTWz_dQ4OfDvxUKipSQA/runs/0) | False | True |
+| jlund  | 3 | [bug 1502269](https://bugzil.la/1502269)        | Update Verify task still running even after it exceeded maxruntime | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
