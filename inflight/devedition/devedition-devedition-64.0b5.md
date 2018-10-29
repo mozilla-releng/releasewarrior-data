@@ -24,4 +24,5 @@ export PROMOTE_TASK_ID=Iq_-lbMjQ2q0HwAnw8Jnww
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | callek  | 1 | [bug none](https://bugzil.la/none)        | Devedition win repackage task failed abruptly during hg clone TvuyP76vTXKhhcCz0V_lxg Ck6mGfR4SaW9Y1sYH4-MKg | False | True |
+| callek  | 2 | [bug none](https://bugzil.la/none)        | Nightly l10n repack failed (AGZmNx0dTxuMVO-uqIPwkw) | False | True |
 

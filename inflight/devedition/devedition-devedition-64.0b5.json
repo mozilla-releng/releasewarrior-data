@@ -43,6 +43,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "description": "Nightly l10n repack failed (AGZmNx0dTxuMVO-uqIPwkw)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         }
