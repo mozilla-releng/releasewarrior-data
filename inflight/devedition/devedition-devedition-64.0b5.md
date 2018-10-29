@@ -25,4 +25,5 @@ export PROMOTE_TASK_ID=Iq_-lbMjQ2q0HwAnw8Jnww
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | callek  | 1 | [bug none](https://bugzil.la/none)        | Devedition win repackage task failed abruptly during hg clone TvuyP76vTXKhhcCz0V_lxg Ck6mGfR4SaW9Y1sYH4-MKg | False | True |
 | callek  | 2 | [bug none](https://bugzil.la/none)        | Nightly l10n repack failed (AGZmNx0dTxuMVO-uqIPwkw) | False | True |
+| callek  | 3 | [bug none](https://bugzil.la/none)        | HTTP 500 from hg.mozilla.org - (BAXgayU9TiCJZ7lnqlKAFQ, fp-ocBgiR4erE2oqwcS5EQ, XiHoxaImSXOjqfY26TCY6w, PhqnO_s9R26Y45JNKkazdQ, O4lKlbzvSVu9oVzw5afdPw) | False | True |
 

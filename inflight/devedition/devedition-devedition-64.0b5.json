@@ -50,6 +50,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "description": "HTTP 500 from hg.mozilla.org - (BAXgayU9TiCJZ7lnqlKAFQ, fp-ocBgiR4erE2oqwcS5EQ, XiHoxaImSXOjqfY26TCY6w, PhqnO_s9R26Y45JNKkazdQ, O4lKlbzvSVu9oVzw5afdPw)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         }
