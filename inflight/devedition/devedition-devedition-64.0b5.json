@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Devedition win repackage task failed abruptly during hg clone TvuyP76vTXKhhcCz0V_lxg Ck6mGfR4SaW9Y1sYH4-MKg",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
