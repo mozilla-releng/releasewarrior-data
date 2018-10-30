@@ -42,7 +42,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build2",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ]
         }
     ],
     "preflight": {

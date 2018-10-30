@@ -24,5 +24,5 @@ export PROMOTE_TASK_ID=bKu596bqSRC1Lmd67jJj_A
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build2 | False | True |
 
