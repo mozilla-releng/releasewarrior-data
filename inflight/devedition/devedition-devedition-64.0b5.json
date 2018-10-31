@@ -41,21 +41,21 @@
                     "bug": "none",
                     "description": "Devedition win repackage task failed abruptly during hg clone TvuyP76vTXKhhcCz0V_lxg Ck6mGfR4SaW9Y1sYH4-MKg",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 },
                 {
-                    "bug": "none",
+                    "bug": "1503464",
                     "description": "Nightly l10n repack failed (AGZmNx0dTxuMVO-uqIPwkw)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 },
                 {
                     "bug": "none",
                     "description": "HTTP 500 from hg.mozilla.org - (BAXgayU9TiCJZ7lnqlKAFQ, fp-ocBgiR4erE2oqwcS5EQ, XiHoxaImSXOjqfY26TCY6w, PhqnO_s9R26Y45JNKkazdQ, O4lKlbzvSVu9oVzw5afdPw)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
