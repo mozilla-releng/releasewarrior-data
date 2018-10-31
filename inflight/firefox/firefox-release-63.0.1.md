@@ -24,7 +24,7 @@ export PROMOTE_TASK_ID=eAQCnoHFQtKgrtaNXSZTYA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build2 | False | True |
+| jlund  | 1 | [bug 1503430](https://bugzil.la/1503430)        | promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build1-4. see bug for resolution | True | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 

@@ -44,11 +44,11 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
-                    "description": "promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build2",
+                    "bug": "1503430",
+                    "description": "promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build1-4. see bug for resolution",
                     "future_threat": true,
                     "id": 1,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
