@@ -27,6 +27,7 @@ export PROMOTE_TASK_ID=eAQCnoHFQtKgrtaNXSZTYA
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug 1503430](https://bugzil.la/1503430)        | promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build1-4. see bug for resolution | True | True |
 | callek  | 2 | [bug none](https://bugzil.la/none)        | hg clone issue getting clonebundle from s3 (N4FUF0XYSD6NF88NetNxug) | True | True |
+| callek  | 3 | [bug none](https://bugzil.la/none)        | using 'release wnp_blob' for 63.0.1 build 4 was finding build 3 and erroring because of lack of locale lists | False | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 
