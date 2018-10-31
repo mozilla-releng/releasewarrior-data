@@ -70,6 +70,13 @@
                     "future_threat": true,
                     "resolved": true,
                     "who": "callek"
+                },
+                {
+                    "bug": "1495714",
+                    "description": "Release Blob gets corrupted when manually updated",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         },
