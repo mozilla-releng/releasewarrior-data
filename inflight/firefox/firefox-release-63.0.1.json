@@ -68,7 +68,7 @@
                     "bug": "none",
                     "description": "using 'release wnp_blob' for 63.0.1 build 4 was finding build 3 and erroring because of lack of locale lists",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
