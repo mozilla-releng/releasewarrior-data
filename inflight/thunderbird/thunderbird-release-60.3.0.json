@@ -21,7 +21,7 @@
                     "alias": "mirrors",
                     "description": "pushed to mirrors/releases",
                     "docs": "https://wiki.mozilla.org/Release:Release_Automation_on_Mercurial:Updates#Push_to_mirrors",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "publish",
