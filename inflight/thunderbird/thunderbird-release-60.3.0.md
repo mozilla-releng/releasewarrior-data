@@ -26,7 +26,7 @@ export PUSH_TASK_ID=PTV4SsQoQOywZhAH4cKcxA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | version bump failed due to hg.m.o cert misconfig | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
