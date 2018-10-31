@@ -33,7 +33,7 @@ export SHIP_TASK_ID=Ks9Gohi0TrG-K18VG0eqNg
 | callek  | 2 | [bug none](https://bugzil.la/none)        | hg clone issue getting clonebundle from s3 (N4FUF0XYSD6NF88NetNxug) | True | True |
 | callek  | 3 | [bug none](https://bugzil.la/none)        | using 'release wnp_blob' for 63.0.1 build 4 was finding build 3 and erroring because of lack of locale lists | True | True |
 | callek  | 4 | [bug 1495714](https://bugzil.la/1495714)        | Release Blob gets corrupted when manually updated | True | True |
-| callek  | 5 | [bug 1495464](https://bugzil.la/1495464)        | Treescript worker hard codes hgrc which meant todays hgfingerprint swap broke it, rectified with a swap in hardcoded file and deploy. Long term solution pending someone working on [Issue 12](https://github.com/mozilla-releng/treescript/issues/12) | False | True |
+| callek  | 5 | [bug 1495464](https://bugzil.la/1495464)        | Treescript worker hard codes hgrc which meant todays hgfingerprint swap broke it, rectified with a swap in hardcoded file and deploy. Long term solution pending someone working on [Issue 12](https://github.com/mozilla-releng/treescript/issues/12) | True | True |
 
 ## Build 3  :bomb: _aborted release. starting new build num_ :bomb: 
 

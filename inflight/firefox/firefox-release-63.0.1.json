@@ -90,7 +90,7 @@
                     "bug": "1495464",
                     "description": "Treescript worker hard codes hgrc which meant todays hgfingerprint swap broke it, rectified with a swap in hardcoded file and deploy. Long term solution pending someone working on [Issue 12](https://github.com/mozilla-releng/treescript/issues/12)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
