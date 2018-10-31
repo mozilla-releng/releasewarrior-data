@@ -58,7 +58,7 @@
                     "bug": "none",
                     "description": "rw tracking docs used old buildbot docs. perhaps when created, rw repo was stale?",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]

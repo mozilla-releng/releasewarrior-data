@@ -27,7 +27,7 @@ export PUSH_TASK_ID=PTV4SsQoQOywZhAH4cKcxA
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | jlund  | 1 | [bug none](https://bugzil.la/none)        | version bump failed due to hg.m.o cert misconfig | True | True |
-| jlund  | 2 | [bug none](https://bugzil.la/none)        | rw tracking docs used old buildbot docs. perhaps when created, rw repo was stale? | False | True |
+| jlund  | 2 | [bug none](https://bugzil.la/none)        | rw tracking docs used old buildbot docs. perhaps when created, rw repo was stale? | True | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
