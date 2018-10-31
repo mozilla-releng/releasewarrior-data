@@ -56,6 +56,13 @@
                     "id": 1,
                     "resolved": true,
                     "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "description": "hg clone issue getting clonebundle from s3 (N4FUF0XYSD6NF88NetNxug)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         },
