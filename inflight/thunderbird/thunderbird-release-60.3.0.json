@@ -51,7 +51,7 @@
                     "bug": "none",
                     "description": "version bump failed due to hg.m.o cert misconfig",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 },
                 {
