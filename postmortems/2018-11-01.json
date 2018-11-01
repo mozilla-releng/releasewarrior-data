@@ -1,0 +1,273 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-10-25",
+            "future_threats": [
+                {
+                    "bug": "1502234",
+                    "buildnum": 2,
+                    "description": "beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context in bug",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "intermittent beetmover failure (cot?) [LCnvgFdJQUSIfyvyblXqCw](https://tools.taskcluster.net/groups/LCnvgFdJQUSIfyvyblXqCw/tasks/etDTWz_dQ4OfDvxUKipSQA/runs/0)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1502269",
+                    "buildnum": 2,
+                    "description": "Update Verify task still running even after it exceeded maxruntime",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1502234",
+                    "buildnum": 1,
+                    "description": "beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context in bug",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "intermittent beetmover failure (cot?) [LCnvgFdJQUSIfyvyblXqCw](https://tools.taskcluster.net/groups/LCnvgFdJQUSIfyvyblXqCw/tasks/etDTWz_dQ4OfDvxUKipSQA/runs/0)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b4"
+        },
+        {
+            "date": "2018-10-25",
+            "future_threats": [
+                {
+                    "bug": "1502234",
+                    "buildnum": 2,
+                    "description": "beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1502245",
+                    "buildnum": 2,
+                    "description": "release-early-tagging tasks between devedition and beta may race pushing to m-b",
+                    "future_threat": true,
+                    "id": 2,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "Partials failed due to worker not finding some artifacts [ar6QtOrGSn-X0RSDh7rHiw](https://tools.taskcluster.net/groups/R7VfTN0PTUSEPMuVzsM5LQ/tasks/ar6QtOrGSn-X0RSDh7rHiw/runs/0)",
+                    "future_threat": true,
+                    "id": 3,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "getting auth failure in shipit v2 for every write action",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1502234",
+                    "buildnum": 1,
+                    "description": "beta l10n is broken for locale be and lij. needed manual l10n-changesets.json bump due to l10n typo. build2. more context",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "1502245",
+                    "buildnum": 1,
+                    "description": "release-early-tagging tasks between devedition and beta may race pushing to m-b",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Partials failed due to worker not finding some artifacts [ar6QtOrGSn-X0RSDh7rHiw](https://tools.taskcluster.net/groups/R7VfTN0PTUSEPMuVzsM5LQ/tasks/ar6QtOrGSn-X0RSDh7rHiw/runs/0)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b4"
+        },
+        {
+            "date": "2018-10-25",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b4"
+        },
+        {
+            "date": "2018-10-29",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b5"
+        },
+        {
+            "date": "2018-10-29",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Devedition win repackage task failed abruptly during hg clone TvuyP76vTXKhhcCz0V_lxg Ck6mGfR4SaW9Y1sYH4-MKg",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1503464",
+                    "buildnum": 1,
+                    "description": "Nightly l10n repack failed (AGZmNx0dTxuMVO-uqIPwkw)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "HTTP 500 from hg.mozilla.org - (BAXgayU9TiCJZ7lnqlKAFQ, fp-ocBgiR4erE2oqwcS5EQ, XiHoxaImSXOjqfY26TCY6w, PhqnO_s9R26Y45JNKkazdQ, O4lKlbzvSVu9oVzw5afdPw)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b5"
+        },
+        {
+            "date": "2018-10-29",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b5"
+        },
+        {
+            "date": "2018-10-29",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "version bump failed due to hg.m.o cert misconfig",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "rw tracking docs used old buildbot docs. perhaps when created, rw repo was stale?",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.3.0"
+        },
+        {
+            "date": "2018-10-30",
+            "future_threats": [
+                {
+                    "bug": "1503430",
+                    "buildnum": 4,
+                    "description": "promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build1-4. see bug for resolution",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": true,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 4,
+                    "description": "hg clone issue getting clonebundle from s3 (N4FUF0XYSD6NF88NetNxug)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 4,
+                    "description": "using 'release wnp_blob' for 63.0.1 build 4 was finding build 3 and erroring because of lack of locale lists",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1495714",
+                    "buildnum": 4,
+                    "description": "Release Blob gets corrupted when manually updated",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1495464",
+                    "buildnum": 4,
+                    "description": "Treescript worker hard codes hgrc which meant todays hgfingerprint swap broke it, rectified with a swap in hardcoded file and deploy. Long term solution pending someone working on [Issue 12](https://github.com/mozilla-releng/treescript/issues/12)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build2",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 2,
+                    "description": "promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build2",
+                    "future_threat": true,
+                    "id": 1,
+                    "resolved": false,
+                    "who": "jlund"
+                },
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "promotion action task timed out. may have submitted graph anyway. second run, run1 also hung. cancelled graph and triggered build2",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "63.0.1"
+        }
+    ],
+    "date": "2018-11-01"
+}
