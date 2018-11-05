@@ -8,9 +8,10 @@
 ## Build 1  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/GiCa-o5PSf-XSGYAV2JWTQ) GiCa-o5PSf-XSGYAV2JWTQ
 ```
+export PROMOTE_TASK_ID=GiCa-o5PSf-XSGYAV2JWTQ
 ```
-task graph url: unknown
 
 
 #### Status
