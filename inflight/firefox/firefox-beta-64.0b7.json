@@ -41,7 +41,7 @@
                     "bug": "none",
                     "description": "\"Unsuccessful task run with exit code: 137\" from task Sipq5wstTP2zZpu5tqVjCw, repackage-l10n.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
