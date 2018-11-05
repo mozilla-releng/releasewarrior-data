@@ -27,5 +27,5 @@ export SHIP_TASK_ID=cnz2b8Q3RTizyqxaKumFag
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug none](https://bugzil.la/none)        | Failed to sign osx (after retries) R-PQKba6TQ-ImIVsbEUO9Q ca_G-DJLSliEOz5F4w292Q WDCNgOEGTCGlkNv0EsgLLQ Nw4vPP8XQXmSWytCxTENEQ JCVQRDoJQZOQgCnOaDm4gA Zxmzk1S1SDeLyDnli6oJow | False | True |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Failed to sign osx (after retries) R-PQKba6TQ-ImIVsbEUO9Q ca_G-DJLSliEOz5F4w292Q WDCNgOEGTCGlkNv0EsgLLQ Nw4vPP8XQXmSWytCxTENEQ JCVQRDoJQZOQgCnOaDm4gA Zxmzk1S1SDeLyDnli6oJow | True | True |
 

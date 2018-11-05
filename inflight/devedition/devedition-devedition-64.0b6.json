@@ -49,7 +49,7 @@
                     "bug": "none",
                     "description": "Failed to sign osx (after retries) R-PQKba6TQ-ImIVsbEUO9Q ca_G-DJLSliEOz5F4w292Q WDCNgOEGTCGlkNv0EsgLLQ Nw4vPP8XQXmSWytCxTENEQ JCVQRDoJQZOQgCnOaDm4gA Zxmzk1S1SDeLyDnli6oJow",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
