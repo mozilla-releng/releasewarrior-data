@@ -9,6 +9,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 64.0b6](/inflight/devedition/devedition-devedition-64.0b6.md)
 
+* [Devedition 64.0b7](/inflight/devedition/devedition-devedition-64.0b7.md)
+
 * [Fennec 64.0b6](/inflight/fennec/fennec-beta-64.0b6.md)
 
 * [Fennec 64.0b7](/inflight/fennec/fennec-beta-64.0b7.md)
@@ -20,8 +22,6 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 * [Thunderbird 64.0b1](/inflight/thunderbird/thunderbird-beta-64.0b1.md)
 
 **Upcoming**
-
-* [Devedition 64.0b7](/upcoming/devedition/devedition-devedition-64.0b7.md)
 
 * [Devedition 65.0b1](/upcoming/devedition/devedition-devedition-65.0b1.md)
 
