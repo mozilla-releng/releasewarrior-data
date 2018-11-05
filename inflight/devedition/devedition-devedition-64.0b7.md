@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=LcA-Z4FgQJSTcqDPvJ0m1Q
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Repackage-Signing (OP871SnEQ-6bOvd4cTJ9IQ) failed, due to CoT issues locating a target.complete.mar from task (BLHIEu4VSgik4pGHwDfClA) which despite being green did not have it. Reran both tasks to success. | False | True |
 
