@@ -41,7 +41,7 @@
                     "bug": "none",
                     "description": "Repackage-Signing (OP871SnEQ-6bOvd4cTJ9IQ) failed, due to CoT issues locating a target.complete.mar from task (BLHIEu4VSgik4pGHwDfClA) which despite being green did not have it. Reran both tasks to success.",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
