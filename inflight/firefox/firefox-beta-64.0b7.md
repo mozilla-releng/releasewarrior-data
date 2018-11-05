@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=VBpCS0u4Te2QeCvP1EouuQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | "Unsuccessful task run with exit code: 137" from task Sipq5wstTP2zZpu5tqVjCw, repackage-l10n. | False | True |
 
