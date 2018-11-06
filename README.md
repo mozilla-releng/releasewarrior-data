@@ -11,6 +11,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 64.0b7](/inflight/devedition/devedition-devedition-64.0b7.md)
 
+* [Fennec 63.0.2](/inflight/fennec/fennec-release-63.0.2.md)
+
 * [Fennec 64.0b6](/inflight/fennec/fennec-beta-64.0b6.md)
 
 * [Fennec 64.0b7](/inflight/fennec/fennec-beta-64.0b7.md)
