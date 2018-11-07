@@ -28,7 +28,15 @@
                     "resolved": true
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Beetmover tasks failed relating to geckoview",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {
