@@ -30,7 +30,7 @@
             ],
             "issues": [
                 {
-                    "bug": "none",
+                    "bug": "1505514",
                     "description": "Beetmover tasks failed relating to geckoview",
                     "future_threat": true,
                     "resolved": false,
