@@ -7,8 +7,6 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
-* [Fennec 63.0.2](/inflight/fennec/fennec-release-63.0.2.md)
-
 * [Thunderbird 64.0b1](/inflight/thunderbird/thunderbird-beta-64.0b1.md)
 
 **Upcoming**
