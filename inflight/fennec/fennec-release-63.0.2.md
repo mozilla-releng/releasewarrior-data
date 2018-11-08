@@ -23,5 +23,5 @@ export SHIP_TASK_ID=fzkRkMt9SpOBW3yxqZK-aw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1505514](https://bugzil.la/1505514)        | Beetmover tasks failed relating to geckoview | False | True |
+| callek  | 1 | [bug 1505514](https://bugzil.la/1505514)        | Beetmover tasks failed relating to geckoview | True | True |
 
