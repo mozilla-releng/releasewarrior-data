@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=PoTTurpiQWelSpk06AoVpA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1504353](https://bugzil.la/1504353)        | Repackage-l10n failed with exit code 137 (Z0l8xFrrRRGyXhgRA9z_Eg) | False | True |
 
