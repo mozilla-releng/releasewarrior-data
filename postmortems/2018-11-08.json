@@ -1,0 +1,74 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-11-01",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b6"
+        },
+        {
+            "date": "2018-11-01",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Failed to sign osx (after retries) R-PQKba6TQ-ImIVsbEUO9Q ca_G-DJLSliEOz5F4w292Q WDCNgOEGTCGlkNv0EsgLLQ Nw4vPP8XQXmSWytCxTENEQ JCVQRDoJQZOQgCnOaDm4gA Zxmzk1S1SDeLyDnli6oJow",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b6"
+        },
+        {
+            "date": "2018-11-01",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b6"
+        },
+        {
+            "date": "2018-11-05",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "\"Unsuccessful task run with exit code: 137\" from task Sipq5wstTP2zZpu5tqVjCw, repackage-l10n.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b7"
+        },
+        {
+            "date": "2018-11-05",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Repackage-Signing (OP871SnEQ-6bOvd4cTJ9IQ) failed, due to CoT issues locating a target.complete.mar from task (BLHIEu4VSgik4pGHwDfClA) which despite being green did not have it. Reran both tasks to success.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b7"
+        },
+        {
+            "date": "2018-11-05",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b7"
+        }
+    ],
+    "date": "2018-11-08"
+}
