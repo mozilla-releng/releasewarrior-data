@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=ewtfeGF9Rp2pEaxZLd_Ang
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | clamav timed out in a partials task  (HEAdG8AJSGqASz8_GMTZcA) | False | True |
 
