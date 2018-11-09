@@ -9,8 +9,10 @@
 
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/ewtfeGF9Rp2pEaxZLd_Ang) ewtfeGF9Rp2pEaxZLd_Ang
+* [push](https://tools.taskcluster.net/push-inspector/#/ZJrGmBA1TYOqNJk5z2K2ow) ZJrGmBA1TYOqNJk5z2K2ow
 ```
 export PROMOTE_TASK_ID=ewtfeGF9Rp2pEaxZLd_Ang
+export PUSH_TASK_ID=ZJrGmBA1TYOqNJk5z2K2ow
 ```
 
 
@@ -23,5 +25,5 @@ export PROMOTE_TASK_ID=ewtfeGF9Rp2pEaxZLd_Ang
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | clamav timed out in a partials task  (HEAdG8AJSGqASz8_GMTZcA) | False | True |
+| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | clamav timed out in a partials task (HEAdG8AJSGqASz8_GMTZcA) | False | True |
 
