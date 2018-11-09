@@ -27,5 +27,5 @@ export SHIP_TASK_ID=R9ILdjCPSbi_wiZF0jZ-Vw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | clamav timed out in a partials task (HEAdG8AJSGqASz8_GMTZcA) | False | True |
+| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | clamav timed out in a partials task (HEAdG8AJSGqASz8_GMTZcA) | True | True |
 
