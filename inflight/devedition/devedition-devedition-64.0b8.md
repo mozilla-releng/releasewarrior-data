@@ -25,5 +25,5 @@ export PUSH_TASK_ID=XXrlx_ujT82Y7hhL77ZTaQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1504353](https://bugzil.la/1504353)        | Repackage-l10n failed with exit code 137 (Z0l8xFrrRRGyXhgRA9z_Eg) | False | True |
+| callek  | 1 | [bug 1504353](https://bugzil.la/1504353)        | Repackage-l10n failed with exit code 137 (Z0l8xFrrRRGyXhgRA9z_Eg) | True | True |
 

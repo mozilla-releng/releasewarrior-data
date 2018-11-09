@@ -45,7 +45,7 @@
                     "bug": "1504353",
                     "description": "Repackage-l10n failed with exit code 137 (Z0l8xFrrRRGyXhgRA9z_Eg)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
