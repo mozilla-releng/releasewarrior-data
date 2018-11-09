@@ -27,5 +27,5 @@ export SHIP_TASK_ID=Dg2w-QHZSIiiYLvGg9_t3w
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | sfraser  | 1 | [bug none](https://bugzil.la/none)        | Downloading parameters file failed on initial push script run. Timeouts to cloud mirrors. 2018-10-26 09:30:53,713 - WARNING - Retrying (Retry(total=4, connect=5, read=4, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='cloud-mirror.taskcluster.net', port=443): Read timed out. (read timeout=5)",)': /v1/redirect/s3/us-east-1/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Ftaskcluster-public-artifacts%2FeTrXoVR4Q9-332CNuO6tFA%2F0%2Fpublic%2Fparameters.yml | True | True |
-| jlund  | 2 | [bug 1481203](https://bugzil.la/1481203)        | shipit mark as shipped task failes due to scopes | False | True |
+| jlund  | 2 | [bug 1481203](https://bugzil.la/1481203)        | shipit mark as shipped task failes due to scopes | True | True |
 

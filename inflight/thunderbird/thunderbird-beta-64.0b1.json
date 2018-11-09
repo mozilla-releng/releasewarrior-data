@@ -50,7 +50,7 @@
                     "bug": "1481203",
                     "description": "shipit mark as shipped task failes due to scopes",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
