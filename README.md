@@ -17,6 +17,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Upcoming**
 
+* [Devedition 64.0b9](/upcoming/devedition/devedition-devedition-64.0b9.md)
+
 * [Devedition 65.0b1](/upcoming/devedition/devedition-devedition-65.0b1.md)
 
 * [Firefox 64.0b9](/upcoming/firefox/firefox-beta-64.0b9.md)
