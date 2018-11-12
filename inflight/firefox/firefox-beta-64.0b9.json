@@ -4,7 +4,12 @@
         {
             "aborted": false,
             "buildnum": 1,
-            "graphids": [],
+            "graphids": [
+                [
+                    "promote",
+                    "PhC2feEUTM-Pe6D0dn1HDw"
+                ]
+            ],
             "human_tasks": [
                 {
                     "alias": "shipit",
