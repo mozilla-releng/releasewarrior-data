@@ -12,6 +12,10 @@
                 [
                     "push",
                     "XXrlx_ujT82Y7hhL77ZTaQ"
+                ],
+                [
+                    "ship",
+                    "e-pA0kzsSAKUMYcxVusGhw"
                 ]
             ],
             "human_tasks": [
@@ -31,13 +35,13 @@
                     "alias": "ship",
                     "description": "schedule the release for shipping",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#ship-the-release",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "signoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#obtain-sign-offs-for-changes",
-                    "resolved": false
+                    "resolved": true
                 }
             ],
             "issues": [
