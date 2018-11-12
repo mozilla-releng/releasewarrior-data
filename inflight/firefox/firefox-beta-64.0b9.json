@@ -36,7 +36,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Timeout while cloning hg in l10n repackage task (WVcooLJGTZuVlw951ozaMQ) Clone's ETA peaked around 9hr and task timed out.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         }
     ],
     "preflight": {

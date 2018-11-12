@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=PhC2feEUTM-Pe6D0dn1HDw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Timeout while cloning hg in l10n repackage task (WVcooLJGTZuVlw951ozaMQ) Clone's ETA peaked around 9hr and task timed out. | False | True |
 
