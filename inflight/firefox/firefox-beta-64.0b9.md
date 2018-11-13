@@ -27,5 +27,5 @@ export SHIP_TASK_ID=Nxj8MihoTGafWIzs0t_VPA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug none](https://bugzil.la/none)        | Timeout while cloning hg in l10n repackage task (WVcooLJGTZuVlw951ozaMQ) Clone's ETA peaked around 9hr and task timed out. | False | True |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Timeout while cloning hg in l10n repackage task (WVcooLJGTZuVlw951ozaMQ) Clone's ETA peaked around 9hr and task timed out. | True | True |
 
