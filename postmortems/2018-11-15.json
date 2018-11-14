@@ -1,0 +1,98 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-10-26",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Downloading parameters file failed on initial push script run. Timeouts to cloud mirrors. 2018-10-26 09:30:53,713 - WARNING - Retrying (Retry(total=4, connect=5, read=4, redirect=None, status=None)) after connection broken by 'ReadTimeoutError(\"HTTPSConnectionPool(host='cloud-mirror.taskcluster.net', port=443): Read timed out. (read timeout=5)\",)': /v1/redirect/s3/us-east-1/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Ftaskcluster-public-artifacts%2FeTrXoVR4Q9-332CNuO6tFA%2F0%2Fpublic%2Fparameters.yml",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "sfraser"
+                },
+                {
+                    "bug": "1481203",
+                    "buildnum": 1,
+                    "description": "shipit mark as shipped task failes due to scopes",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "64.0b1"
+        },
+        {
+            "date": "2018-11-08",
+            "future_threats": [
+                {
+                    "bug": "1474156",
+                    "buildnum": 1,
+                    "description": "clamav timed out in a partials task (HEAdG8AJSGqASz8_GMTZcA)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b8"
+        },
+        {
+            "date": "2018-11-08",
+            "future_threats": [
+                {
+                    "bug": "1504353",
+                    "buildnum": 1,
+                    "description": "Repackage-l10n failed with exit code 137 (Z0l8xFrrRRGyXhgRA9z_Eg)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b8"
+        },
+        {
+            "date": "2018-11-09",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "64.0b2"
+        },
+        {
+            "date": "2018-11-12",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Timeout while cloning hg in l10n repackage task (WVcooLJGTZuVlw951ozaMQ) Clone's ETA peaked around 9hr and task timed out.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b9"
+        },
+        {
+            "date": "2018-11-12",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b9"
+        },
+        {
+            "date": "2018-11-12",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b9"
+        }
+    ],
+    "date": "2018-11-15"
+}
