@@ -53,7 +53,7 @@
                     "bug": "none",
                     "description": "hg clone error in NlTnz9hfRm-0nw6nXH2uNw (mac EME-free repackage)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "nthomas"
                 }
             ]
