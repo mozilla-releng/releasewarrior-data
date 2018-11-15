@@ -51,7 +51,7 @@
             "issues": [
                 {
                     "bug": "none",
-                    "description": "hg clone error in NlTnz9hfRm-0nw6nXH2uNw (mac EME-free repackage)",
+                    "description": "hg clone error in NlTnz9hfRm-0nw6nXH2uNw (mac EME-free repackage) and A0fiwGiqRzCRAyOOwUE4Ng (mac yandex repackage)",
                     "future_threat": true,
                     "resolved": true,
                     "who": "nthomas"
