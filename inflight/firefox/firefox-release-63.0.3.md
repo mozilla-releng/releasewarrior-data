@@ -25,5 +25,5 @@ export PROMOTE_TASK_ID=T_T6tbxBSYGIuZUu4dsc7A
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| nthomas  | 1 | [bug none](https://bugzil.la/none)        | hg clone error in NlTnz9hfRm-0nw6nXH2uNw (mac EME-free repackage) | False | True |
 
