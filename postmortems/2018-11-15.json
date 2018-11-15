@@ -92,6 +92,13 @@
             "product": "fennec",
             "resolved": [],
             "version": "64.0b9"
+        },
+        {
+            "date": "2018-11-14",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.3.1"
         }
     ],
     "date": "2018-11-15"
