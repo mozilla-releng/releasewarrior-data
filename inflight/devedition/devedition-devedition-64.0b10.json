@@ -43,6 +43,13 @@
                     "future_threat": true,
                     "resolved": false,
                     "who": "callek"
+                },
+                {
+                    "bug": "1502245",
+                    "description": "Devedition Early Tagging failed, racing to push (dk37EunxQRK3BGNoMcgn6g)",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
                 }
             ]
         }
