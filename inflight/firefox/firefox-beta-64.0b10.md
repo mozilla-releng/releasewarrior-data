@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=J8lhygB1RjGcnbPldnb75Q
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | Clamav timeout again on a partial task (TLo5OH8YSNGtf6sM0jPLqA) | False | True |
 
