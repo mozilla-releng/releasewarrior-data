@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=cY8lFcYuSYeLd5hmHxEqxQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1504353](https://bugzil.la/1504353)        | Repackage-l10n failed with task exit code 137 (cnplLDL4S3C9RZmrgnc7yg) | False | True |
 
