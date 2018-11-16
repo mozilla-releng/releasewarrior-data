@@ -27,5 +27,5 @@ export SHIP_TASK_ID=F-EfVxdYQY6WT-n-RIAw5Q
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | Clamav timeout again on a partial task (TLo5OH8YSNGtf6sM0jPLqA) | False | True |
+| callek  | 1 | [bug 1474156](https://bugzil.la/1474156)        | Clamav timeout again on a partial task (TLo5OH8YSNGtf6sM0jPLqA) | True | True |
 
