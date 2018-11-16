@@ -49,7 +49,7 @@
                     "bug": "1504353",
                     "description": "Repackage-l10n failed with task exit code 137 (cnplLDL4S3C9RZmrgnc7yg)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 },
                 {

@@ -27,6 +27,6 @@ export SHIP_TASK_ID=QcC6q8QGQZKXT3rZrljhhw
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug 1504353](https://bugzil.la/1504353)        | Repackage-l10n failed with task exit code 137 (cnplLDL4S3C9RZmrgnc7yg) | False | True |
+| callek  | 1 | [bug 1504353](https://bugzil.la/1504353)        | Repackage-l10n failed with task exit code 137 (cnplLDL4S3C9RZmrgnc7yg) | True | True |
 | callek  | 2 | [bug 1502245](https://bugzil.la/1502245)        | Devedition Early Tagging failed, racing to push (dk37EunxQRK3BGNoMcgn6g) | False | True |
 
