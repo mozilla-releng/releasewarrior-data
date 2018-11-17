@@ -1,0 +1,61 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-11-14",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "hg clone error in NlTnz9hfRm-0nw6nXH2uNw (mac EME-free repackage) and A0fiwGiqRzCRAyOOwUE4Ng (mac yandex repackage)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "nthomas"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "63.0.3"
+        },
+        {
+            "date": "2018-11-15",
+            "future_threats": [
+                {
+                    "bug": "1474156",
+                    "buildnum": 1,
+                    "description": "Clamav timeout again on a partial task (TLo5OH8YSNGtf6sM0jPLqA)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b10"
+        },
+        {
+            "date": "2018-11-15",
+            "future_threats": [
+                {
+                    "bug": "1504353",
+                    "buildnum": 1,
+                    "description": "Repackage-l10n failed with task exit code 137 (cnplLDL4S3C9RZmrgnc7yg)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1502245",
+                    "buildnum": 1,
+                    "description": "Devedition Early Tagging failed, racing to push (dk37EunxQRK3BGNoMcgn6g)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b10"
+        }
+    ],
+    "date": "2018-11-22"
+}
