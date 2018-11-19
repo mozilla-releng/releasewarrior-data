@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=DuJ5vhHbQPeP9OQLAtVe3A
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Some devedition mac signing jobs failed, suspect overloaded signing servers or network issues (hit network issues tree wide earlier in day) (cVDkY617QhWyUOOBWCB4hA, cWKEv50XQX6vME5OCH1MPQ, UFO1rbGVRlCYuRMJCPPAfA, f4B4ooZuTk-geqqhQhqq6Q, URWVEYTNQaynfBy0LRym9g) | False | True |
 
