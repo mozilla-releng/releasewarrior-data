@@ -7,6 +7,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
+* [Fennec 64.0b11](/inflight/fennec/fennec-beta-64.0b11.md)
+
 **Upcoming**
 
 * [Devedition 64.0b11](/upcoming/devedition/devedition-devedition-64.0b11.md)
