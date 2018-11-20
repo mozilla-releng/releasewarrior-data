@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=X8-rAlI6QBq1QQF_czPilA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | softonic tasks failing missing artifacts, e.g. http://taskcluster/queue/v1/task/N8wl3298RNeNmpGRX_3RQw/artifacts/releng/partner/softonic/softonic/tr/setup.exe https://taskcluster-artifacts.net/VprFpyieTvWUKWZJGQepUA/0/public/logs/live_backing.log | False | True |
 
