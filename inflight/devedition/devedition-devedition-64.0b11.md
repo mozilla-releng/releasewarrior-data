@@ -27,5 +27,5 @@ export SHIP_TASK_ID=TqI-sa4qQo2LUiTqi5jO6A
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug none](https://bugzil.la/none)        | Some devedition mac signing jobs failed, suspect overloaded signing servers or network issues (hit network issues tree wide earlier in day) (cVDkY617QhWyUOOBWCB4hA, cWKEv50XQX6vME5OCH1MPQ, UFO1rbGVRlCYuRMJCPPAfA, f4B4ooZuTk-geqqhQhqq6Q, URWVEYTNQaynfBy0LRym9g) | False | True |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Some devedition mac signing jobs failed, suspect overloaded signing servers or network issues (hit network issues tree wide earlier in day) (cVDkY617QhWyUOOBWCB4hA, cWKEv50XQX6vME5OCH1MPQ, UFO1rbGVRlCYuRMJCPPAfA, f4B4ooZuTk-geqqhQhqq6Q, URWVEYTNQaynfBy0LRym9g) | True | True |
 

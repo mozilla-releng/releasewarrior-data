@@ -49,7 +49,7 @@
                     "bug": "none",
                     "description": "Some devedition mac signing jobs failed, suspect overloaded signing servers or network issues (hit network issues tree wide earlier in day) (cVDkY617QhWyUOOBWCB4hA, cWKEv50XQX6vME5OCH1MPQ, UFO1rbGVRlCYuRMJCPPAfA, f4B4ooZuTk-geqqhQhqq6Q, URWVEYTNQaynfBy0LRym9g)",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
