@@ -55,6 +55,45 @@
             "product": "devedition",
             "resolved": [],
             "version": "64.0b10"
+        },
+        {
+            "date": "2018-11-19",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "softonic tasks failing missing artifacts, e.g. http://taskcluster/queue/v1/task/N8wl3298RNeNmpGRX_3RQw/artifacts/releng/partner/softonic/softonic/tr/setup.exe https://taskcluster-artifacts.net/VprFpyieTvWUKWZJGQepUA/0/public/logs/live_backing.log",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b11"
+        },
+        {
+            "date": "2018-11-19",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "Some devedition mac signing jobs failed, suspect overloaded signing servers or network issues (hit network issues tree wide earlier in day) (cVDkY617QhWyUOOBWCB4hA, cWKEv50XQX6vME5OCH1MPQ, UFO1rbGVRlCYuRMJCPPAfA, f4B4ooZuTk-geqqhQhqq6Q, URWVEYTNQaynfBy0LRym9g)",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b11"
+        },
+        {
+            "date": "2018-11-19",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b11"
         }
     ],
     "date": "2018-11-22"
