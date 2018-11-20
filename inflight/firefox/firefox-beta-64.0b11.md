@@ -27,5 +27,5 @@ export SHIP_TASK_ID=WXj1LiTTQQ26w_C_lY8YEg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | softonic tasks failing missing artifacts, e.g. http://taskcluster/queue/v1/task/N8wl3298RNeNmpGRX_3RQw/artifacts/releng/partner/softonic/softonic/tr/setup.exe https://taskcluster-artifacts.net/VprFpyieTvWUKWZJGQepUA/0/public/logs/live_backing.log | False | True |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | softonic tasks failing missing artifacts, e.g. http://taskcluster/queue/v1/task/N8wl3298RNeNmpGRX_3RQw/artifacts/releng/partner/softonic/softonic/tr/setup.exe https://taskcluster-artifacts.net/VprFpyieTvWUKWZJGQepUA/0/public/logs/live_backing.log | True | True |
 

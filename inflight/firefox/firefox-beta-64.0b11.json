@@ -49,7 +49,7 @@
                     "bug": "none",
                     "description": "softonic tasks failing missing artifacts, e.g. http://taskcluster/queue/v1/task/N8wl3298RNeNmpGRX_3RQw/artifacts/releng/partner/softonic/softonic/tr/setup.exe https://taskcluster-artifacts.net/VprFpyieTvWUKWZJGQepUA/0/public/logs/live_backing.log",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
