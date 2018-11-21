@@ -7,6 +7,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 **Inflight**
 
+* [Thunderbird 64.0b3](/inflight/thunderbird/thunderbird-beta-64.0b3.md)
+
 **Upcoming**
 
 * [Devedition 65.0b1](/upcoming/devedition/devedition-devedition-65.0b1.md)
