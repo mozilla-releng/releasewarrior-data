@@ -23,5 +23,5 @@ export PROMOTE_TASK_ID=USzychG6QQCdkzutn7Ws_w
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| jlund  | 1 | [bug 1502269](https://bugzil.la/1502269)        | nightly l10n docker-worker task exceeded run time. assuming it never downloaded and started the docker image. cancelled+rerun | False | True |
 
