@@ -27,5 +27,5 @@ export SHIP_TASK_ID=DIVx4DIpQF-2bY4c9HiPTg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug 1502269](https://bugzil.la/1502269)        | nightly l10n docker-worker task exceeded run time. assuming it never downloaded and started the docker image. cancelled+rerun | False | True |
+| jlund  | 1 | [bug 1502269](https://bugzil.la/1502269)        | nightly l10n docker-worker task exceeded run time. assuming it never downloaded and started the docker image. cancelled+rerun | True | True |
 

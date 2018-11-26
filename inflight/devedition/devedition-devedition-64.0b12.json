@@ -49,7 +49,7 @@
                     "bug": "1502269",
                     "description": "nightly l10n docker-worker task exceeded run time. assuming it never downloaded and started the docker image. cancelled+rerun",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "jlund"
                 }
             ]
