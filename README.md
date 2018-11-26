@@ -13,6 +13,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 64.0b12](/inflight/firefox/firefox-beta-64.0b12.md)
 
+* [Firefox 64.0b13](/inflight/firefox/firefox-beta-64.0b13.md)
+
 * [Thunderbird 64.0b3](/inflight/thunderbird/thunderbird-beta-64.0b3.md)
 
 **Upcoming**
@@ -21,5 +23,5 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 65.0b1](/upcoming/devedition/devedition-devedition-65.0b1.md)
 
-* [Firefox 64.0b13](/upcoming/firefox/firefox-beta-64.0b13.md)
+* [Fennec 64.0b13](/upcoming/fennec/fennec-beta-64.0b13.md)
 
