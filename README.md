@@ -19,6 +19,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Firefox 64.0b13](/inflight/firefox/firefox-beta-64.0b13.md)
 
+* [Firefox 64.0b14](/inflight/firefox/firefox-beta-64.0b14.md)
+
 * [Thunderbird 64.0b3](/inflight/thunderbird/thunderbird-beta-64.0b3.md)
 
 **Upcoming**
