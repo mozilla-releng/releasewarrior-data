@@ -94,6 +94,71 @@
             "product": "fennec",
             "resolved": [],
             "version": "64.0b11"
+        },
+        {
+            "date": "2018-11-22",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b12"
+        },
+        {
+            "date": "2018-11-22",
+            "future_threats": [
+                {
+                    "bug": "1502269",
+                    "buildnum": 1,
+                    "description": "nightly l10n docker-worker task exceeded run time. assuming it never downloaded and started the docker image. cancelled+rerun",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b12"
+        },
+        {
+            "date": "2018-11-22",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b12"
+        },
+        {
+            "date": "2018-11-26",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b13"
+        },
+        {
+            "date": "2018-11-26",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b13"
+        },
+        {
+            "date": "2018-11-26",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b13"
+        },
+        {
+            "date": "2018-11-28",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0b14"
+        },
+        {
+            "date": "2018-11-28",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "64.0b14"
         }
     ],
     "date": "2018-11-22"
