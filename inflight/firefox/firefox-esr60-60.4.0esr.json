@@ -2,7 +2,7 @@
     "date": "2018-12-03",
     "inflight": [
         {
-            "aborted": false,
+            "aborted": true,
             "buildnum": 1,
             "graphids": [],
             "human_tasks": [
