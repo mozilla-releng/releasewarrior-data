@@ -40,7 +40,7 @@
                 "bug": "1499440",
                 "deadline": "2018-12-03",
                 "description": "Check Ship-it v2 rollout to release branches for the sanity of mark-as-started task. Read bug 1499440 comment 11",
-                "resolved": false
+                "resolved": true
             }
         ]
     },
