@@ -9,6 +9,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 65.0b1](/inflight/devedition/devedition-devedition-65.0b1.md)
 
+* [Firefox 60.4.0esr](/inflight/firefox/firefox-esr60-60.4.0esr.md)
+
 * [Thunderbird 60.3.2](/inflight/thunderbird/thunderbird-release-60.3.2.md)
 
 * [Thunderbird 64.0b3](/inflight/thunderbird/thunderbird-beta-64.0b3.md)
