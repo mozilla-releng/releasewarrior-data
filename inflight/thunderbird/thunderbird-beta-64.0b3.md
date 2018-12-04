@@ -10,9 +10,11 @@
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/a3ToSGfTTiud3uN1VuwKQA) a3ToSGfTTiud3uN1VuwKQA
 * [push](https://tools.taskcluster.net/push-inspector/#/fTTkoM0uTc6EnM-Kh5tk1w) fTTkoM0uTc6EnM-Kh5tk1w
+* [ship](https://tools.taskcluster.net/push-inspector/#/ZQpFBwGNQPiP5V9E2AkmJw) ZQpFBwGNQPiP5V9E2AkmJw
 ```
 export PROMOTE_TASK_ID=a3ToSGfTTiud3uN1VuwKQA
 export PUSH_TASK_ID=fTTkoM0uTc6EnM-Kh5tk1w
+export SHIP_TASK_ID=ZQpFBwGNQPiP5V9E2AkmJw
 ```
 
 
