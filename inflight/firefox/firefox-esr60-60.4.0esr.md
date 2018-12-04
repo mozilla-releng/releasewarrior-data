@@ -8,9 +8,10 @@
 ## Build 2  
 
 ### Graphs
+* [promote](https://tools.taskcluster.net/push-inspector/#/LyJAxMeaRFid175eXWGdBw) LyJAxMeaRFid175eXWGdBw
 ```
+export PROMOTE_TASK_ID=LyJAxMeaRFid175eXWGdBw
 ```
-task graph url: unknown
 
 
 #### Status
