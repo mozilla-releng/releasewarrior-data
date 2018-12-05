@@ -17,6 +17,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Thunderbird 60.3.2](/inflight/thunderbird/thunderbird-release-60.3.2.md)
 
+* [Thunderbird 60.3.3](/inflight/thunderbird/thunderbird-release-60.3.3.md)
+
 * [Thunderbird 64.0b3](/inflight/thunderbird/thunderbird-beta-64.0b3.md)
 
 * [Thunderbird 64.0b4](/inflight/thunderbird/thunderbird-beta-64.0b4.md)
