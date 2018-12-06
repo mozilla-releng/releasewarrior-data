@@ -18,12 +18,6 @@
                     "resolved": true
                 },
                 {
-                    "alias": "wnp",
-                    "description": "setup whatsnew page",
-                    "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#wnp",
-                    "resolved": false
-                },
-                {
                     "alias": "ship-rc",
                     "description": "ship in Balrog on beta channel",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship-rc",
