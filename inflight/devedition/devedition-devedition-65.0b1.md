@@ -31,8 +31,10 @@ export PUSH_TASK_ID=FTfKrreNQkm_PsJG4IrcdA
 
 ### Graphs
 * [promote](https://tools.taskcluster.net/push-inspector/#/VD8UomoUQe6NtGib8JETUg) VD8UomoUQe6NtGib8JETUg
+* [ship](https://tools.taskcluster.net/push-inspector/#/bQfG0zxLQOqXZoOUbdTXqw) bQfG0zxLQOqXZoOUbdTXqw
 ```
 export PROMOTE_TASK_ID=VD8UomoUQe6NtGib8JETUg
+export SHIP_TASK_ID=bQfG0zxLQOqXZoOUbdTXqw
 ```
 
 
