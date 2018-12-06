@@ -48,8 +48,8 @@
                 {
                     "bug": "1511924",
                     "description": "BouncerCheck failed due to MSI configuration issue (bouncer pointing at wrong location)",
-                    "future_threat": true,
-                    "resolved": false,
+                    "future_threat": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
