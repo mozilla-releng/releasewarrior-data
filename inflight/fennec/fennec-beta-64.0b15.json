@@ -29,8 +29,7 @@
         {
             "aborted": true,
             "buildnum": 1,
-            "graphids": [
-            ],
+            "graphids": [],
             "human_tasks": [
                 {
                     "alias": "shipit",
