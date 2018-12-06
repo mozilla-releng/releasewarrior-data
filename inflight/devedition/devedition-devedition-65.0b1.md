@@ -27,7 +27,7 @@ export SHIP_TASK_ID=EyF-h6_eQnmEt2EKwoDDYA
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1511924](https://bugzil.la/1511924)        | BouncerCheck failed due to MSI configuration issue (bouncer pointing at wrong location) | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
