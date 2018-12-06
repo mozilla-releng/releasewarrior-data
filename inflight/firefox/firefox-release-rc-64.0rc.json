@@ -25,13 +25,13 @@
                     "alias": "ship-rc",
                     "description": "ship in Balrog on beta channel",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#ship-rc",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "betasignoff",
                     "description": "signoff in Balrog",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto-rc.md#obtain-sign-offs-for-changes",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "mirrors",
