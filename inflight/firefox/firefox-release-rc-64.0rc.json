@@ -64,7 +64,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "none",
+                    "description": "Partner Repack job for windows failed, without a good idea on why (Pw1Emrr0QnKuUnVispKJmg) reran",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "callek"
+                }
+            ]
         },
         {
             "aborted": true,
