@@ -69,7 +69,7 @@
                     "bug": "1512733",
                     "description": "Partner repack signing job (YSTD4UBcQgOzctUt4ObBKw) failed due to CoT, which was ultimately from not being able to find a missing artifact from a successful repack job (WxeF9Z_eTYyN5yE8VSL3nQ) - See also Bug 1512732",
                     "future_threat": true,
-                    "resolved": false,
+                    "resolved": true,
                     "who": "callek"
                 }
             ]
