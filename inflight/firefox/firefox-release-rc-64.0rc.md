@@ -29,7 +29,7 @@ export SHIP_RC_TASK_ID=cnV9dS3nQZ-NGfLZPDPLBg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| callek  | 1 | [bug 1512733](https://bugzil.la/1512733)        | Partner repack signing job (YSTD4UBcQgOzctUt4ObBKw) failed due to CoT, which was ultimately from not being able to find a missing artifact from a successful repack job (WxeF9Z_eTYyN5yE8VSL3nQ) - See also Bug 1512732 | False | True |
 
 ## Build 1  :bomb: _aborted release. starting new build num_ :bomb: 
 
