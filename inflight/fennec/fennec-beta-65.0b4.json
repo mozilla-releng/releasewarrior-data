@@ -24,7 +24,15 @@
                     "resolved": false
                 }
             ],
-            "issues": []
+            "issues": [
+                {
+                    "bug": "1513564",
+                    "description": "Google API rejects apk as being invalid. Most likely due to Autograph signing changes that have rolled-out recently.",
+                    "future_threat": true,
+                    "resolved": false,
+                    "who": "mtabara"
+                }
+            ]
         }
     ],
     "preflight": {

@@ -21,5 +21,5 @@ export PROMOTE_TASK_ID=PdRoXaUNRcO6MgPH4P7fww
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| none | | | | | |
+| mtabara  | 1 | [bug 1513564](https://bugzil.la/1513564)        | Google API rejects apk as being invalid. Most likely due to Autograph signing changes that have rolled-out recently. | False | True |
 
