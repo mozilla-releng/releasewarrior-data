@@ -13,6 +13,8 @@ Please modify this data with [Releasewarrior](https://github.com/mozilla-releng/
 
 * [Devedition 65.0b3](/inflight/devedition/devedition-devedition-65.0b3.md)
 
+* [Devedition 65.0b4](/inflight/devedition/devedition-devedition-65.0b4.md)
+
 * [Fennec 64.0b15](/inflight/fennec/fennec-beta-64.0b15.md)
 
 * [Fennec 65.0b3](/inflight/fennec/fennec-beta-65.0b3.md)
