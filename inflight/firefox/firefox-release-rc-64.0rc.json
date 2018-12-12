@@ -55,7 +55,7 @@
                     "alias": "electionedition",
                     "description": "bump the firefox-election-edition bouncer locations",
                     "docs": "https://github.com/mozilla-releng/releasewarrior-2.0/blob/master/docs/release-promotion/desktop/howto.md#bump-the-election-edition-bouncer-entries",
-                    "resolved": false
+                    "resolved": true
                 },
                 {
                     "alias": "signoff",
