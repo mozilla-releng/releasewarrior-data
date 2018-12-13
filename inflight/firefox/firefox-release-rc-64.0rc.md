@@ -29,7 +29,7 @@ export SHIP_RC_TASK_ID=HMHb_s4NTFuQtQOaB_U8RQ
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| callek  | 1 | [bug none](https://bugzil.la/none)        | Partner Repack job for windows failed, without a good idea on why (Pw1Emrr0QnKuUnVispKJmg) reran | False | True |
+| callek  | 1 | [bug none](https://bugzil.la/none)        | Partner Repack job for windows failed, without a good idea on why (Pw1Emrr0QnKuUnVispKJmg) reran | True | True |
 
 ## Build 2  :bomb: _aborted release. starting new build num_ :bomb: 
 
