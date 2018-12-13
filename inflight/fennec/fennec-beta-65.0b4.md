@@ -23,5 +23,5 @@ export SHIP_TASK_ID=fZ3gWHNWSruj_SCbNAqfEg
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| mtabara  | 1 | [bug 1513564](https://bugzil.la/1513564)        | Google API rejects apk as being invalid. Most likely due to Autograph signing changes that have rolled-out recently. | False | True |
+| mtabara  | 1 | [bug 1513564](https://bugzil.la/1513564)        | Google API rejects apk as being invalid. Most likely due to Autograph signing changes that have rolled-out recently. | True | True |
 
