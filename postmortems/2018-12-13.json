@@ -1,0 +1,131 @@
+{
+    "complete_releases": [
+        {
+            "date": "2018-10-18",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [
+                {
+                    "bug": "1511924",
+                    "buildnum": 2,
+                    "description": "BouncerCheck failed due to MSI configuration issue (bouncer pointing at wrong location)",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "version": "65.0b1"
+        },
+        {
+            "date": "2018-11-21",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "64.0b3"
+        },
+        {
+            "date": "2018-11-29",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.3.2"
+        },
+        {
+            "date": "2018-12-03",
+            "future_threats": [
+                {
+                    "bug": "none",
+                    "buildnum": 3,
+                    "description": "Partner Repack job for windows failed, without a good idea on why (Pw1Emrr0QnKuUnVispKJmg) reran",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                },
+                {
+                    "bug": "1512733",
+                    "buildnum": 2,
+                    "description": "Partner repack signing job (YSTD4UBcQgOzctUt4ObBKw) failed due to CoT, which was ultimately from not being able to find a missing artifact from a successful repack job (WxeF9Z_eTYyN5yE8VSL3nQ) - See also Bug 1512732",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "callek"
+                }
+            ],
+            "product": "firefox",
+            "resolved": [],
+            "version": "64.0rc"
+        },
+        {
+            "date": "2018-12-03",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "60.4.0esr"
+        },
+        {
+            "date": "2018-12-03",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [],
+            "version": "64.0b15"
+        },
+        {
+            "date": "2018-12-05",
+            "future_threats": [],
+            "product": "thunderbird",
+            "resolved": [],
+            "version": "60.3.3"
+        },
+        {
+            "date": "2018-12-06",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "65.0b2"
+        },
+        {
+            "date": "2018-12-10",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "65.0b3"
+        },
+        {
+            "date": "2018-12-10",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "65.0b3"
+        },
+        {
+            "date": "2018-12-11",
+            "future_threats": [],
+            "product": "firefox",
+            "resolved": [],
+            "version": "65.0b4"
+        },
+        {
+            "date": "2018-12-11",
+            "future_threats": [],
+            "product": "devedition",
+            "resolved": [],
+            "version": "65.0b4"
+        },
+        {
+            "date": "2018-12-11",
+            "future_threats": [
+                {
+                    "bug": "1513564",
+                    "buildnum": 1,
+                    "description": "Google API rejects apk as being invalid. Most likely due to Autograph signing changes that have rolled-out recently.",
+                    "future_threat": true,
+                    "resolved": true,
+                    "who": "mtabara"
+                }
+            ],
+            "product": "fennec",
+            "resolved": [],
+            "version": "65.0b4"
+        }
+    ],
+    "date": "2018-12-13"
+}
