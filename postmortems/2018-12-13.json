@@ -97,6 +97,22 @@
             "version": "65.0b3"
         },
         {
+            "date": "2018-12-10",
+            "future_threats": [],
+            "product": "fennec",
+            "resolved": [
+                {
+                    "bug": "none",
+                    "buildnum": 1,
+                    "description": "fennec is blocked by product bug. nalexander is still working on it, but there may not be a gtb today still for fennec",
+                    "future_threat": false,
+                    "resolved": true,
+                    "who": "jlund"
+                }
+            ],
+            "version": "65.0b3"
+        },
+        {
             "date": "2018-12-11",
             "future_threats": [],
             "product": "firefox",
