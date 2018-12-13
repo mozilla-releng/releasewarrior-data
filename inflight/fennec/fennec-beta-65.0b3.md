@@ -20,5 +20,5 @@ task graph url: unknown
 ### Issues
 | Who                 | ID               | Bug                                                                 | Description                | Resolved                | Future Threat                |
 | ------------------- | ---------------- | ------------------------------------------------------------------- | -------------------------- | ----------------------- | ---------------------------- |
-| jlund  | 1 | [bug none](https://bugzil.la/none)        | fennec is blocked by product bug. nalexander is still working on it, but there may not be a gtb today still for fennec | False | True |
+| jlund  | 1 | [bug none](https://bugzil.la/none)        | fennec is blocked by product bug. nalexander is still working on it, but there may not be a gtb today still for fennec | True | False |
 
